@@ -1,0 +1,98 @@
+@media (max-width: 768px) {
+  .navbar {
+    backdrop-filter: blur(20px);
+  }
+
+  .nav-link {
+    font-size: 14px;
+    margin: 10px auto;
+  }
+
+  .header-content h1 {
+    font-size: 2rem;
+  }
+
+  .header-content .typed-text {
+    font-size: 1rem;
+  }
+
+  .header-content .btn {
+    padding: 10px 30px;
+    font-size: 1rem;
+  }
+
+  .search-bar input {
+    width: 80%;
+    margin-bottom: 10px;
+  }
+
+  .timeline::after {
+    left: 31px;
+  }
+
+  .timeline-item {
+    width: 100%;
+    padding-left: 70px;
+    padding-right: 25px;
+  }
+
+  .timeline-item:nth-child(even) {
+    left: 0;
+  }
+
+  .timeline-item::after {
+    left: 15px;
+  }
+
+  .bord-paper .col,
+  .coll-paper .col {
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+
+  .course-headings {
+    font-size: 24px;
+  }
+
+  .card-icon i {
+    font-size: 20px;
+  }
+
+  .flip-card-head {
+    font-size: 18px;
+  }
+
+  .flip-card-subhead {
+    font-size: 14px;
+  }
+
+  .flip-card-text {
+    font-size: 10px;
+  }
+
+  .flip-card-tick,
+  .flip-card-link {
+    font-size: 12px;
+  }
+
+  .hero-text h2,
+  .sample-questions h2,
+  .board-papers h2,
+  .college-papers h2,
+  .about-section h2,
+  .feedback-section h2 {
+    font-size: 24px;
+  }
+
+  .hero-text p {
+    font-size: 16px;
+  }
+
+  .hero-text h3 {
+    font-size: 18px;
+  }
+
+  .footer-brand-logo {
+    height: 50px;
+  }
+}
