@@ -1,0 +1,768 @@
+{
+    
+    "mcq": [
+      {
+        "question": "1. What is boxing in VB.NET?",
+        "options": [
+          "a) Declaring a variable",
+          "b) Creating a new array",
+          "c) Converting a value type to a reference type",
+          "d) Converting a reference type to a value type"
+        ],
+        "correctAnswer": "c",
+        "id": "net-1",
+        "isImportant": false
+      },
+      {
+        "question": "2. What executes unmanaged code?",
+        "options": [
+          "a) Common Language Runtime (CLR)",
+          "b) .NET Framework",
+          "c) Garbage Collector",
+          "d) Operating System"
+        ],
+        "correctAnswer": "d",
+        "id": "net-2",
+        "isImportant": false
+      },
+      {
+        "question": "3. What does the Filter property of OpenFileDialog do?",
+        "options": [
+          "a) Changes the dialog title",
+          "b) Limits displayed file types",
+          "c) Enables multi-file selection",
+          "d) Sets the file save location"
+        ],
+        "correctAnswer": "b",
+        "id": "net-3",
+        "isImportant": false
+      },
+      {
+        "question": "4. How does an Array differ from a Collection in VB.NET?",
+        "options": [
+          "a) Arrays store multiple types, Collections store one type",
+          "b) Arrays are slower than Collections",
+          "c) Arrays are dynamic, Collections are fixed",
+          "d) Arrays have a fixed size, Collections are dynamic"
+        ],
+        "correctAnswer": "d",
+        "id": "net-4",
+        "isImportant": false
+      },
+      {
+        "question": "5. Which statement resizes an array while preserving its values in VB.NET?",
+        "options": [
+          "a) Dim",
+          "b) Resize",
+          "c) ReDim",
+          "d) ReDim Preserve"
+        ],
+        "correctAnswer": "d",
+        "id": "net-5",
+        "isImportant": false
+      },
+      {
+        "question": "6. Which ListBox method adds an item at a specific index?",
+        "options": [
+          "a) Append()",
+          "b) Insert()",
+          "c) Add()",
+          "d) Push()"
+        ],
+        "correctAnswer": "b",
+        "id": "net-6",
+        "isImportant": false
+      },
+      {
+        "question": "7. Which dialog control is used to select a folder in VB.NET?",
+        "options": [
+          "a) SaveFileDialog",
+          "b) OpenFileDialog",
+          "c) ColorDialog",
+          "d) FolderBrowserDialog"
+        ],
+        "correctAnswer": "d",
+        "id": "net-7",
+        "isImportant": false
+      },
+      {
+        "question": "8. What does Option Explicit enforce in VB.NET?",
+        "options": [
+          "a) Variable declaration before use",
+          "b) Code optimization",
+          "c) Method overloading",
+          "d) Exception handling"
+        ],
+        "correctAnswer": "a",
+        "id": "net-8",
+        "isImportant": false
+      },
+      {
+        "question": "9. What does the MustInherit keyword define in VB.NET?",
+        "options": [
+          "a) A static class",
+          "b) An interface",
+          "c) An abstract class",
+          "d) A sealed class"
+        ],
+        "correctAnswer": "c",
+        "id": "net-9",
+        "isImportant": false
+      },
+      {
+        "question": "10. What is the purpose of the CType() function in VB.NET?",
+        "options": [
+          "a) To resize arrays",
+          "b) To convert data types",
+          "c) To handle exceptions",
+          "d) To declare variables"
+        ],
+        "correctAnswer": "b",
+        "id": "net-10",
+        "isImportant": false
+      },
+      {
+        "question": "11. What is the key difference between Dim and ReDim in VB.NET?",
+        "options": [
+          "a) Dim is for strings, ReDim is for numbers",
+          "b) Dim declares, ReDim resizes",
+          "c) Dim resizes, ReDim declares",
+          "d) Dim is static, ReDim is dynamic"
+        ],
+        "correctAnswer": "b",
+        "id": "net-11",
+        "isImportant": false
+      },
+      {
+        "question": "12. What is the purpose of a Namespace in VB.NET?",
+        "options": [
+          "a) To execute code",
+          "b) To handle exceptions",
+          "c) To manage memory",
+          "d) To avoid name conflicts"
+        ],
+        "correctAnswer": "d",
+        "id": "net-12",
+        "isImportant": false
+      },
+      {
+        "question": "13. What happens in Pass by Value in VB.NET?",
+        "options": [
+          "a) A reference is passed",
+          "b) Memory usage decreases",
+          "c) Original value is modified",
+          "d) A copy of the value is passed"
+        ],
+        "correctAnswer": "d",
+        "id": "net-13",
+        "isImportant": false
+      },
+      {
+        "question": "14. What drives Event-Driven Programming in VB.NET?",
+        "options": [
+          "a) Conditional statements",
+          "b) Loops",
+          "c) Events",
+          "d) Arrays"
+        ],
+        "correctAnswer": "c",
+        "id": "net-14",
+        "isImportant": false
+      },
+      {
+        "question": "15. How are default arguments specified in VB.NET?",
+        "options": [
+          "a) Using Static keyword",
+          "b) Using Required keyword",
+          "c) Using Optional keyword",
+          "d) Using Default keyword"
+        ],
+        "correctAnswer": "c",
+        "id": "net-15",
+        "isImportant": false
+      },
+      {
+        "question": "16. What does Metadata describe in VB.NET?",
+        "options": [
+          "a) Hardware details",
+          "b) Network status",
+          "c) User input",
+          "d) Other data"
+        ],
+        "correctAnswer": "d",
+        "id": "net-16",
+        "isImportant": false
+      },
+      {
+        "question": "17. Where are Shared Assemblies stored in .NET?",
+        "options": [
+          "a) Local disk",
+          "b) Global Assembly Cache (GAC)",
+          "c) Application directory",
+          "d) Temporary folder"
+        ],
+        "correctAnswer": "b",
+        "id": "net-17",
+        "isImportant": false
+      },
+      {
+        "question": "18. Which method preserves array values during resizing in VB.NET?",
+        "options": [
+          "a) Dim Preserve",
+          "b) ReDim Preserve",
+          "c) ReDim",
+          "d) Resize Preserve"
+        ],
+        "correctAnswer": "b",
+        "id": "net-18",
+        "isImportant": false
+      },
+      {
+        "question": "19. Which keyboard event occurs when a key is released in VB.NET?",
+        "options": [
+          "a) KeyPress",
+          "b) KeyDown",
+          "c) KeyHold",
+          "d) KeyUp"
+        ],
+        "correctAnswer": "d",
+        "id": "net-19",
+        "isImportant": false
+      },
+      {
+        "question": "20. What is the execution engine of the .NET Framework?",
+        "options": [
+          "a) ASP.NET",
+          "b) CLR",
+          "c) FCL",
+          "d) ADO.NET"
+        ],
+        "correctAnswer": "b",
+        "id": "net-20",
+        "isImportant": false
+      },
+      {
+        "question": "21. Which VB.NET loop repeats until a condition is true?",
+        "options": [
+          "a) While",
+          "b) Do Until",
+          "c) For",
+          "d) Do While"
+        ],
+        "correctAnswer": "b",
+        "id": "net-21",
+        "isImportant": false
+      },
+      {
+        "question": "22. What does the CLR use to convert IL code to machine code?",
+        "options": [
+          "a) Exception Handling",
+          "b) Security Checks",
+          "c) JIT Compilation",
+          "d) Garbage Collection"
+        ],
+        "correctAnswer": "c",
+        "id": "net-22",
+        "isImportant": false
+      },
+      {
+        "question": "23. Which control creates a dropdown menu in VB.NET?",
+        "options": [
+          "a) ToolStrip",
+          "b) StatusStrip",
+          "c) MenuStrip",
+          "d) ContextMenuStrip"
+        ],
+        "correctAnswer": "c",
+        "id": "net-23",
+        "isImportant": false
+      },
+      {
+        "question": "24. Which block always executes in VB.NET exception handling?",
+        "options": [
+          "a) Catch",
+          "b) Finally",
+          "c) Try",
+          "d) Throw"
+        ],
+        "correctAnswer": "b",
+        "id": "net-24",
+        "isImportant": false
+      },
+      {
+        "question": "25. What is a delegate in VB.NET?",
+        "options": [
+          "a) An exception handler",
+          "b) A loop structure",
+          "c) A type-safe function pointer",
+          "d) A variable type"
+        ],
+        "correctAnswer": "c",
+        "id": "net-25",
+        "isImportant": false
+      },
+      {
+        "question": "26. What does multithreading improve in VB.NET?",
+        "options": [
+          "a) Code readability",
+          "b) Application performance",
+          "c) Memory usage",
+          "d) Error handling"
+        ],
+        "correctAnswer": "b",
+        "id": "net-26",
+        "isImportant": false
+      },
+      {
+        "question": "27. What syntax does LINQ use in VB.NET?",
+        "options": [
+          "a) Try...Catch",
+          "b) For...Next",
+          "c) From...Where...Select",
+          "d) If...Then...Else"
+        ],
+        "correctAnswer": "c",
+        "id": "net-27",
+        "isImportant": false
+      },
+      {
+        "question": "28. What keyword defines a generic type in VB.NET?",
+        "options": [
+          "a) Type",
+          "b) Generic",
+          "c) Of",
+          "d) As"
+        ],
+        "correctAnswer": "c",
+        "id": "net-28",
+        "isImportant": false
+      },
+      {
+        "question": "29. What namespace is used for Reflection in VB.NET?",
+        "options": [
+          "a) System.IO",
+          "b) System.Reflection",
+          "c) System.Threading",
+          "d) System.Data"
+        ],
+        "correctAnswer": "b",
+        "id": "net-29",
+        "isImportant": false
+      },
+      {
+        "question": "30. Which class is used for binary serialization in VB.NET?",
+        "options": [
+          "a) StreamWriter",
+          "b) FileStream",
+          "c) BinaryFormatter",
+          "d) XmlSerializer"
+        ],
+        "correctAnswer": "c",
+        "id": "net-30",
+        "isImportant": false
+      },
+      {
+        "question": "31. What is a DataSet in ADO.NET?",
+        "options": [
+          "a) A SQL query",
+          "b) An in-memory data representation",
+          "c) A database connection",
+          "d) A data provider"
+        ],
+        "correctAnswer": "b",
+        "id": "net-31",
+        "isImportant": false
+      },
+      {
+        "question": "32. Which access modifier allows access within the same assembly?",
+        "options": [
+          "a) Protected",
+          "b) Private",
+          "c) Public",
+          "d) Friend"
+        ],
+        "correctAnswer": "d",
+        "id": "net-32",
+        "isImportant": false
+      },
+      {
+        "question": "33. Which ComboBox property gets the selected item?",
+        "options": [
+          "a) Text",
+          "b) SelectedItem",
+          "c) Items",
+          "d) SelectedIndex"
+        ],
+        "correctAnswer": "b",
+        "id": "net-33",
+        "isImportant": false
+      },
+      {
+        "question": "34. Which VB.NET string function converts[text truncated] text to uppercase?",
+        "options": [
+          "a) Mid()",
+          "b) LCase()",
+          "c) Len()",
+          "d) UCase()"
+        ],
+        "correctAnswer": "d",
+        "id": "net-34",
+        "isImportant": false
+      },
+      {
+        "question": "35. Which TreeView property manages its nodes?",
+        "options": [
+          "a) ShowLines",
+          "b) CheckBoxes",
+          "c) Nodes",
+          "d) SelectedNode"
+        ],
+        "correctAnswer": "c",
+        "id": "net-35",
+        "isImportant": false
+      },
+      {
+        "question": "36. Which VB.NET data type stores true/false values?",
+        "options": [
+          "a) Double",
+          "b) Boolean",
+          "c) Integer",
+          "d) String"
+        ],
+        "correctAnswer": "b",
+        "id": "net-36",
+        "isImportant": false
+      },
+      {
+        "question": "37. What does InputBox do in VB.NET?",
+        "options": [
+          "a) Shows a dialog box",
+          "b) Takes user input",
+          "c) Displays a message",
+          "d) Closes the application"
+        ],
+        "correctAnswer": "b",
+        "id": "net-37",
+        "isImportant": false
+      },
+      {
+        "question": "38. What converts code to machine language in the .NET Framework?",
+        "options": [
+          "a) FCL",
+          "b) ASP.NET",
+          "c) CLR",
+          "d) ADO.NET"
+        ],
+        "correctAnswer": "c",
+        "id": "net-38",
+        "isImportant": false
+      },
+      {
+        "question": "39. Which OOP concept hides implementation details in .NET?",
+        "options": [
+          "a) Polymorphism",
+          "b) Encapsulation",
+          "c) Abstraction",
+          "d) Inheritance"
+        ],
+        "correctAnswer": "c",
+        "id": "net-39",
+        "isImportant": false
+      },
+      {
+        "question": "40. What ADO.NET component bridges DataSet and database?",
+        "options": [
+          "a) DataReader",
+          "b) Command",
+          "c) Connection",
+          "d) DataAdapter"
+        ],
+        "correctAnswer": "d",
+        "id": "net-40",
+        "isImportant": false
+      },
+      {
+        "question": "41. Which FontDialog property sets the selected font?",
+        "options": [
+          "a) ShowColor",
+          "b) Font",
+          "c) Reset",
+          "d) ShowApply"
+        ],
+        "correctAnswer": "b",
+        "id": "net-41",
+        "isImportant": false
+      },
+      {
+        "question": "42. What does 'On Error Resume Next' do in VB.NET?",
+        "options": [
+          "a) Jumps to a label",
+          "b) Throws an exception",
+          "c) Stops execution",
+          "d) Ignores errors and continues"
+        ],
+        "correctAnswer": "d",
+        "id": "net-42",
+        "isImportant": false
+      }
+    ]
+  ,
+  
+    "onemarks": [
+      {
+        "question": "1. What is boxing in VB.NET?",
+        "answer": "Boxing is the process of converting a value type (e.g., Integer, Double) into a reference type (Object) in VB.NET. This allows value types to be treated as objects, enabling them to be used in scenarios requiring reference types.",
+        "code": "Dim value As Integer = 42\nDim boxedValue As Object = value\nDim unboxedValue As Integer = CType(boxedValue, Integer)",
+        "isImportant": false
+      },
+      {
+        "question": "2. What is unmanaged code?",
+        "answer": "Unmanaged code refers to code that is executed directly by the operating system, outside the control of the .NET Framework's runtime (CLR). It is typically written in languages like C or C++ and relies on manual memory management and platform-specific APIs. Unlike managed code, it does not benefit from automatic memory management, garbage collection, or type safety provided by the CLR.",
+        "code": "#include <iostream>\nusing namespace std;\nint main() {\n    cout << \"Hello, unmanaged world!\" << endl;\n    return 0;\n}",
+        "isImportant": false
+      },
+      {
+        "question": "3. What is the use of the Filter property of the OpenFileDialog control?",
+        "answer": "The Filter property of the OpenFileDialog control specifies the file types that the dialog box will display. It allows developers to limit the file selection by setting a specific filter string. This enhances usability by showing only relevant files to the user.",
+        "code": "Dim openFileDialog As New OpenFileDialog\nopenFileDialog.Filter = \"Text Files (*.txt)|*.txt|All Files (*.*)|*.*\"\nIf openFileDialog.ShowDialog() = DialogResult.OK Then\n    MessageBox.Show(\"Selected File: \" & openFileDialog.FileName)\nEnd If",
+        "isImportant": false
+      },
+      {
+        "question": "4. What is the difference between an Array and a Collection in VB.NET?",
+        "answer": "An Array and a Collection are used to store groups of items in VB.NET, but they differ in terms of features and usage:",
+        "code": "Dim arr(4) As Integer\narr(0) = 10\narr(1) = 20\nDim list As New ArrayList()\nlist.Add(10)\nlist.Add(\"Hello\")",
+        "isImportant": false
+      },
+      {
+        "question": "5. How to resize an Array in VB.NET?",
+        "answer": "To resize an array in VB.NET, you can use the ReDim statement. This statement can change the size of an array dynamically at runtime. If you want to preserve the existing elements while resizing, you can use ReDim Preserve.",
+        "code": "Dim arr() As Integer = {1, 2, 3}\nReDim arr(5)\nDim arr() As Integer = {1, 2, 3}\nReDim Preserve arr(5)",
+        "isImportant": false
+      },
+      {
+        "question": "6. Explain Add and Insert methods of ListBox in VB.NET.",
+        "answer": "The Add and Insert methods of the ListBox control in VB.NET are used to add items to the ListBox. While both methods add items, they differ in functionality and use cases:",
+        "code": "Dim listBox1 As New ListBox()\nlistBox1.Items.Add(\"Item1\")\nlistBox1.Items.Insert(0, \"NewItem\")",
+        "isImportant": false
+      },
+      {
+        "question": "7. List various dialog controls in VB.NET.",
+        "answer": "VB.NET provides several dialog controls that allow interaction with users for specific tasks, such as file selection, color picking, and printing. These include:",
+        "code": "Dim openFileDialog As New OpenFileDialog\nopenFileDialog.Filter = \"Text Files (*.txt)|*.txt|All Files (*.*)|*.*\"\nIf openFileDialog.ShowDialog() = DialogResult.OK Then\n    MessageBox.Show(\"Selected File: \" & openFileDialog.FileName)\nEnd If\nDim saveFileDialog As New SaveFileDialog\nsaveFileDialog.Filter = \"Text Files (*.txt)|*.txt\"\nIf saveFileDialog.ShowDialog() = DialogResult.OK Then\n    MessageBox.Show(\"File saved as: \" & saveFileDialog.FileName)\nEnd If\nDim folderBrowserDialog As New FolderBrowserDialog\nIf folderBrowserDialog.ShowDialog() = DialogResult.OK Then\n    MessageBox.Show(\"Selected Folder: \" & folderBrowserDialog.SelectedPath)\nEnd If\nDim colorDialog As New ColorDialog\nIf colorDialog.ShowDialog() = DialogResult.OK Then\n    MessageBox.Show(\"Selected Color: \" & colorDialog.Color.ToString())\nEnd If\nDim fontDialog As New FontDialog\nIf fontDialog.ShowDialog() = DialogResult.OK Then\n    MessageBox.Show(\"Selected Font: \" & fontDialog.Font.Name)\nEnd If\nDim printDialog As New PrintDialog\nIf printDialog.ShowDialog() = DialogResult.OK Then\n    MessageBox.Show(\"Print job initiated.\")\nEnd If",
+        "isImportant": false
+      },
+      {
+        "question": "8. What is the use of Option Explicit in VB.NET?",
+        "answer": "Option Explicit is a directive in VB.NET that forces the programmer to declare all variables explicitly before using them. When enabled, it prevents the use of undeclared variables, reducing errors caused by typos or unintended variable creation. This makes the code easier to debug and maintain.",
+        "code": "Option Explicit On\nDim num As Integer\nnum = 10\nDim result As Integer = num * 2\nx = 5",
+        "isImportant": false
+      },
+      {
+        "question": "9. What is the use of the MustInherit keyword in VB.NET?",
+        "answer": "The MustInherit keyword in VB.NET is used to define an abstract class. An abstract class serves as a base class and cannot be instantiated directly. It is designed to provide a blueprint for derived classes, which must implement all the abstract members defined in the base class. This ensures a consistent implementation across all derived classes.",
+        "code": "MustInherit Class Shape\n    Public MustOverride Function GetArea() As Double\nEnd Class\nClass Circle\n    Inherits Shape\n    Private radius As Double\n    Public Sub New(r As Double)\n        radius = r\n    End Sub\n    Public Overrides Function GetArea() As Double\n        Return Math.PI * radius * radius\n    End Function\nEnd Class\nDim myCircle As New Circle(5)\nMessageBox.Show(\"Area: \" & myCircle.GetArea())",
+        "isImportant": false
+      },
+      {
+        "question": "10. Explain CType() function in VB.NET.",
+        "answer": "The CType() function in VB.NET is used to explicitly convert an expression from one data type to another. It supports all types of conversions, including value types to reference types and vice versa. If the conversion is invalid, it throws an InvalidCastException.",
+        "code": "Dim number As Integer = 42\nDim strNumber As String\nstrNumber = CType(number, String)\nDim obj As Object = \"Hello\"\nDim num As Integer\nnum = CType(obj, Integer)",
+        "isImportant": false
+      },
+      {
+        "question": "11. What do you mean by 'ReDim' keyword? How does it differ from 'Dim'?",
+        "answer": "ReDim and Dim are used in VB.NET for declaring and resizing arrays.\n\n○ Dim Keyword:\n  ○ Dim is used to declare variables and arrays in VB.NET.\n  ○ Arrays declared with Dim have a fixed size and cannot be resized.\n  ○ Example:\n",
+        "code": "Dim arr(3) As Integer\narr(0) = 10\narr(1) = 20\narr(2) = 30\narr(3) = 40",
+        "isImportant": false
+      },
+      {
+        "question": "12. Discuss: Namespace.",
+        "answer": "A namespace is a container that helps organize code and avoid name conflicts in large programs.\n\n○ Purpose of Namespace:\n  ○ Prevents naming conflicts by grouping related classes, functions, and variables.\n  ○ Improves code organization and readability.\n  ○ Allows multiple libraries to coexist without interfering with each other.\n\n○ Declaring a Namespace in VB.NET:\n  ○ The Namespace keyword is used to define a namespace.\n\n○ Example:\n",
+        "code": "Namespace MyNamespace\n    Module Module1\n        Sub Display()\n            Console.WriteLine(\"Inside MyNamespace\")\n        End Sub\n    End Module\nEnd Namespace\nModule MainModule\n    Sub Main()\n        MyNamespace.Module1.Display()\n    End Sub\nEnd Module",
+        "isImportant": false
+      },
+      {
+        "question": "13. Differentiate between Pass by Value and Pass by Reference.",
+        "answer": "Definition:\n  ○ Pass by Value: A method of passing arguments where a copy of the actual value is passed to the function.\n  ○ Pass by Reference: A method where a reference (or address) of the variable is passed to the function.\n\n○ Effect on Original Value:\n  ○ Pass by Value: Changes made inside the function do not affect the original variable.\n  ○ Pass by Reference: Changes made inside the function affect the original variable.\n\n○ Memory Usage:\n  ○ Pass by Value: Requires more memory as a new copy of the variable is created.\n  ○ Pass by Reference: Requires less memory as no new copy is created.\n\n○ Performance:\n  ○ Pass by Value: Slower for large data structures due to copying overhead.\n  ○ Pass by Reference: Faster for large data structures as only the reference is passed.\n\n○ Example in VB.NET:\n",
+        "code": "Module Example\n    Sub PassByValue(ByVal x As Integer)\n        x = x + 10\n        Console.WriteLine(\"Inside Function: \" & x)\n    End Sub\n    Sub PassByReference(ByRef x As Integer)\n        x = x + 10\n    End Sub\n    Sub Main()\n        Dim num As Integer = 20\n        PassByValue(num)\n        Console.WriteLine(\"After PassByValue: \" & num)\n        PassByReference(num)\n        Console.WriteLine(\"After PassByReference: \" & num)\n    End Sub\nEnd Module",
+        "isImportant": false
+      },
+      {
+        "question": "14. What is Event-Driven Programming?",
+        "answer": "Definition:\n  ○ Event-Driven Programming is a programming paradigm in which the flow of execution is determined by events such as user actions (mouse clicks, key presses), sensor outputs, or messages from other programs.\n\n○ Key Concepts:\n  ○ Event: An occurrence or action that triggers a response, such as a button click.\n  ○ Event Listener: A function or method that waits for a specific event and executes when it occurs.\n  ○ Event Handler: The function that contains the code to be executed when an event occurs.\n  ○ Event Loop: A continuous cycle that monitors and dispatches events.\n\n○ Example in VB.NET:\n",
+        "code": "Public Class Form1\n    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click\n        MessageBox.Show(\"Button Clicked!\")\n    End Sub\nEnd Class",
+        "isImportant": false
+      },
+      {
+        "question": "15. How could we pass the default argument?",
+        "answer": "Definition:\n  ○ Default arguments allow a function to be called without passing all parameters explicitly. If no value is provided, the default value is used.\n\n○ Syntax in VB.NET:\n  ○ Default values are assigned in the function declaration.\n\n○ Example in VB.NET:\n",
+        "code": "Module Example\n    Function CalculateArea(ByVal length As Double, Optional ByVal width As Double = 5.0) As Double\n        Return length * width\n    End Function\n    Sub Main()\n        Console.WriteLine(\"Area with both values: \" & CalculateArea(10, 4))\n        Console.WriteLine(\"Area with default width: \" & CalculateArea(10))\n    End Sub\nEnd Module",
+        "isImportant": false
+      },
+      {
+        "question": "16. What is Metadata?",
+        "answer": "Metadata is data that describes other data. In VB.NET and the .NET framework, metadata contains information about assemblies, types, and members, helping with reflection, debugging, and runtime type identification.\n\n○ Uses of Metadata:\n  ○ Provides information about types (classes, interfaces, methods, properties, etc.).\n  ○ Helps in reflection, allowing runtime type discovery.\n  ○ Supports serialization and interoperability between different .NET components.\n  ○ Used by Just-In-Time (JIT) compiler and debugging tools.\n\n○ Example of Retrieving Metadata in VB.NET:\n",
+        "code": "Imports System.Reflection\nModule Example\n    Sub Main()\n        Dim t As Type = GetType(String)\n        Console.WriteLine(\"Metadata for String Class:\")\n        For Each method In t.GetMethods()\n            Console.WriteLine(method.Name)\n        Next\n    End Sub\nEnd Module",
+        "isImportant": false
+      },
+      {
+        "question": "17. What is Assembly?",
+        "answer": "An assembly in .NET is a compiled code library used for deployment, versioning, and security.\n\n○ Types of Assemblies:\n  ○ Private Assembly: Used by a single application, stored in the application directory.\n  ○ Shared Assembly: Can be used by multiple applications, stored in the Global Assembly Cache (GAC).\n\n○ Components of an Assembly:\n  ○ Manifest: Stores assembly metadata (name, version, culture, etc.).\n  ○ MSIL Code: The compiled .NET Intermediate Language code.\n  ○ Metadata: Information about types, members, and references.\n  ○ Resources: Embedded images, strings, or other resources.\n\n○ Example of Getting Assembly Information in VB.NET:\n",
+        "code": "Imports System.Reflection\nModule Example\n    Sub Main()\n        Dim asm As Assembly = Assembly.GetExecutingAssembly()\n        Console.WriteLine(\"Assembly Full Name: \" & asm.FullName)\n    End Sub\nEnd Module",
+        "isImportant": false
+      },
+      {
+        "question": "18. How to Resize an Array in VB.NET?",
+        "answer": "In VB.NET, arrays have a fixed size, but they can be resized using the ReDim statement.\n\n○ Methods to Resize an Array:\n  ○ ReDim: Resizes an array but clears all previous values.\n  ○ ReDim Preserve: Resizes an array while keeping existing values.\n\n○ Example of Resizing an Array in VB.NET:\n",
+        "code": "Module Example\n    Sub Main()\n        Dim arr() As Integer = {1, 2, 3}\n        Console.WriteLine(\"Original Array: \" & String.Join(\", \", arr))\n        ReDim Preserve arr(4)\n        arr(3) = 4\n        arr(4) = 5\n        Console.WriteLine(\"Resized Array: \" & String.Join(\", \", arr))\n    End Sub\nEnd Module",
+        "isImportant": false
+      }
+    ]
+  ,
+  
+    "long": [
+      {
+        "question": "1. Explain keyboard events in detail.",
+        "answer": "Keyboard events in VB.NET are triggered when the user interacts with the keyboard. These events are primarily used to capture and handle key presses in applications for performing specific actions. The most common keyboard events are:\n\n1. KeyDown: This event occurs when a key is first pressed. It is commonly used to detect when a key is being held down.\n\n2. KeyPress: This event occurs after the KeyDown event and before the KeyUp event. It is triggered for character keys and can be used to filter or validate user input (e.g., allowing only numeric input).\n\n3. KeyUp: This event occurs when a key is released. It is useful for triggering actions after the user has finished pressing a key.\n\nEach of these events provides event arguments (KeyEventArgs or KeyPressEventArgs) that include properties like:\n\n- KeyCode: Represents the specific key pressed (e.g., A, B, Enter).\n- KeyChar: Represents the character corresponding to the key (used in KeyPress).\n- Handled: Can be set to True to prevent the event from being passed to the operating system.",
+        "code": "Private Sub Form1_KeyDown(sender As Object, e As KeyEventArgs) Handles Me.KeyDown\n    If e.KeyCode = Keys.Enter Then\n        MessageBox.Show(\"Enter key pressed.\")\n    End If\nEnd Sub\n\nPrivate Sub Form1_KeyPress(sender As Object, e As KeyPressEventArgs) Handles Me.KeyPress\n    If Not Char.IsDigit(e.KeyChar) AndAlso Not Char.IsControl(e.KeyChar) Then\n        e.Handled = True\n        MessageBox.Show(\"Only numeric input is allowed.\")\n    End If\nEnd Sub\n\nPrivate Sub Form1_KeyUp(sender As Object, e As KeyEventArgs) Handles Me.KeyUp\n    MessageBox.Show(\"Key released: \" & e.KeyCode.ToString())\nEnd Sub",
+        "isImportant": false
+      },
+      {
+        "question": "2. Explain .NET Framework in detail.",
+        "answer": ".NET Framework is a software development platform developed by Microsoft. It provides a comprehensive and consistent programming model for building various types of applications, such as web, desktop, mobile, and cloud-based applications. It includes a large class library called the Framework Class Library (FCL) and provides runtime environments for executing code, such as the Common Language Runtime (CLR). Key components include:\n\n1. Common Language Runtime (CLR): The CLR is the execution engine that handles running applications. It provides services like memory management, exception handling, garbage collection, and security.\n\n2. Framework Class Library (FCL): The FCL is a vast collection of reusable classes, interfaces, and value types that provide functionalities such as file manipulation, database interaction, XML parsing, and more.\n\n3. Languages: .NET supports multiple languages like C#, VB.NET, F#, etc. The Common Type System (CTS) and Common Language Specification (CLS) ensure compatibility and interoperability among these languages.\n\n4. ASP.NET: A part of the .NET Framework used for building dynamic web applications and services.\n\n5. ADO.NET: A data access technology within .NET for connecting to databases and performing CRUD operations.\n\n6. Windows Forms and WPF: Used to build rich Windows desktop applications.\n\n7. Web Services and WCF: Allow integration and communication between applications over the internet or other networks.",
+        "code": "Imports System\n\nModule Program\n    Sub Main()\n        Dim obj As Object = New Object()\n        Console.WriteLine(\"Object created.\")\n        obj = Nothing\n        GC.Collect()\n        Console.WriteLine(\"Garbage collection triggered.\")\n    End Sub\nEnd Module",
+        "isImportant": false
+      },
+      {
+        "question": "3. Write a detailed note on looping, switch, and if statement in VB.NET.",
+        "answer": "In VB.NET, looping, switch, and if statements are essential control structures used to manage the program's flow. They enable decision-making, conditional branching, and repetitive task handling, which are crucial for building logical programs.",
+        "code": "For i As Integer = 1 To 5\n    Console.WriteLine(\"Iteration: \" & i)\nNext\n\nDim count As Integer = 0\nWhile count < 3\n    Console.WriteLine(\"Count: \" & count)\n    count += 1\nEnd While\n\nDim num As Integer = 0\nDo While num < 3\n    Console.WriteLine(\"Number: \" & num)\n    num += 1\nLoop\n\nDim val As Integer = 0\nDo Until val > 3\n    Console.WriteLine(\"Value: \" & val)\n    val += 1\nLoop\n\nDim day As Integer = 3\nSelect Case day\n    Case 1\n        Console.WriteLine(\"Monday\")\n    Case 2\n        Console.WriteLine(\"Tuesday\")\n    Case 3\n        Console.WriteLine(\"Wednesday\")\n    Case Else\n        Console.WriteLine(\"Other Day\")\nEnd Select\n\nDim score As Integer = 85\nIf score >= 90 Then\n    Console.WriteLine(\"Grade: A\")\nElseIf score >= 80 Then\n    Console.WriteLine(\"Grade: B\")\nElse\n    Console.WriteLine(\"Grade: C\")\nEnd If",
+        "isImportant": false
+      },
+      {
+        "question": "4. Write about Common Language Runtime (CLR) in detail.",
+        "answer": "The Common Language Runtime (CLR) is an integral component of the .NET Framework that acts as the execution engine for .NET applications. It manages code execution and provides numerous services to enhance development efficiency and application performance.\n\nKey Features of CLR:\n1. Managed Code Execution: CLR runs managed code written in supported .NET languages. It ensures safe execution by monitoring and controlling access to memory.\n2. Garbage Collection (GC): Automatic memory management by releasing unused objects and preventing memory leaks.\n3. Just-In-Time (JIT) Compilation: Converts Intermediate Language (IL) code into native machine code at runtime for optimized performance.\n4. Cross-Language Interoperability: Through Common Type System (CTS) and Common Language Specification (CLS), CLR enables seamless interoperability between different .NET-supported languages.\n5. Exception Handling: Provides a structured mechanism for managing runtime errors to ensure application stability.\n6. Security: CLR enforces Code Access Security (CAS) and verifies IL code for safe execution.",
+        "code": "Imports System\n\nModule Program\n    Sub Main()\n        Dim num1 As Integer = 10\n        Dim num2 As Integer = 20\n        Console.WriteLine(\"The sum is: \" & (num1 + num2))\n    End Sub\nEnd Module",
+        "isImportant": false
+      },
+      {
+        "question": "5. Explain Menu control and Context Menu control in VB.NET in detail.",
+        "answer": "Menu controls and Context Menu controls are essential in VB.NET for providing user-friendly navigation and interaction. They allow users to execute commands or navigate through an application conveniently.",
+        "code": "Dim menuStrip As New MenuStrip()\nDim fileMenu As New ToolStripMenuItem(\"File\")\nDim openMenuItem As New ToolStripMenuItem(\"Open\")\nDim exitMenuItem As New ToolStripMenuItem(\"Exit\")\nfileMenu.DropDownItems.Add(openMenuItem)\nfileMenu.DropDownItems.Add(exitMenuItem)\nmenuStrip.Items.Add(fileMenu)\nControls.Add(menuStrip)\nAddHandler exitMenuItem.Click, AddressOf ExitApplication\nPrivate Sub ExitApplication(sender As Object, e As EventArgs)\n    Application.Exit()\nEnd Sub\nDim contextMenu As New ContextMenuStrip()\nDim copyMenuItem As New ToolStripMenuItem(\"Copy\")\nDim pasteMenuItem As New ToolStripMenuItem(\"Paste\")\ncontextMenu.Items.Add(copyMenuItem)\ncontextMenu.Items.Add(pasteMenuItem)\nDim textBox As New TextBox()\ntextBox.ContextMenuStrip = contextMenu\nControls.Add(textBox)\nAddHandler copyMenuItem.Click, AddressOf CopyText\nPrivate Sub CopyText(sender As Object, e As EventArgs)\n    MessageBox.Show(\"Copy action triggered.\")\nEnd Sub",
+        "isImportant": false
+      },
+      {
+        "question": "6. What is exception handling in VB.NET? Explain with an example.",
+        "answer": "Exception handling in VB.NET is a mechanism to handle runtime errors gracefully, preventing program crashes and ensuring smooth execution.\n\no Try-Catch-Finally blocks are used for handling exceptions.\n\no The Catch block captures specific or general exceptions and handles them.\n\no The Finally block executes code regardless of whether an exception occurs.",
+        "code": "Try\n    Dim num As Integer = 10\n    Dim result As Integer = num / 0\nCatch ex As DivideByZeroException\n    MessageBox.Show(\"Error: Cannot divide by zero!\")\nFinally\n    MessageBox.Show(\"Execution completed.\")\nEnd Try",
+        "isImportant": false
+      },
+      {
+        "question": "7. Explain the concept of delegates in VB.NET with an example.",
+        "answer": "Delegates in VB.NET are type-safe function pointers that allow methods to be called dynamically at runtime.\n\no A delegate defines a method signature and can hold references to methods matching that signature.\n\no Delegates enable callback functionality and event handling.\n\no They are declared using the 'Delegate' keyword.",
+        "code": "Public Delegate Sub DisplayMessage(ByVal message As String)\n\nSub ShowMessage(ByVal msg As String)\n    MessageBox.Show(msg)\nEnd Sub\n\nDim del As New DisplayMessage(AddressOf ShowMessage)\ndel.Invoke(\"Hello, Delegates!\")",
+        "isImportant": false
+      },
+      {
+        "question": "8. What is multithreading in VB.NET? Explain with an example.",
+        "answer": "Multithreading in VB.NET allows multiple threads to run concurrently, improving application performance.\n\no The 'Thread' class from System.Threading namespace is used to create and manage threads.\n\no Threads execute independently, allowing multitasking in applications.\n\no 'Thread.Sleep()' can be used to pause a thread for a specific duration.",
+        "code": "Imports System.Threading\n\nSub PrintNumbers()\n    For i As Integer = 1 To 5\n        Console.WriteLine(i)\n        Thread.Sleep(1000)\n    Next\nEnd Sub\n\nDim thread1 As New Thread(AddressOf PrintNumbers)\nthread1.Start()",
+        "isImportant": false
+      },
+      {
+        "question": "9. Explain the concept of LINQ in VB.NET with an example.",
+        "answer": "LINQ (Language Integrated Query) in VB.NET provides a way to query collections using SQL-like syntax.\n\no LINQ simplifies data querying from arrays, collections, databases, and XML.\n\no It provides features like filtering, sorting, and aggregation.\n\no LINQ queries are written using the 'From...Where...Select' syntax.",
+        "code": "Dim numbers As Integer() = {1, 2, 3, 4, 5, 6}\nDim evenNumbers = From num In numbers Where num Mod 2 = 0 Select num\n\nFor Each num In evenNumbers\n    Console.WriteLine(num)\nNext",
+        "isImportant": false
+      },
+      {
+        "question": "10. What are generics in VB.NET? Explain with an example.",
+        "answer": "Generics in VB.NET allow defining classes, interfaces, and methods with a placeholder for data types, increasing code reusability.\n\no Generics prevent the need for multiple overloaded methods or classes for different data types.\n\no The 'Of' keyword is used to define a generic type parameter.\n\no Generics improve type safety and performance by avoiding boxing and unboxing.",
+        "code": "Public Class GenericClass(Of T)\n    Public Property Value As T\nEnd Class\n\nDim intObj As New GenericClass(Of Integer)()\nintObj.Value = 10\nConsole.WriteLine(intObj.Value)",
+        "isImportant": false
+      },
+      {
+        "question": "11. Explain the use of Reflection in VB.NET with an example.",
+        "answer": "Reflection in VB.NET allows inspecting and manipulating metadata and types at runtime.\n\no The 'System.Reflection' namespace provides classes for reflection.\n\no Reflection can be used to get method names, properties, and attributes of a class.\n\no It enables dynamic method invocation and late binding.",
+        "code": "Imports System.Reflection\n\nDim typeInfo As Type = GetType(String)\nFor Each methodInfo As MethodInfo In typeInfo.GetMethods()\n    Console.WriteLine(methodInfo.Name)\nNext",
+        "isImportant": false
+      },
+      {
+        "question": "12. What is serialization in VB.NET? Explain with an example.",
+        "answer": "Serialization in VB.NET is the process of converting an object into a format that can be stored or transmitted.\n\no The 'System.Runtime.Serialization' namespace provides serialization features.\n\no Serialization allows saving object states and transferring them over networks.\n\no The 'BinaryFormatter' class is used for binary serialization, while 'XmlSerializer' is used for XML serialization.",
+        "code": "Imports System.Runtime.Serialization.Formatters.Binary\nImports System.IO\n\n<Serializable()> Public Class Person\n    Public Name As String\n    Public Age As Integer\nEnd Class\n\nDim person As New Person() With {.Name = \"John\", .Age = 25}\nDim formatter As New BinaryFormatter()\nDim stream As New FileStream(\"person.dat\", FileMode.Create)\nformatter.Serialize(stream, person)\nstream.Close()",
+        "isImportant": false
+      },
+      {
+        "question": "13. What is DataSet and Data Provider? Discuss them in detail.",
+        "answer": "DataSet:\n○ A DataSet is an in-memory representation of data retrieved from a database. It operates in a disconnected environment, meaning that after fetching the data, the connection to the database is closed, and the DataSet works independently. It can represent multiple tables with relationships and is highly flexible for manipulating data without needing constant database connectivity.\n\n○ Key Components of DataSet:\n  ○ DataTableCollection: Contains all tables retrieved from the data source.\n  ○ DataRelationCollection: Defines relationships and links between tables within the DataSet.\n  ○ DataRowCollection: Represents all rows in a DataTable.\n  ○ DataColumnCollection: Represents all columns within a DataTable.\n  ○ PrimaryKey: Identifies a unique column in a DataTable.\n  ○ DataView: Provides a filtered, customized view of a DataTable.\n\n○ Advantages:\n  ○ Disconnected architecture ensures better scalability and reduces database load.\n  ○ Facilitates offline manipulation of data.\n  ○ Capable of storing data from multiple tables with defined relations.\n\nData Provider:\n○ A Data Provider is a set of components used for connecting to a database, executing commands, and retrieving data. It interacts with the database and transfers the data to a DataSet or DataReader.\n\n○ Key Components of Data Provider:\n  ○ Connection: Used to establish a connection with the data source.\n  ○ Command: Represents a SQL query or stored procedure used for data manipulation.\n  ○ DataReader: Provides a forward-only, read-only way to access data.\n  ○ DataAdapter: Acts as a bridge between the DataSet and the database to retrieve and save data.\n\n○ Types of Data Providers:\n  ○ SQL Server Data Provider: For Microsoft SQL Server.\n  ○ OLE DB Data Provider: For data sources exposed via OLE DB.\n  ○ ODBC Data Provider: For ODBC-compliant data sources.\n  ○ Oracle Data Provider: For Oracle databases.\n\n○ Data Providers ensure efficient interaction with databases while offering flexibility through components like DataAdapters and DataReaders.",
+        "code": "Imports System.Data\nImports System.Data.SqlClient\n\nModule Program\n    Sub Main()\n        Dim connString As String = \"Data Source=ServerName;Initial Catalog=DatabaseName;Integrated Security=True\"\n        Dim connection As New SqlConnection(connString)\n        Dim dataAdapter As New SqlDataAdapter(\"SELECT * FROM Students\", connection)\n        Dim dataSet As New DataSet()\n        dataAdapter.Fill(dataSet, \"Students\")\n        For Each row As DataRow In dataSet.Tables(\"Students\").Rows\n            Console.WriteLine($\"ID: {row(\"ID\")}, Name: {row(\"Name\")}\")\n        Next\n    End Sub\nEnd Module",
+        "isImportant": false
+      },
+      {
+        "question": "14. Various Access Modifiers",
+        "answer": "Access modifiers in VB.NET define the scope and visibility of classes, variables, and methods.\n\n○ Types of Access Modifiers:\n  ○ Public: Accessible from anywhere in the application.\n  ○ Private: Accessible only within the same class or module.\n  ○ Protected: Accessible within the same class and its derived classes.\n  ○ Friend: Accessible within the same assembly.\n  ○ Protected Friend: Accessible within the same assembly and derived classes.\n  ○ Private Protected: Accessible within the same class and derived classes but only within the same assembly.\n\n○ Example:\n",
+        "code": "Class Example\n    Public name As String = \"John\"\n    Private age As Integer = 25\n    Protected address As String = \"New York\"\n    Friend phone As String = \"1234567890\"\n    Protected Friend email As String = \"john@example.com\"\n    Private Protected id As Integer = 101\nEnd Class",
+        "isImportant": false
+      },
+      {
+        "question": "15. ComboBox Control with Properties and Methods",
+        "answer": "A ComboBox control in VB.NET allows users to select a value from a dropdown list.\n\n○ Properties:\n  ○ Items: Stores the list of items in the ComboBox.\n  ○ SelectedIndex: Returns or sets the index of the selected item.\n  ○ SelectedItem: Returns the selected item.\n  ○ DropDownStyle: Defines the appearance (Simple, DropDown, DropDownList).\n  ○ Text: Gets or sets the text of the ComboBox.\n\n○ Methods:\n  ○ Add(): Adds an item to the ComboBox.\n  ○ Remove(): Removes an item by value.\n  ○ RemoveAt(): Removes an item at a specific index.\n  ○ Clear(): Removes all items.\n  ○ FindString(): Searches for an item that matches a string.\n\n○ Example:\n",
+        "code": "Public Class Form1\n    Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load\n        ComboBox1.Items.Add(\"Apple\")\n        ComboBox1.Items.Add(\"Banana\")\n        ComboBox1.Items.Add(\"Orange\")\n    End Sub\n    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click\n        MessageBox.Show(\"Selected Item: \" & ComboBox1.SelectedItem)\n    End Sub\nEnd Class",
+        "isImportant": false
+      },
+      {
+        "question": "16. Any 5 String Functions in VB.NET",
+        "answer": "String functions in VB.NET help in manipulating text data.\n\n○ 1. Len(): Returns the length of a string.\n  ○ Example: `Len(\"Hello\")` → Output: 5\n\n○ 2. LCase(): Converts a string to lowercase.\n  ○ Example: `LCase(\"Hello\")` → Output: \"hello\"\n\n○ 3. UCase(): Converts a string to uppercase.\n  ○ Example: `UCase(\"hello\")` → Output: \"HELLO\"\n\n○ 4. Mid(): Extracts a substring from a given position.\n  ○ Example: `Mid(\"Hello\", 2, 3)` → Output: \"ell\"\n\n○ 5. Replace(): Replaces a substring with another string.\n  ○ Example: `Replace(\"Hello World\", \"World\", \"VB.NET\")` → Output: \"Hello VB.NET\"\n\n○ Example Program:\n",
+        "code": "Module Example\n    Sub Main()\n        Dim str As String = \"Hello World\"\n        Console.WriteLine(\"Length: \" & Len(str))\n        Console.WriteLine(\"Lowercase: \" & LCase(str))\n        Console.WriteLine(\"Uppercase: \" & UCase(str))\n        Console.WriteLine(\"Substring: \" & Mid(str, 2, 3))\n        Console.WriteLine(\"Replace: \" & Replace(str, \"World\", \"VB.NET\"))\n    End Sub\nEnd Module",
+        "isImportant": false
+      },
+      {
+        "question": "17. TreeView Control with Its Properties and Methods",
+        "answer": "A TreeView control in VB.NET is used to display hierarchical data in a tree-like structure.\n\n○ Properties:\n  ○ Nodes: Gets the collection of tree nodes in the control.\n  ○ SelectedNode: Gets or sets the currently selected node.\n  ○ ShowPlusMinus: Determines whether plus/minus signs are displayed for nodes with child nodes.\n  ○ ShowLines: Specifies whether lines are displayed between tree nodes.\n  ○ CheckBoxes: Enables checkboxes next to each node.\n\n○ Methods:\n  ○ Nodes.Add(): Adds a new node to the TreeView.\n  ○ Nodes.Clear(): Removes all nodes from the TreeView.\n  ○ ExpandAll(): Expands all nodes in the TreeView.\n  ○ CollapseAll(): Collapses all nodes in the TreeView.\n  ○ SelectedNode.Remove(): Removes the selected node.\n\n○ Example:\n",
+        "code": "Public Class Form1\n    Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load\n        Dim root As TreeNode = New TreeNode(\"Root Node\")\n        Dim child1 As TreeNode = New TreeNode(\"Child 1\")\n        Dim child2 As TreeNode = New TreeNode(\"Child 2\")\n        root.Nodes.Add(child1)\n        root.Nodes.Add(child2)\n        TreeView1.Nodes.Add(root)\n    End Sub\nEnd Class",
+        "isImportant": false
+      },
+      {
+        "question": "18. VB.NET Data Types",
+        "answer": "VB.NET provides different data types to store various kinds of data.\n\n○ Data Types in VB.NET:\n  ○ Integer (Int32): Stores whole numbers from -2,147,483,648 to 2,147,483,647.\n  ○ Long (Int64): Stores large whole numbers.\n  ○ Single (Float): Stores floating-point numbers (single precision).\n  ○ Double: Stores floating-point numbers (double precision).\n  ○ Decimal: Stores large decimal numbers, useful for financial calculations.\n  ○ Boolean: Stores 'True' or 'False'.\n  ○ Char: Stores a single character.\n  ○ String: Stores a sequence of characters.\n  ○ Object: Can store any data type.\n  ○ Date: Stores date and time values.\n\n○ Example:\n",
+        "code": "Module Example\n    Sub Main()\n        Dim age As Integer = 25\n        Dim salary As Double = 50000.75\n        Dim isEmployed As Boolean = True\n        Dim name As String = \"John Doe\"\n        Dim joiningDate As Date = #2025-03-19#\n        Console.WriteLine(\"Name: \" & name)\n        Console.WriteLine(\"Age: \" & age)\n        Console.WriteLine(\"Salary: \" & salary)\n        Console.WriteLine(\"Employed: \" & isEmployed)\n        Console.WriteLine(\"Joining Date: \" & joiningDate)\n    End Sub\nEnd Module",
+        "isImportant": false
+      },
+      {
+        "question": "19. MsgBox and InputBox with example.",
+        "answer": "MsgBox and InputBox are built-in functions in VB.NET that provide a simple way to display messages and take user input.",
+        "code": "Dim result As DialogResult\nresult = MessageBox.Show(\"Do you want to continue?\", \"Confirmation\", MessageBoxButtons.YesNo)\nIf result = DialogResult.Yes Then\n    MessageBox.Show(\"You chose Yes\")\nElse\n    MessageBox.Show(\"You chose No\")\nEnd If\nDim userInput As String\nuserInput = InputBox(\"Enter your name:\", \"User Input\")\nMessageBox.Show(\"Hello, \" & userInput)",
+        "isImportant": false
+      },
+      {
+        "question": "20. Architecture of .NET framework.",
+        "answer": "The .NET Framework architecture consists of multiple layers that provide a structured approach to application development.\no Common Language Runtime (CLR): The core component that manages memory, security, and exception handling. It converts code into machine language using Just-In-Time (JIT) compilation.\no .NET Framework Class Library (FCL): A vast collection of pre-built classes and functions for handling file operations, networking, database access, and more.\no ASP.NET: A web framework for building dynamic websites and services.\no Windows Forms and WPF: Technologies used for building desktop applications with graphical user interfaces.\no ADO.NET: A database access technology that allows communication between applications and databases.\no Common Type System (CTS): Ensures that data types are consistent across different .NET languages.\no Common Language Specification (CLS): Defines a set of rules that all .NET languages must follow for interoperability.\no Metadata and Assemblies: Store information about compiled code, making it easier to manage dependencies.",
+        "isImportant": false
+      },
+      {
+        "question": "21. Concepts of OOP in .NET.",
+        "answer": "Object-Oriented Programming (OOP) in .NET follows four fundamental principles that allow efficient application development.\no Encapsulation: Protects data by restricting access and exposing only necessary functionalities through properties and methods. It is achieved using access modifiers like public, private, and protected.\no Inheritance: Enables code reusability by allowing one class to inherit properties and methods from another class. This reduces redundancy in code.\no Polymorphism: Allows multiple methods to have the same name but different implementations. It can be achieved through method overloading (compile-time polymorphism) and method overriding (runtime polymorphism).\no Abstraction: Hides complex implementation details and shows only the essential features to the user. It is implemented using abstract classes and interfaces.",
+        "isImportant": false
+      },
+      {
+        "question": "22. ADO.Net architecture.",
+        "answer": "ADO.NET (ActiveX Data Objects for .NET) is a database connectivity framework that enables communication between .NET applications and data sources like SQL Server and Oracle.\no Data Provider: Contains components like Connection, Command, DataReader, and DataAdapter for executing SQL queries and retrieving results.\no Connection: Establishes and manages the connection between the application and the database.\no Command: Executes SQL queries, stored procedures, and database commands.\no DataReader: Provides a fast, forward-only, read-only way to access data.\no DataAdapter: Acts as a bridge between the database and the DataSet, enabling data retrieval and updates.\no DataSet: A disconnected data representation that allows data manipulation without maintaining an active database connection.\no XML Integration: Supports XML-based data storage and communication.\no Transaction Management: Ensures data integrity by supporting commit and rollback operations.",
+        "code": "Imports System.Data.SqlClient\nDim conn As New SqlConnection(\"Data Source=Server;Initial Catalog=DB;Integrated Security=True\")\nDim cmd As New SqlCommand(\"SELECT * FROM Students\", conn)\nDim adapter As New SqlDataAdapter(cmd)\nDim ds As New DataSet()\nadapter.Fill(ds, \"Students\")\nFor Each row As DataRow In ds.Tables(\"Students\").Rows\n    Console.WriteLine(row(\"Name\"))\nNext",
+        "isImportant": false
+      },
+      {
+        "question": "23. Font and color Dialog Box with properties and methods in detail.",
+        "answer": "Font and Color Dialog Boxes are graphical user interface components in VB.NET that allow users to select fonts and colors dynamically.\no FontDialog: A dialog box that lets users choose fonts and styles for text.\no Properties:\no Font: Gets or sets the selected font.\no ShowApply: Determines if the Apply button is visible.\no ShowColor: Allows the selection of text color.\no Methods:\no ShowDialog(): Displays the dialog box.\no Reset(): Resets the dialog box to its default state.\no ColorDialog: A dialog box that enables users to pick colors for application elements.\no Properties:\no Color: Gets or sets the selected color.\no FullOpen: Displays the full-color options.\no CustomColors: Allows defining custom color palettes.\no Methods:\no ShowDialog(): Displays the dialog box.\no Reset(): Resets the color selection.",
+        "code": "Dim fontDialog As New FontDialog()\nIf fontDialog.ShowDialog() = DialogResult.OK Then\n    TextBox1.Font = fontDialog.Font\nEnd If\n\nDim colorDialog As New ColorDialog()\nIf colorDialog.ShowDialog() = DialogResult.OK Then\n    TextBox1.ForeColor = colorDialog.Color\nEnd If",
+        "isImportant": false
+      },
+      {
+        "question": "24. Define Error. Explain unstructured exception handling in VB.NET.",
+        "answer": "Errors in VB.NET occur when the program encounters an unexpected issue during execution.\no Types of Errors:\no Syntax Errors: Caused by incorrect syntax, such as missing semicolons or misspelled keywords.\no Runtime Errors: Occur during execution due to issues like division by zero or accessing an invalid index.\no Logical Errors: Produce incorrect results due to mistakes in program logic.\no Unstructured Exception Handling: Uses On Error statements to manage errors but is considered outdated compared to structured exception handling.\no On Error Resume Next: Ignores the error and continues execution.\no On Error GoTo Label: Redirects execution to a predefined label when an error occurs.\no Err Object: Provides details about the error, such as its description and number.",
+        "code": "On Error Resume Next\nDim num As Integer = 10\nDim result As Integer = num / 0\nIf Err.Number <> 0 Then\n    MessageBox.Show(\"An error occurred: \" & Err.Description)\nEnd If",
+        "isImportant": false
+      }
+    ]
+  
+}

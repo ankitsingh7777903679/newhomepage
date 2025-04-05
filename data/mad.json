@@ -1,0 +1,445 @@
+{
+    
+    "mcq": [
+      {
+        "question": "1. OnCheckedChangeListener can be used with which control?",
+        "options": [
+          "a) Button",
+          "b) CheckBox",
+          "c) Both Button & CheckBox",
+          "d) None of the above"
+        ],
+        "correctAnswer": "b",
+        "id": "mad-q1",
+        "isImportant": false
+      },
+      {
+        "question": "2. Converts class file into dex file.",
+        "options": [
+          "a) javac",
+          "b) dx",
+          "c) dex compiler",
+          "d) DVM"
+        ],
+        "correctAnswer": "c",
+        "id": "mad-q2",
+        "isImportant": false
+      },
+      {
+        "question": "3. In AlertDialog, which method is used to keep the DialogBox open even if the Back button is pressed?",
+        "options": [
+          "a) setCancelable(false)",
+          "b) setCancelable(true)",
+          "c) setHidden(false)",
+          "d) setHidden(true)"
+        ],
+        "correctAnswer": "a",
+        "id": "mad-q3",
+        "isImportant": false
+      },
+      {
+        "question": "4. What is true about the R.java file?",
+        "options": [
+          "a) It is an auto-generated file which contains resource IDs of all resources.",
+          "b) It is an auto-generated file which contains configuration settings.",
+          "c) It is an auto-generated file which contains string objects.",
+          "d) None of the above"
+        ],
+        "correctAnswer": "a",
+        "id": "mad-q4",
+        "isImportant": false
+      },
+      {
+        "question": "5. Which are views that display a long list of items?",
+        "options": [
+          "a) ListView",
+          "b) Specialised Fragments",
+          "c) FrameView",
+          "d) None"
+        ],
+        "correctAnswer": "a",
+        "id": "mad-q5",
+        "isImportant": false
+      },
+      {
+        "question": "6. What are the correct types of progress available in Android?",
+        "options": [
+          "a) Spinning wheel and horizontal bar",
+          "b) Vertical bar",
+          "c) Circle wheel",
+          "d) None of these"
+        ],
+        "correctAnswer": "a",
+        "id": "mad-q6",
+        "isImportant": false
+      },
+      {
+        "question": "7. The method of ImageSwitcher provides implementation of the ViewFactory interface.",
+        "options": [
+          "a) ViewFactory()",
+          "b) setFactory()",
+          "c) Factory()",
+          "d) GetFactory()"
+        ],
+        "correctAnswer": "b",
+        "id": "mad-q7",
+        "isImportant": false
+      },
+      {
+        "question": "8. If you don't want to change the variable value, which keyword needs to be used?",
+        "options": [
+          "a) Def",
+          "b) Const",
+          "c) Constant",
+          "d) Fixed"
+        ],
+        "correctAnswer": "b",
+        "id": "mad-q8",
+        "isImportant": false
+      },
+      {
+        "question": "9. What is an entry point in Dart?",
+        "options": [
+          "a) declare()",
+          "b) list()",
+          "c) main()",
+          "d) return()"
+        ],
+        "correctAnswer": "c",
+        "id": "mad-q9",
+        "isImportant": false
+      },
+      {
+        "question": "10. What is the full form of AOT?",
+        "options": [
+          "a) Ahead Of Time",
+          "b) After Of Time",
+          "c) Ahead Of Temp",
+          "d) Accrued Of Temp"
+        ],
+        "correctAnswer": "a",
+        "id": "mad-q10",
+        "isImportant": false
+      },
+      {
+        "question": "11. Which of the following is an invisible widget?",
+        "options": [
+          "a) RadioButton",
+          "b) CheckBox",
+          "c) Column",
+          "d) None of the above"
+        ],
+        "correctAnswer": "c",
+        "id": "mad-q11",
+        "isImportant": false
+      },
+      {
+        "question": "12. Which widget changes its description dynamically during its lifecycle?",
+        "options": [
+          "a) Stateful Widget",
+          "b) Stateless Widget",
+          "c) Visible Widget",
+          "d) Invisible Widget"
+        ],
+        "correctAnswer": "a",
+        "id": "mad-q12",
+        "isImportant": false
+      },
+      {
+        "question": "13. Which is a widget in Flutter that combines a list of widgets and positions them on top of each other?",
+        "options": [
+          "a) The Stack",
+          "b) The Points",
+          "c) The List",
+          "d) The Form"
+        ],
+        "correctAnswer": "a",
+        "id": "mad-q13",
+        "isImportant": false
+      },
+      {
+        "question": "14. Which is a material design class in Flutter that provides text labels to explain functionality?",
+        "options": [
+          "a) Tooltip",
+          "b) FlutterForm",
+          "c) Charts",
+          "d) Switches"
+        ],
+        "correctAnswer": "a",
+        "id": "mad-q14",
+        "isImportant": false
+      },
+      {
+        "question": "15. ___ shows the Alert message and gives the answer in the form of yes or no.",
+        "options": [
+          "1. Spinner",
+          "2. ListView",
+          "3. Timer",
+          "4. AlterDialog"
+        ],
+        "correctAnswer": "d",
+        "id": "mad-q15",
+        "isImportant": false
+      },
+      {
+        "question": "16. RadioButton is generally used with ___",
+        "options": [
+          "1. RadioButtons",
+          "2. SelectionGroup",
+          "3. RadioGroup",
+          "4. ObjectGroup"
+        ],
+        "correctAnswer": "c",
+        "id": "mad-q16",
+        "isImportant": false
+      },
+      {
+        "question": "17. Which of the following is necessary element to setup launcher Activity?",
+        "options": [
+          "1. Action",
+          "2. Category",
+          "3. intent-filter",
+          "4. Application"
+        ],
+        "correctAnswer": "c",
+        "id": "mad-q17",
+        "isImportant": false
+      },
+      {
+        "question": "18. Which of the following is not a datatype in Dart?",
+        "options": [
+          "1. Character",
+          "2. Boolean",
+          "3. Map",
+          "4. List"
+        ],
+        "correctAnswer": "a",
+        "id": "mad-q18",
+        "isImportant": false
+      },
+      {
+        "question": "19. Online Dart editor is also known as ___",
+        "options": [
+          "1. Dart compiler",
+          "2. Dart pad",
+          "3. Dart JVM",
+          "4. Dart AOT"
+        ],
+        "correctAnswer": "b",
+        "id": "mad-q19",
+        "isImportant": false
+      },
+      {
+        "question": "20. What is contained in manifest.xml?",
+        "options": [
+          "1. Source code",
+          "2. List of strings used in the app",
+          "3. Permission that the application requires",
+          "4. List of images used in the app"
+        ],
+        "correctAnswer": "c",
+        "id": "mad-q20",
+        "isImportant": false
+      },
+      {
+        "question": "21. What is the output of the following code block?\n\nvoid main() {\n  var name = \"Flutter\";\n  print(\"$name is easy\");\n}",
+        "options": [
+          "1. name is easy",
+          "2. $name is easy",
+          "3. is easy",
+          "4. Flutter is easy"
+        ],
+        "correctAnswer": "d",
+        "id": "mad-q21",
+        "isImportant": false
+      },
+      {
+        "question": "22. The ___ view provides visual feedback about some ongoing tasks, such as performing a task in a background.",
+        "options": [
+          "1. Image Button",
+          "2. Toggle Button",
+          "3. Spinner",
+          "4. Progress bar"
+        ],
+        "correctAnswer": "d",
+        "id": "mad-q22",
+        "isImportant": false
+      },
+      {
+        "question": "23. To implement image slider, you need to inherit ___ class which extends PagerAdapter.",
+        "options": [
+          "1. ViewPager",
+          "2. Adapter",
+          "3. View",
+          "4. ViewGroup"
+        ],
+        "correctAnswer": "a",
+        "id": "mad-q23",
+        "isImportant": false
+      },
+      {
+        "question": "24. Which property is used to put whitespace between widgets?",
+        "options": [
+          "1. Android:padding",
+          "2. Android:digitals",
+          "3. Android:capitalize",
+          "4. Android:autoText"
+        ],
+        "correctAnswer": "a",
+        "id": "mad-q24",
+        "isImportant": false
+      },
+      {
+        "question": "25. Which file contains text values that can be used in applications?",
+        "options": [
+          "1. AndroidManifest.xml",
+          "2. Main.xml",
+          "3. string.xml",
+          "4. Layout.xml"
+        ],
+        "correctAnswer": "c",
+        "id": "mad-q25",
+        "isImportant": false
+      },
+      {
+        "question": "26. The DalvikVM core libraries are a subset of ___",
+        "options": [
+          "1. JavaME",
+          "2. Java SE",
+          "3. Java EE",
+          "4. JAX-WS"
+        ],
+        "correctAnswer": "b",
+        "id": "mad-q26",
+        "isImportant": false
+      },
+      {
+        "question": "27. The property that is used for formatting font is ___",
+        "options": [
+          "1. Color",
+          "2. typeface",
+          "3. ImageView",
+          "4. Mip Map"
+        ],
+        "correctAnswer": "b",
+        "id": "mad-q27",
+        "isImportant": false
+      },
+      {
+        "question": "28. Which method is used to display items in list view?",
+        "options": [
+          "1. setItem()",
+          "2. setAdapter()",
+          "3. setAdaptor()",
+          "4. setAdaptorItem()"
+        ],
+        "correctAnswer": "b",
+        "id": "mad-q28",
+        "isImportant": false
+      }
+    ]
+  ,
+  "onemarks": [
+
+  ],
+  
+    "long": [
+      {
+        "question": "1. How to create dynamic RadioButton in Android?",
+        "answer": "Dynamic RadioButtons in Android can be created programmatically in Java or Kotlin. This involves creating `RadioButton` objects at runtime, adding them to a `RadioGroup`, and attaching the group to a layout dynamically.\n\nSteps to Create Dynamic RadioButtons:\n\n○ Create a `RadioGroup` programmatically or access an existing one from the XML layout\n\n○ Create `RadioButton` instances dynamically using a loop or based on a data source\n\n○ Add each `RadioButton` to the `RadioGroup` using the `addView()` method\n\n○ Define OnClickListeners for event handling when a RadioButton is selected\n\nBelow is an example implementation:",
+        "code": "import android.os.Bundle;\nimport android.widget.LinearLayout;\nimport android.widget.RadioButton;\nimport android.widget.RadioGroup;\nimport android.widget.Toast;\nimport androidx.appcompat.app.AppCompatActivity;\n\npublic class DynamicRadioButtonActivity extends AppCompatActivity {\n    @Override\n    protected void onCreate(Bundle savedInstanceState) {\n        super.onCreate(savedInstanceState);\n        setContentView(R.layout.activity_main);\n        LinearLayout layout = findViewById(R.id.linearLayout);\n        RadioGroup radioGroup = new RadioGroup(this);\n        radioGroup.setOrientation(RadioGroup.VERTICAL);\n        String[] options = {\"Option 1\", \"Option 2\", \"Option 3\"};\n        for (String option : options) {\n            RadioButton radioButton = new RadioButton(this);\n            radioButton.setText(option);\n            radioGroup.addView(radioButton);\n        }\n        layout.addView(radioGroup);\n        radioGroup.setOnCheckedChangeListener((group, checkedId) -> {\n            RadioButton selectedRadioButton = findViewById(checkedId);\n            Toast.makeText(this, \"Selected: \" + selectedRadioButton.getText(), Toast.LENGTH_SHORT).show();\n        });\n    }\n}",
+        "isImportant": false
+      },
+      {
+        "question": "2. Write a short note on Android Manifest.",
+        "answer": "The Android Manifest is an essential configuration file (`AndroidManifest.xml`) in every Android application. It acts as a blueprint that provides information to the Android operating system about the app's structure and functionality.\n\nKey Features of the Android Manifest:\n\n○ Package Name: Unique identifier for the application\n\n○ Components Declaration: Specifies all app components like Activities, Services, Broadcast Receivers, and Content Providers\n\n○ Permissions: Lists required permissions such as Internet access or camera usage\n\n○ Features: Declares hardware or software features needed by the app\n\n○ Intent Filters: Defines how the app interacts with external apps and intents\n\nExample Manifest Snippet:",
+        "code": "<manifest xmlns:android=\"http://schemas.android.com/apk/res/android\"\n    package=\"com.example.myapp\">\n    <application\n        android:icon=\"@mipmap/ic_launcher\"\n        android:label=\"@string/app_name\">\n        <activity android:name=\".MainActivity\">\n            <intent-filter>\n                <action android:name=\"android.intent.action.MAIN\" />\n                <category android:name=\"android.intent.category.LAUNCHER\" />\n            </intent-filter>\n        </activity>\n    </application>\n    <uses-permission android:name=\"android.permission.INTERNET\" />\n</manifest>",
+        "isImportant": false
+      },
+      {
+        "question": "3. Explain AutoCompleteTextView and TextWatcher in detail.",
+        "answer": "AutoCompleteTextView:\n\nAutoCompleteTextView is a UI widget in Android that extends the EditText class. It provides suggestions to users as they type, enabling an efficient and user-friendly search or input experience. It works with an Adapter that supplies a list of suggestions to display.\n\nKey Features:\n\n○ Displays dropdown suggestions based on user input\n\n○ Reduces typing effort and error rates\n\n○ Customizable to integrate data from APIs, databases, or predefined lists\n\nTextWatcher:\n\nTextWatcher is an interface in Android used to monitor changes in the text of an EditText or AutoCompleteTextView. Developers implement this interface to perform actions or validations whenever the text content changes.\n\nKey Methods:\n\n○ `afterTextChanged(Editable s)`: Called after the text has been changed\n\n○ `beforeTextChanged(CharSequence s, int start, int count, int after)`: Called before the text change happens\n\n○ `onTextChanged(CharSequence s, int start, int before, int count)`: Called while the text is being changed\n\nHere’s an example that demonstrates the use of AutoCompleteTextView with a TextWatcher:",
+        "code": "import android.os.Bundle;\nimport android.text.Editable;\nimport android.text.TextWatcher;\nimport android.widget.ArrayAdapter;\nimport android.widget.AutoCompleteTextView;\nimport android.widget.Toast;\nimport androidx.appcompat.app.AppCompatActivity;\n\npublic class AutoCompleteTextWatcherExample extends AppCompatActivity {\n    @Override\n    protected void onCreate(Bundle savedInstanceState) {\n        super.onCreate(savedInstanceState);\n        setContentView(R.layout.activity_main);\n        AutoCompleteTextView autoCompleteTextView = findViewById(R.id.autoCompleteTextView);\n        String[] suggestions = {\"Apple\", \"Banana\", \"Cherry\", \"Date\", \"Fig\", \"Grape\"};\n        ArrayAdapter<String> adapter = new ArrayAdapter<>(this, android.R.layout.simple_dropdown_item_1line, suggestions);\n        autoCompleteTextView.setAdapter(adapter);\n        autoCompleteTextView.addTextChangedListener(new TextWatcher() {\n            @Override\n            public void beforeTextChanged(CharSequence s, int start, int count, int after) {\n            }\n            @Override\n            public void onTextChanged(CharSequence s, int start, int before, int count) {\n                Toast.makeText(AutoCompleteTextWatcherExample.this, \"Text Changed: \" + s, Toast.LENGTH_SHORT).show();\n            }\n            @Override\n            public void afterTextChanged(Editable s) {\n            }\n        });\n    }\n}",
+        "isImportant": false
+      },
+      {
+        "question": "4. Explain Alert Dialog Box in Android.",
+        "answer": "An Alert Dialog Box in Android is a pop-up window that prompts users to make a decision or provide input. It is used for actions that require immediate attention, such as confirmations, warnings, or messages.\n\nKey Components:\n\n○ Title: Short description of the dialog's purpose (optional)\n\n○ Message: Main content or explanation to display\n\n○ Buttons: Includes Positive (e.g., Yes/OK), Negative (e.g., No/Cancel), and Neutral buttons for actions\n\n○ Custom Layout (Optional): Can include input fields or other UI elements for interaction\n\nAdvantages:\n\n○ Ensures immediate user feedback\n\n○ Provides intuitive handling for critical actions or confirmation\n\nHere is a code example to implement an Alert Dialog Box in Android:",
+        "code": "import android.app.AlertDialog;\nimport android.content.DialogInterface;\nimport android.os.Bundle;\nimport androidx.appcompat.app.AppCompatActivity;\n\npublic class AlertDialogExample extends AppCompatActivity {\n    @Override\n    protected void onCreate(Bundle savedInstanceState) {\n        super.onCreate(savedInstanceState);\n        setContentView(R.layout.activity_main);\n        findViewById(R.id.button).setOnClickListener(v -> {\n            AlertDialog.Builder builder = new AlertDialog.Builder(this);\n            builder.setTitle(\"Confirmation\")\n                   .setMessage(\"Are you sure you want to proceed?\")\n                   .setPositiveButton(\"Yes\", (dialog, which) -> {\n                       System.out.println(\"User clicked Yes!\");\n                   })\n                   .setNegativeButton(\"No\", (dialog, which) -> {\n                       System.out.println(\"User clicked No!\");\n                   })\n                   .setNeutralButton(\"Cancel\", (dialog, which) -> {\n                       System.out.println(\"User clicked Cancel!\");\n                   });\n            builder.show();\n        });\n    }\n}",
+        "isImportant": false
+      },
+      {
+        "question": "5. Explain Date and Time Picker in detail.",
+        "answer": "A Date and Time Picker is a user-friendly interface component that allows users to select dates, times, or both in mobile or web applications. These pickers are commonly used for forms, booking systems, and scheduling apps, ensuring that date and time inputs are accurate and intuitive.\n\nAdvantages:\n\n○ Simplifies date and time selection\n\n○ Ensures input validation (e.g., valid dates and times)\n\n○ Provides a customizable UI for better user experience\n\nHere is an implementation example in Android using `DatePickerDialog` and `TimePickerDialog`:",
+        "code": "import android.app.DatePickerDialog;\nimport android.app.TimePickerDialog;\nimport android.os.Bundle;\nimport android.widget.TextView;\nimport androidx.appcompat.app.AppCompatActivity;\nimport java.util.Calendar;\n\npublic class DateTimePickerExample extends AppCompatActivity {\n    @Override\n    protected void onCreate(Bundle savedInstanceState) {\n        super.onCreate(savedInstanceState);\n        setContentView(R.layout.activity_main);\n        TextView dateTextView = findViewById(R.id.dateTextView);\n        TextView timeTextView = findViewById(R.id.timeTextView);\n        Calendar calendar = Calendar.getInstance();\n        dateTextView.setOnClickListener(v -> {\n            DatePickerDialog datePickerDialog = new DatePickerDialog(this,\n                (view, year, month, dayOfMonth) -> {\n                    String selectedDate = dayOfMonth + \"/\" + (month + 1) + \"/\" + year;\n                    dateTextView.setText(selectedDate);\n                },\n                calendar.get(Calendar.YEAR),\n                calendar.get(Calendar.MONTH),\n                calendar.get(Calendar.DAY_OF_MONTH));\n            datePickerDialog.show();\n        });\n        timeTextView.setOnClickListener(v -> {\n            TimePickerDialog timePickerDialog = new TimePickerDialog(this,\n                (view, hourOfDay, minute) -> {\n                    String selectedTime = hourOfDay + \":\" + minute;\n                    timeTextView.setText(selectedTime);\n                },\n                calendar.get(Calendar.HOUR_OF_DAY),\n                calendar.get(Calendar.MINUTE),\n                true);\n            timePickerDialog.show();\n        });\n    }\n}",
+        "isImportant": false
+      },
+      {
+        "question": "6. Write a short note on datatypes of Dart.",
+        "answer": "Dart is a statically-typed programming language, meaning every variable has a datatype. It provides various built-in datatypes to handle different kinds of data efficiently.\n\nKey Datatypes in Dart:\n\n○ Numbers: `int`: For integers (e.g., 1, 42). `double`: For floating-point numbers (e.g., 3.14, -0.5)\n\n○ String: Represents a sequence of characters (e.g., \"Hello, Dart!\")\n\n○ Boolean: Represents true or false values (e.g., `true`, `false`)\n\n○ Lists: Ordered collections of items, also known as arrays (e.g., `[1, 2, 3]`)\n\n○ Maps: Key-value pairs (e.g., `{ 'key1': 'value1', 'key2': 'value2' }`)\n\n○ Set: An unordered collection of unique items (e.g., `{1, 2, 3}`)\n\n○ Dynamic: Allows variables to hold any datatype and is resolved at runtime\n\nDart's versatile and powerful datatypes make it suitable for developing web, mobile, and server applications efficiently.",
+        "code": "void main() {\n    int age = 25;\n    double height = 5.9;\n    String name = \"Ankit\";\n    bool isStudent = true;\n    List<int> scores = [90, 85, 88];\n    Map<String, String> student = {'name': 'Ankit', 'grade': 'A'};\n    Set<int> uniqueNumbers = {1, 2, 3};\n    print('Name: name, Age: age, Height: height, Is Student: isStudent');\n    print('Scores: scores');\n    print('Student Info: student');\n    print('Unique Numbers: uniqueNumbers');\n}",
+        "isImportant": false
+      },
+      {
+        "question": "7. Explain decision-making statements in Dart.",
+        "answer": "Decision-making statements in Dart allow developers to execute specific code blocks based on conditions. These statements help in controlling the program flow and handling different scenarios dynamically.\n\nKey Decision-Making Statements in Dart:\n\n○ if Statement: Executes a code block if the condition evaluates to true\n\n○ if-else Statement: Executes one block of code if the condition is true, and another if it is false\n\n○ if-else if Ladder: Checks multiple conditions sequentially and executes the block corresponding to the first true condition\n\n○ Switch Statement: Used for multi-way branching based on an expression's value. It matches cases and executes the corresponding block",
+        "code": "void main() {\n    int number = 5;\n    if (number > 0) {\n        print('Positive Number');\n    }\n    if (number % 2 == 0) {\n        print('Even Number');\n    } else {\n        print('Odd Number');\n    }\n    if (number > 0) {\n        print('Positive');\n    } else if (number < 0) {\n        print('Negative');\n    } else {\n        print('Zero');\n    }\n    switch (number) {\n        case 1:\n            print('Number is one');\n            break;\n        case 5:\n            print('Number is five');\n            break;\n        default:\n            print('Number is neither one nor five');\n    }\n}",
+        "isImportant": false
+      },
+      {
+        "question": "8. Explain features of Flutter.",
+        "answer": "Flutter is a popular open-source framework developed by Google for building natively compiled applications for mobile, web, and desktop from a single codebase. It has several powerful features that make it appealing to developers.\n\nKey Features of Flutter:\n\n○ Hot Reload: Allows developers to see the instant results of code changes without restarting the app, making development faster and more efficient\n\n○ Single Codebase: Enables the creation of apps for iOS, Android, Web, and Desktop using one codebase, reducing effort and time\n\n○ Widgets: Provides a rich set of customizable widgets for designing beautiful and interactive user interfaces\n\n○ High Performance: Offers a fast and smooth user experience by using Dart's ahead-of-time (AOT) compilation and Flutter's rendering engine\n\n○ Cross-Platform: Supports building apps for multiple platforms, maintaining a consistent look and feel\n\n○ Expressive UI: Enables the development of visually attractive UIs with advanced animation and graphics capabilities\n\n○ Open-Source: Free to use and supported by an active community of developers\n\n○ Native Performance: Integrates with platform-specific APIs and code for native-like performance\n\nFlutter's features simplify the app development process while ensuring flexibility, performance, and scalability.",
+        "code": "void main() {\n  runApp(MaterialApp(\n    home: Scaffold(\n      appBar: AppBar(title: Text('Flutter Features')),\n      body: Center(child: Text('Powerful and Beautiful Apps with Flutter!')),\n    ),\n  ));\n}",
+        "isImportant": false
+      },
+      {
+        "question": "9. Explain visible and invisible widgets in Flutter.",
+        "answer": "Visible Widgets in Flutter:\n\nVisible widgets are those that directly appear on the screen and form the UI of the application. These widgets interact with users and display content such as text, images, buttons, etc.\n\nExamples of Visible Widgets:\n\n○ Text: Used to display textual content\n\n○ Image: Displays images in the app\n\n○ RaisedButton/OutlinedButton: Buttons that trigger actions on user interaction\n\n○ AppBar: Displays the top navigation bar\n\nInvisible Widgets in Flutter:\n\nInvisible widgets are those that do not appear on the screen directly but help manage or manipulate the layout and state of visible widgets. These widgets structure the UI or provide configurations for other widgets.\n\nExamples of Invisible Widgets:\n\n○ Column/Row: Arranges child widgets vertically or horizontally\n\n○ Padding: Adds spacing around a child widget\n\n○ Expanded/Flexible: Adjusts the size of child widgets within a Row or Column\n\n○ Navigator: Manages navigation and routing between screens\n\nBoth types of widgets work together to create powerful and dynamic user interfaces in Flutter.",
+        "code": "import 'package:flutter/material.dart';\n\nvoid main() {\n  runApp(MyApp());\n}\n\nclass MyApp extends StatelessWidget {\n  @override\n  Widget build(BuildContext context) {\n    return MaterialApp(\n      home: Scaffold(\n        appBar: AppBar(\n          title: Text('Visible and Invisible Widgets'),\n        ),\n        body: Column(\n          children: [\n            Text('This is a visible widget'),\n            Padding(\n              padding: EdgeInsets.all(10.0),\n              child: Text('This text has padding around it'),\n            ),\n          ],\n        ),\n      ),\n    );\n  }\n}",
+        "isImportant": false
+      },
+      {
+        "question": "10. Write a short note on Flutter Form.",
+        "answer": "In Flutter, the Form widget is used to create and manage user input fields collectively, such as text fields or checkboxes. It enables validation and error-handling mechanisms to ensure proper user input.\n\nFeatures of Flutter Form:\n\n○ Groups multiple input fields together\n\n○ Provides a FormState for validation and saving operations\n\n○ Supports form validation with methods like `validate()` and `save()`\n\n○ Works seamlessly with widgets like `TextFormField` for input handling\n\nUsing the Form widget simplifies managing and validating user input in Flutter applications, especially for complex forms.",
+        "code": "import 'package:flutter/material.dart';\n\nvoid main() {\n  runApp(MyApp());\n}\n\nclass MyApp extends StatelessWidget {\n  @override\n  Widget build(BuildContext context) {\n    return MaterialApp(\n      home: Scaffold(\n        appBar: AppBar(\n          title: Text('Flutter Form Example'),\n        ),\n        body: MyForm(),\n      ),\n    );\n  }\n}\n\nclass MyForm extends StatelessWidget {\n  final _formKey = GlobalKey<FormState>();\n\n  @override\n  Widget build(BuildContext context) {\n    return Padding(\n      padding: const EdgeInsets.all(16.0),\n      child: Form(\n        key: _formKey,\n        child: Column(\n          children: [\n            TextFormField(\n              decoration: InputDecoration(labelText: 'Name'),\n              validator: (value) {\n                if (value == null || value.isEmpty) {\n                  return 'Please enter your name';\n                }\n                return null;\n              },\n            ),\n            ElevatedButton(\n              onPressed: () {\n                if (_formKey.currentState!.validate()) {\n                  ScaffoldMessenger.of(context).showSnackBar(\n                    SnackBar(content: Text('Form is valid!')),\n                  );\n                }\n              },\n              child: Text('Submit'),\n            ),\n          ],\n        ),\n      ),\n    );\n  }\n}",
+        "isImportant": false
+      },
+      {
+        "question": "11. Discuss architecture of Flutter in detail.",
+        "answer": "Flutter is a powerful framework for building cross-platform applications. Its architecture is layered, allowing seamless development, rendering, and platform integration. Below are the key layers in Flutter's architecture:\n\n○ Framework Layer: This is the highest level and is written in Dart. It provides essential components, including Widgets, Rendering, and Animation. Widgets: Compose the UI of an app, with a widget tree\n\n○ Engine Layer: Built in C++ and provides low-level rendering support. Houses the Skia graphics library for rendering. Handles text layout, OpenGL or Vulkan rendering, and accessibility\n\n○ Embedder Layer: This is platform-specific and bridges Flutter with the native platform (iOS, Android, or desktop). Responsible for input/output interaction, window size changes, etc\n\n○ Dart Platform: Flutter leverages Dart's JIT (Just-In-Time) during development for hot reload and AOT (Ahead-Of-Time) for fast and native performance in release builds\n\nFlutter’s architecture ensures fast development cycles, expressive UIs, and high performance, making it ideal for modern app development.",
+        "code": "import 'package:flutter/material.dart';\n\nvoid main() {\n  runApp(MyApp());\n}\n\nclass MyApp extends StatelessWidget {\n  @override\n  Widget build(BuildContext context) {\n    return MaterialApp(\n      home: Scaffold(\n        appBar: AppBar(title: Text('Flutter Architecture')),\n        body: Center(child: Text('Understand layered architecture!')),\n      ),\n    );\n  }\n}",
+        "isImportant": false
+      },
+      {
+        "question": "12. Explain any three features of Flutter in detail.",
+        "answer": "Flutter, developed by Google, is a versatile framework for building cross-platform applications. Here are three key features explained in detail:\n\n○ Hot Reload: Hot Reload allows developers to see the immediate results of code changes without restarting the application. It improves productivity during development by enabling fast iterations on UI and functionality. For instance, when a developer changes the color of a button or adjusts an animation, the Hot Reload instantly reflects these changes\n\n○ Widget-Based Architecture: Everything in Flutter is a widget, including text, images, layouts, and even the app itself. These widgets are highly customizable and composable, enabling developers to build beautiful and expressive UIs. Flutter provides pre-built widgets (like `Text`, `Image`, `Container`) and the flexibility to create custom widgets\n\n○ Cross-Platform Development: With a single codebase, Flutter enables the creation of apps for multiple platforms, including iOS, Android, Web, and Desktop. This reduces development time and effort while maintaining a consistent look and feel across devices. Flutter achieves near-native performance by compiling Dart code to native machine code\n\nThese features make Flutter a powerful and efficient tool for modern app development, catering to the needs of both developers and end-users.",
+        "code": "void main() {\n  runApp(MaterialApp(\n    home: Scaffold(\n      appBar: AppBar(title: Text('Flutter Features')),\n      body: Center(\n        child: Column(\n          mainAxisAlignment: MainAxisAlignment.center,\n          children: [\n            Text('Hot Reload: Fast iterations!'),\n            Text('Widgets: Building expressive UIs.'),\n            Text('Cross-Platform: One codebase for all.')\n          ],\n        ),\n      ),\n    ),\n  ));\n}",
+        "isImportant": false
+      },
+      {
+        "question": "13. Explain Spinner in detail.",
+        "answer": "A Spinner (or DropdownButton in Flutter) is a UI component used to select one value from a list of options. It is commonly used for selecting categories, filtering data, or user preferences.\n\n○ Features of Spinner:\n  ○ Provides a dropdown list for easy selection.\n  ○ Can be customized with icons and styling.\n  ○ Supports dynamic data fetching.\n  ○ Allows users to select a single option at a time.\n\n○ Example of a Spinner (Dropdown) in Flutter:\n",
+        "code": "import 'package:flutter/material.dart';\n\nvoid main() {\n  runApp(MyApp());\n}\n\nclass MyApp extends StatelessWidget {\n  @override\n  Widget build(BuildContext context) {\n    return MaterialApp(\n      home: SpinnerExample(),\n    );\n  }\n}\n\nclass SpinnerExample extends StatefulWidget {\n  @override\n  _SpinnerExampleState createState() => _SpinnerExampleState();\n}\n\nclass _SpinnerExampleState extends State<SpinnerExample> {\n  String selectedValue = 'Option 1';\n  List<String> options = ['Option 1', 'Option 2', 'Option 3', 'Option 4'];\n\n  @override\n  Widget build(BuildContext context) {\n    return Scaffold(\n      appBar: AppBar(title: Text('Flutter Spinner')),\n      body: Center(\n        child: DropdownButton<String>(\n          value: selectedValue,\n          onChanged: (newValue) {\n            setState(() {\n              selectedValue = newValue!;\n            });\n          },\n          items: options.map((option) {\n            return DropdownMenuItem<String>(\n              value: option,\n              child: Text(option),\n            );\n          }).toList(),\n        ),\n      ),\n    );\n  }\n}",
+        "isImportant": false
+      },
+      {
+        "question": "14. Explain ListView in detail.",
+        "answer": "ListView is a fundamental widget in Flutter used to display a list of items efficiently. It is commonly used when dealing with dynamic lists where data is retrieved from APIs, databases, or user input. \n\n○ Features of ListView:\n  ○ Supports scrolling.\n  ○ Efficient memory management using lazy loading.\n  ○ Customizable appearance with different layouts.\n  ○ Supports horizontal and vertical orientations.\n  ○ Can include images, text, and other widgets.\n\n○ Types of ListView:\n  ○ ListView(): A simple list without any optimization.\n  ○ ListView.builder(): Creates a list dynamically based on data length.\n  ○ ListView.separated(): Creates a list with custom separators.\n  ○ ListView.custom(): Allows full customization of the list.\n\n○ Example of a Dynamic ListView in Flutter:\n",
+        "code": "import 'package:flutter/material.dart';\n\nvoid main() {\n  runApp(MyApp());\n}\n\nclass MyApp extends StatelessWidget {\n  @override\n  Widget build(BuildContext context) {\n    return MaterialApp(\n      home: ListViewExample(),\n    );\n  }\n}\n\nclass ListViewExample extends StatelessWidget {\n  final List<String> items = ['Item 1', 'Item 2', 'Item 3', 'Item 4', 'Item 5'];\n\n  @Override\n  Widget build(BuildContext context) {\n    return Scaffold(\n      appBar: AppBar(title: Text('Flutter ListView')),\n      body: ListView.builder(\n        itemCount: items.length,\n        itemBuilder: (context, index) {\n          return ListTile(\n            title: Text(items[index]),\n            leading: Icon(Icons.label),\n          );\n        },\n      ),\n    );\n  }\n}",
+        "isImportant": false
+      },
+      {
+        "question": "15. Explain Flutter Charts in detail.",
+        "answer": "Flutter Charts is a package that allows developers to create beautiful and interactive charts in Flutter applications. It provides various types of charts, including bar charts, line charts, pie charts, and more. These charts are widely used in data visualization, reporting, and analytics applications.\n\n○ Features of Flutter Charts:\n\n  ○ Supports multiple chart types: Line, Bar, Pie, Area, Scatter, etc.\n  ○ Interactive features: Zooming, panning, and tooltips.\n  ○ Customization: Allows modifying colors, labels, legends, and grid styles.\n  ○ Real-time data updates: Can be dynamically updated with new data.\n  ○ Animation support: Provides smooth transitions and animations.\n\n○ Common Types of Charts in Flutter:\n\n  ○ Line Chart: Used to represent data trends over time.\n  ○ Bar Chart: Displays data comparisons using rectangular bars.\n  ○ Pie Chart: Represents data as slices of a circular graph.\n  ○ Area Chart: Similar to a line chart but with filled areas.\n\n○ Implementing a Simple Line Chart in Flutter:\n\n",
+        "code": "import 'package:flutter/material.dart';\nimport 'package:syncfusion_flutter_charts/charts.dart';\n\nvoid main() {\n  runApp(MyApp());\n}\n\nclass MyApp extends StatelessWidget {\n  @override\n  Widget build(BuildContext context) {\n    return MaterialApp(\n      home: ChartScreen(),\n    );\n  }\n}\n\nclass ChartScreen extends StatelessWidget {\n  @override\n  Widget build(BuildContext context) {\n    return Scaffold(\n      appBar: AppBar(title: Text('Flutter Line Chart')),\n      body: SfCartesianChart(\n        primaryXAxis: CategoryAxis(),\n        series: <LineSeries<SalesData, String>>[\n          LineSeries<SalesData, String>(\n            dataSource: [\n              SalesData('Jan', 30),\n              SalesData('Feb', 42),\n              SalesData('Mar', 55),\n              SalesData('Apr', 28),\n            ],\n            xValueMapper: (SalesData sales, _) => sales.month,\n            yValueMapper: (SalesData sales, _) => sales.sales,\n          )\n        ],\n      ),\n    );\n  }\n}\n\nclass SalesData {\n  final String month;\n  final double sales;\n  SalesData(this.month, this.sales);\n}",
+        "isImportant": false
+      },
+      {
+        "question": "16. Explain any three Flutter widgets in detail.",
+        "answer": "Flutter provides a wide range of widgets that help in building beautiful and interactive user interfaces. Widgets in Flutter are classified as Stateless and Stateful widgets. Below are three commonly used Flutter widgets:\n\n○ 1. Container Widget:\n  ○ The Container widget is a flexible box model similar to a div in web development.\n  ○ It is used for layout, styling, padding, margin, and decoration.\n  ○ Supports background color, borders, shadows, and constraints.\n  ○ Example use case: Creating a styled box for displaying text or images.\n\n○ 2. Column Widget:\n  ○ The Column widget arranges its children in a vertical direction.\n  ○ It is commonly used for layouts that stack elements on top of each other.\n  ○ Can be combined with other widgets like Row to create complex UIs.\n  ○ Example use case: Displaying a list of text elements in a vertical layout.\n\n○ 3. TextField Widget:\n  ○ The TextField widget is used for user input in forms and text-based interactions.\n  ○ Supports placeholder text, styling, validation, and keyboard input handling.\n  ○ Can be used for email, password, search, and number input fields.\n  ○ Example use case: A login form where users enter their username and password.\n\n○ Example Implementation of These Widgets in Flutter:\n",
+        "code": "import 'package:flutter/material.dart';\n\nvoid main() {\n  runApp(MyApp());\n}\n\nclass MyApp extends StatelessWidget {\n  @override\n  Widget build(BuildContext context) {\n    return MaterialApp(\n      home: WidgetExample(),\n    );\n  }\n}\n\nclass WidgetExample extends StatelessWidget {\n  @override\n  Widget build(BuildContext context) {\n    return Scaffold(\n      appBar: AppBar(title: Text('Flutter Widgets Example')),\n      body: Padding(\n        padding: EdgeInsets.all(16.0),\n        child: Column(\n          crossAxisAlignment: CrossAxisAlignment.start,\n          children: [\n            Container(\n              padding: EdgeInsets.all(10),\n              decoration: BoxDecoration(\n                color: Colors.blue,\n                borderRadius: BorderRadius.circular(10),\n              ),\n              child: Text(\n                'This is a Container',\n                style: TextStyle(color: Colors.white, fontSize: 18),\n              ),\n            ),\n            SizedBox(height: 20),\n            Column(\n              children: [\n                Text('Item 1', style: TextStyle(fontSize: 16)),\n                Text('Item 2', style: TextStyle(fontSize: 16)),\n                Text('Item 3', style: TextStyle(fontSize: 16)),\n              ],\n            ),\n            SizedBox(height: 20),\n            TextField(\n              decoration: InputDecoration(\n                labelText: 'Enter Text',\n                border: OutlineInputBorder(),\n              ),\n            ),\n          ],\n        ),\n      ),\n    );\n  }\n}",
+        "isImportant": false
+      }
+    ]
+  
+}

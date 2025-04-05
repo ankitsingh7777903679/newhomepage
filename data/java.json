@@ -1,0 +1,478 @@
+ {
+    
+      "mcq": [
+        {
+          "question": "1. What does JVM stand for?",
+          "options": [
+            "a) Java Visual Machine",
+            "b) Java Virtual Machine",
+            "c) Java Variable Machine",
+            "d) Java Version Machine"
+          ],
+          "correctAnswer": "b",
+          "id": "java-q1",
+          "isImportant": false
+        },
+        {
+          "question": "2. Who is the creator of the Java programming language?",
+          "options": [
+            "a) Blais Pascal",
+            "b) Charles Babbage",
+            "c) James Gosling",
+            "d) M. P. Java"
+          ],
+          "correctAnswer": "c",
+          "id": "java-q2",
+          "isImportant": false
+        },
+        {
+          "question": "3. Which component provides the runtime environment for Java bytecode?",
+          "options": [
+            "a) JVM",
+            "b) JAVAC",
+            "c) JDK",
+            "d) JRE"
+          ],
+          "correctAnswer": "d",
+          "id": "java-q3",
+          "isImportant": false
+        },
+        {
+          "question": "4. Which statement is true about Java?",
+          "options": [
+            "a) Java is a platform-independent programming language",
+            "b) Java is a sequence-dependent programming language",
+            "c) Java is a code-dependent programming language",
+            "d) Java is a platform-dependent programming language"
+          ],
+          "correctAnswer": "a",
+          "id": "java-q4",
+          "isImportant": false
+        },
+        {
+          "question": "5. Which of these is a selection statement in Java?",
+          "options": [
+            "a) for()",
+            "b) break",
+            "c) if()",
+            "d) continue"
+          ],
+          "correctAnswer": "c",
+          "id": "java-q5",
+          "isImportant": false
+        },
+        {
+          "question": "6. Which keyword is used to define interfaces in Java?",
+          "options": [
+            "a) Intf",
+            "b) Interface",
+            "c) intf",
+            "d) interface"
+          ],
+          "correctAnswer": "d",
+          "id": "java-q6",
+          "isImportant": false
+        },
+        {
+          "question": "7. Which keyword is used for the block to be examined for exceptions?",
+          "options": [
+            "a) catch",
+            "b) try",
+            "c) check",
+            "d) throw"
+          ],
+          "correctAnswer": "b",
+          "id": "java-q7",
+          "isImportant": false
+        },
+        {
+          "question": "8. Which method of the String class is used to obtain the length of a String object?",
+          "options": [
+            "a) lengthOf()",
+            "b) get()",
+            "c) length()",
+            "d) sizeof()"
+          ],
+          "correctAnswer": "c",
+          "id": "java-q8",
+          "isImportant": false
+        },
+        {
+          "question": "9. Which keyword can be used to prevent method overriding in Java?",
+          "options": [
+            "a) protected",
+            "b) final",
+            "c) static",
+            "d) constant"
+          ],
+          "correctAnswer": "b",
+          "id": "java-q9",
+          "isImportant": false
+        },
+        {
+          "question": "10. Which of these is the correct way of inheriting class A by class B?",
+          "options": [
+            "a) class B extends A {}",
+            "b) class B + class A {}",
+            "c) class B extends class A {}",
+            "d) class B inherits class A {}"
+          ],
+          "correctAnswer": "a",
+          "id": "java-q10",
+          "isImportant": false
+        },
+        {
+          "question": "11. What is the numerical range of a char?",
+          "options": [
+            "a) 0 to 32767",
+            "b) 0 to 65535",
+            "c) -128 to 127",
+            "d) (215) to (215) -1"
+          ],
+          "correctAnswer": "b",
+          "id": "java-11",
+          "isImportant": false
+        },
+        {
+          "question": "12. The command javac:",
+          "options": [
+            "a) Converts a Java program into machine language",
+            "b) None of the above",
+            "c) Converts a Java program into bytecode",
+            "d) Converts a Java program into binary code"
+          ],
+          "correctAnswer": "c",
+          "id": "java-12",
+          "isImportant": false
+        },
+        {
+          "question": "13. What's the difference between an Applet and an application?",
+          "options": [
+            "a) Applets can run over the web.",
+            "b) An application is only available on Windows",
+            "c) None of the above",
+            "d) Applets can paint words, applications cannot."
+          ],
+          "correctAnswer": "a",
+          "id": "java-13",
+          "isImportant": false
+        },
+        {
+          "question": "14. Which operator is used by Java runtime implementations to free the memory of an object when it is no longer needed?",
+          "options": [
+            "a) free",
+            "b) None of the above",
+            "c) Delete",
+            "d) new"
+          ],
+          "correctAnswer": "b",
+          "id": "java-14",
+          "isImportant": false
+        },
+        {
+          "question": "15. The class at the top of exception class hierarchy is...",
+          "options": [
+            "a) Object",
+            "b) ArithmeticException",
+            "c) Throwable",
+            "d) Exception"
+          ],
+          "correctAnswer": "c",
+          "id": "java-15",
+          "isImportant": false
+        },
+        {
+          "question": "16. What is the default value of priority variable MIN_PRIORITY AND MAX_PRIORITY?",
+          "options": [
+            "a) 0 & 1",
+            "b) 1 & 10",
+            "c) 0 & 256",
+            "d) 1 & 256"
+          ],
+          "correctAnswer": "b",
+          "id": "java-16",
+          "isImportant": false
+        },
+        {
+          "question": "17. Which of these class is used to create an object whose character sequence is mutable?",
+          "options": [
+            "a) String()",
+            "b) None of the mentioned",
+            "c) StringBuffer()",
+            "d) String() & StringBuffer()"
+          ],
+          "correctAnswer": "c",
+          "id": "java-17",
+          "isImportant": false
+        },
+        {
+          "question": "18. First Node of linked list is called as.",
+          "options": [
+            "a) Tail",
+            "b) Value",
+            "c) Head",
+            "d) Location"
+          ],
+          "correctAnswer": "c",
+          "id": "java-18",
+          "isImportant": false
+        },
+        {
+          "question": "19. In ________ Last item contains link of the first element as next and the first element has a link to the last element as previous.",
+          "options": [
+            "a) Doubly Linked List",
+            "b) Circular Linked List",
+            "c) Singly Linked List",
+            "d) All of the above"
+          ],
+          "correctAnswer": "b",
+          "id": "java-19",
+          "isImportant": false
+        },
+        {
+          "question": "20. Which of these data types is used to store command line arguments?",
+          "options": [
+            "a) Stack",
+            "b) Integer",
+            "c) Array",
+            "d) String"
+          ],
+          "correctAnswer": "d",
+          "id": "java-q20",
+          "isImportant": false
+        }
+      ],
+      "onemarks": [
+        {
+          "question": "1. What is JVM?",
+          "answer": "The Java Virtual Machine (JVM) is an abstract computing machine that enables a computer to run a Java program.",
+          "isImportant": false
+        },
+        {
+          "question": "2. What is the unsigned right shift operator in Java?",
+          "answer": "The unsigned right shift, also known as the zero-fill right shift, is a bit manipulation operation in Java. It shifts the bits of a number to the right, and instead of preserving the sign bit (like the signed right shift), it fills the leftmost bits with zeros. This is represented by the operator >>> in Java.",
+          "code": "int number = -8; // Binary: 11111111111111111111111111111000\nint result = number >>> 2; // Shifts",
+          "isImportant": false
+        },
+        {
+          "question": "3. Give Use of this keyword.",
+          "answer": "In Java, the this keyword is a reference to the current object in a method or constructor.",
+          "code": "public void setName(String name) {\n    this.name = name; // Refers to the instance variable 'name'\n}\n\npublic Person(String name) {\n    this(name, 25); // Calls the constructor with two parameters\n}\n\npublic Person(String name, int age) {\n    this.name = name;\n    this.age = age;\n}",
+          "isImportant": false
+        },
+        {
+          "question": "4. What is the difference between checked and unchecked exceptions?",
+          "answer": "Checked exceptions are checked at compile time, requiring the programmer to handle them using try-catch blocks or by declaring them in the method signature using throws. Examples include IOException and SQLException.\nUnchecked exceptions occur at runtime and are not checked during compilation. They typically represent programming errors, such as NullPointerException and ArrayIndexOutOfBoundsException.",
+          "code": "",
+          "isImportant": false
+        },
+        {
+          "question": "5. What is garbage collection?",
+          "answer": "Garbage collection in Java is the process of automatically identifying and removing objects that are no longer in use to reclaim memory and prevent memory leaks. This ensures efficient memory management without requiring explicit deallocation by the programmer.",
+          "code": "",
+          "isImportant": false
+        },
+        {
+          "question": "6. List methods of the Graphics class.",
+          "answer": "The Graphics class in Java provides methods for drawing shapes, text, and images. Common methods include drawLine(), drawRect(), drawOval(), drawString(), setColor(), and fillRect(). These methods are used in graphical programming for creating custom drawings.",
+          "code": "",
+          "isImportant": false
+        }
+      ]
+    ,
+    
+      "long": [
+        {
+          "question": "1. What are the features of Java?",
+          "answer": "Java is a powerful, versatile programming language that is widely used in software development. Its features are what make it stand out as an efficient and robust language. Here are the detailed features:\n\n○ Platform Independence: Java's 'Write Once, Run Anywhere' principle allows code compiled on one platform to run seamlessly on another, thanks to the Java Virtual Machine (JVM)\n\n○ Object-Oriented: Java adopts the object-oriented programming paradigm, encouraging modular and reusable code by organizing it into classes and objects\n\n○ Robust: With features like garbage collection, exception handling, and memory allocation, Java minimizes programming errors and ensures a stable runtime environment\n\n○ Secure: Java applications are run in a secure environment. The security manager defines access rules for classes, providing protection against unauthorized access\n\n○ Multithreaded: Java supports multithreading, enabling the simultaneous execution of two or more threads for maximum utilization of the CPU\n\n○ High Performance: Java achieves high performance through the Just-In-Time (JIT) compiler, which translates bytecode into native machine code at runtime\n\n○ Dynamic and Extensible: Java supports dynamic linking of classes at runtime and allows integration with libraries, making applications adaptable and flexible\n\n○ Rich API: Java provides a wide array of built-in libraries for tasks like data structures, networking, GUI development, and more\n\nHere’s a program that demonstrates some of these features, such as platform independence, object-oriented programming, and multithreading:\n\n",
+          "code": "public class JavaFeaturesDemo implements Runnable {\n    private String message;\n\n    public JavaFeaturesDemo(String message) {\n        this.message = message; // Object-Oriented: Encapsulation\n    }\n\n    @Override\n    public void run() {\n        System.out.println(message);\n    }\n\n    public static void main(String[] args) {\n        Thread thread1 = new Thread(new JavaFeaturesDemo(\"Hello from Thread 1!\"));\n        Thread thread2 = new Thread(new JavaFeaturesDemo(\"Hello from Thread 2!\"));\n\n        thread1.start(); // Multithreading: Starts Thread 1\n        thread2.start(); // Multithreading: Starts Thread 2\n\n        System.out.println(\"Java is platform-independent, robust, and dynamic!\");\n    }\n}",
+          "isImportant": true
+        },
+        {
+          "question": "2. Explain Java programming structure.",
+          "answer": "A Java program follows a specific structure that ensures the program is organized, readable, and executable. The structure consists of the following components:\n\n○ Package Declaration (Optional): If the program belongs to a specific package, it begins with a package declaration. Example: `package myPackage;`\n\n○ Import Statements (Optional): To include libraries or classes from Java's API, the `import` keyword is used. Example: `import java.util.Scanner;`\n\n○ Class Definition: Every Java program is written inside a class. The class name must match the filename (if it is public). Example: `public class MyProgram { ... }`\n\n○ Main Method: The `main` method serves as the entry point for program execution. Its signature is `public static void main(String[] args) { ... }`\n\n○ Variables and Methods: Inside the class, you define variables and methods to perform specific tasks. Example: `int num = 10;`\n\n○ Comments: Comments are added for clarity and do not affect program execution. They can be single-line (`//`) or multi-line (`/* */`)\n\nHere’s an example program that demonstrates the Java programming structure:",
+          "code": "package myPackage;\n\nimport java.util.Scanner;\n\npublic class MyProgram {\n    public static void main(String[] args) {\n        Scanner scanner = new Scanner(System.in);\n        System.out.print(\"Enter your name: \");\n        String name = scanner.nextLine(); // Reads user input\n        System.out.println(\"Hello, \" + name + \"!\"); // Prints output\n        scanner.close();\n    }\n}",
+          "isImportant": false
+        },
+        {
+          "question": "3. Explain the static keyword in detail with its types.",
+          "answer": "In Java, the static keyword is used to create variables, methods, blocks, or nested classes that are shared across all instances of the class. Static members belong to the class rather than any specific instance, making them memory efficient and easily accessible without creating an object.\n\nTypes of Static Members:\n\nStatic Variables:\n○ Also known as class variables\n○ These are shared across all objects of the class and only a single copy of the variable is maintained\n○ Example: `static int count;`\n\nStatic Methods:\n○ These are methods that can be called without creating an object of the class\n○ Static methods cannot access instance variables or methods directly; they can only access other static members\n○ Example: `static void display();`\n\nStatic Blocks:\n○ A static block is used for initializing static variables\n○ It is executed only once, when the class is loaded\n○ Example:\n     ```java\n     static {\n         System.out.println(\"Static block executed!\");\n     }\n     ```\n\nStatic Nested Classes:\n○ A static nested class is a class defined inside another class with the static modifier\n○ It can be instantiated without an object of the outer class\n○ Example:\n     ```java\n     static class NestedClass {\n         void display() {\n             System.out.println(\"Inside static nested class\");\n         }\n     }\n     ```",
+          "code": "public class StaticKeywordDemo {\n    // Static variable\n    static int count = 0;\n\n    // Static method\n    static void displayCount() {\n        System.out.println(\"Count: \" + count);\n    }\n\n    // Static block\n    static {\n        count = 10;\n        System.out.println(\"Static block executed! Count initialized to \" + count);\n    }\n\n    // Static nested class\n    static class NestedClass {\n        void showMessage() {\n            System.out.println(\"Hello from the static nested class!\");\n        }\n    }\n\n    public static void main(String[] args) {\n        // Accessing static variable and method\n        StaticKeywordDemo.displayCount(); // Outputs: Count: 10\n\n        // Instantiating the static nested class\n        StaticKeywordDemo.NestedClass nested = new StaticKeywordDemo.NestedClass();\n        nested.showMessage(); // Outputs: Hello from the static nested class!\n    }\n}",
+          "isImportant": true
+        },
+        {
+          "question": "4. Explain runtime polymorphism using an interface.",
+          "answer": "Runtime polymorphism in Java occurs when a call to an overridden method is resolved at runtime rather than compile time. It is achieved by method overriding, typically through inheritance or interfaces. When a class implements an interface and provides implementations for its methods, the actual method that gets executed depends on the runtime type of the object being referred to, not the type of the reference variable. This enables dynamic method dispatch.\n\nInterfaces are used to achieve runtime polymorphism by defining a common method signature that different classes can implement differently. The appropriate implementation is determined at runtime based on the actual object being used.",
+          "code": "interface Animal {\n    void sound(); // Interface method\n}\n\nclass Dog implements Animal {\n    @Override\n    public void sound() {\n        System.out.println(\"Woof\");\n    }\n}\n\nclass Cat implements Animal {\n    @Override\n    public void sound() {\n        System.out.println(\"Meow\");\n    }\n}\n\npublic class RuntimePolymorphismDemo {\n    public static void main(String[] args) {\n        Animal myAnimal;\n\n        myAnimal = new Dog(); // Runtime decision\n        myAnimal.sound(); // Outputs: Woof\n\n        myAnimal = new Cat(); // Runtime decision\n        myAnimal.sound(); // Outputs: Meow\n    }\n}",
+          "isImportant": true
+        },
+        {
+          "question": "5. Give the difference between String and StringBuffer, and explain any 4 methods of the String class.",
+          "answer": "Difference between String and StringBuffer:\n\n○ Mutability: String: Immutable. Any modification creates a new object. StringBuffer: Mutable. Modifications occur within the same object\n\n○ Performance: String: Slower for frequent modifications due to object creation. StringBuffer: Faster for frequent modifications as it doesn’t create new objects\n\n○ Thread-Safety: String: Not thread-safe. StringBuffer: Thread-safe because its methods are synchronized\n\n○ Usage: String: Used when data doesn’t change frequently. StringBuffer: Used when data changes frequently (e.g., in loops)\n\n4 Methods of the String Class:\n\nlength():\n○ Returns the length of the string\n○ Example:\n   ```java\n   String str = \"Hello\";\n   int len = str.length(); // Output: 5\n   ```\n\ncharAt(int index):\n○ Returns the character at the specified index\n○ Example:\n   ```java\n   String str = \"Hello\";\n   char ch = str.charAt(1); // Output: 'e'\n   ```\n\nsubstring(int beginIndex, int endIndex):\n○ Returns a substring from the specified range\n○ Example:\n   ```java\n   String str = \"Hello World\";\n   String sub = str.substring(0, 5); // Output: \"Hello\"\n   ```\n\ntoUpperCase():\n○ Converts all characters of the string to uppercase\n○ Example:\n   ```java\n   String str = \"hello\";\n   String upper = str.toUpperCase(); // Output: \"HELLO\"\n   ```",
+          "code": "public class StringBufferDemo {\n    public static void main(String[] args) {\n        // Using StringBuffer for efficient modifications\n        StringBuffer sb = new StringBuffer(\"Hello\");\n        sb.append(\" World\"); // Modifies the same object\n        System.out.println(sb); // Output: Hello World\n\n        // Demonstrating String immutability\n        String str = \"Hello\";\n        String newStr = str.concat(\" World\"); // Creates a new object\n        System.out.println(newStr); // Output: Hello World\n    }\n}",
+          "isImportant": true
+        },
+        {
+          "question": "6. Explain try, catch, and finally keywords in Java.",
+          "answer": "In Java, the try, catch, and finally keywords are used for exception handling, enabling developers to handle runtime errors gracefully and maintain normal program flow.\n\n○ try block: The try block contains the code that might throw an exception. If an exception occurs, it is passed to the corresponding catch block\n\n○ catch block: The catch block is used to handle specific exceptions. You can have multiple catch blocks to handle different types of exceptions separately\n\n○ finally block: The finally block contains code that will execute regardless of whether an exception was thrown or caught. It is typically used for cleanup activities, such as closing resources",
+          "code": "public class ExceptionHandlingDemo {\n    public static void main(String[] args) {\n        try {\n            int result = 10 / 0; // This will throw an ArithmeticException\n            System.out.println(\"Result: \" + result);\n        } catch (ArithmeticException e) {\n            System.out.println(\"Exception caught: Division by zero.\");\n        } finally {\n            System.out.println(\"Finally block executed.\"); // Cleanup code\n        }\n    }\n}",
+          "isImportant": true
+        },
+        {
+          "question": "7. What is a thread? Explain thread lifecycle.",
+          "answer": "A thread in Java is the smallest unit of a process that runs independently. It is a lightweight subprocess and is part of a multithreaded environment, allowing multiple tasks to run concurrently within a program. Threads enhance the efficiency of CPU utilization by enabling parallel execution.\n\nThread Lifecycle:\n\n○ New (Created): A thread begins its lifecycle in the 'new' state when it is created using the `Thread` class or implementing the `Runnable` interface but hasn't started executing. Example: `Thread t = new Thread();`\n\n○ Runnable: The thread enters the runnable state after the `start()` method is called. It is ready to run and waiting for CPU scheduling\n\n○ Running: When a thread scheduler selects the thread, it moves to the running state, where the `run()` method executes\n\n○ Blocked/Waiting: The thread enters this state if it is waiting for some resource or signal, such as waiting for I/O operations to complete\n\n○ Terminated: The thread ends its lifecycle after completing execution or when it is explicitly stopped",
+          "code": "class MyThread extends Thread {\n        public void run() {\n        System.out.println(\"Thread is running...\");\n    }\n\n    public static void main(String[] args) {\n        MyThread thread = new MyThread();\n        thread.start(); // Moves thread to Runnable state\n    }\n}",
+          "isImportant": true
+        },
+        {
+          "question": "8. What is a package? Explain package creation and import in detail with an example.",
+          "answer": "In Java, a package is a way of grouping related classes and interfaces together, which helps in organizing code and avoiding name conflicts. Packages also make it easier to manage access control and reuse code.\n\nTypes of Packages:\n\n○ Built-in Packages: Java provides several built-in packages like `java.util` (for utility classes) and `java.io` (for input/output operations)\n\n○ User-defined Packages: Developers can create their own packages to organize their classes as per their needs\n\nSteps to Create and Import a Package:\n\n○ Creating a Package: Use the `package` keyword at the beginning of the Java file to specify the package name. Save the file in a folder that matches the package name. Example:\n   ```java\n   package mypackage;\n\n   public class MyClass {\n       public void displayMessage() {\n           System.out.println(\"Hello from MyClass in mypackage!\");\n       }\n   }\n   ```\n   Save this file as `MyClass.java` inside a folder named `mypackage`\n\n○ Compiling the Package: Compile the file using the command: `javac -d . MyClass.java`. The `-d .` option creates the package structure in the current directory\n\n○ Using the Package: Import the package in another class using the `import` keyword. Call the methods or access the classes from the package. Example:\n   ```java\n   import mypackage.MyClass;\n\n   public class TestPackage {\n       public static void main(String[] args) {\n           MyClass obj = new MyClass();\n           obj.displayMessage();\n       }\n   }\n   ```\n\n○ Running the Program: Compile the `TestPackage.java` file. Run the program: `java TestPackage`\n\nThe output will be: \"Hello from MyClass in mypackage!\"\n\nPackages improve code modularity and reusability and make large-scale development more manageable.",
+          "code": "package mypackage;\n\npublic class MyClass {\n    public void displayMessage() {\n        System.out.println(\"Hello from MyClass in mypackage!\");\n    }\n}\n\n// File: TestPackage.java\nimport mypackage.MyClass;\n\npublic class TestPackage {\n    public static void main(String[] args) {\n        MyClass obj = new MyClass();\n        obj.displayMessage();\n    }\n}",
+          "isImportant": true
+        },
+        {
+          "question": "9. What is <applet>? How can we pass parameters to an applet?",
+          "answer": "In Java, `<applet>` is an HTML tag that is used to embed a Java applet in a webpage. Applets are small Java applications that run within a web browser or an applet viewer. Although applets are now considered outdated, they were widely used for interactive web applications.\n\nPassing Parameters to an Applet:\n\n○ Parameters can be passed to an applet using the `<param>` tag inside the `<applet>` tag in an HTML file\n\n○ The applet can retrieve these parameters using the `getParameter(String name)` method in the Java code\n\nThe `<param>` tag specifies the name and value of the parameter. The applet reads these values during its execution.",
+          "code": "import java.applet.Applet;\nimport java.awt.Graphics;\n\npublic class ParamApplet extends Applet {\n    String message;\n\n    @Override\n    public void init() {\n        message = getParameter(\"message\"); // Retrieves the parameter value\n        if (message == null) {\n            message = \"Default Message\"; // Fallback if no parameter is passed\n        }\n    }\n\n    @Override\n    public void paint(Graphics g) {\n        g.drawString(message, 20, 20); // Displays the message\n    }\n}\n\n// Corresponding HTML File\n// <html>\n// <body>\n// <applet code=\"ParamApplet.class\" width=\"300\" height=\"100\">\n// <param name=\"message\" value=\"Hello, Applet!\">\n// </applet>\n// </body>\n// </html>",
+          "isImportant": false
+        },
+        {
+          "question": "10. What is method overloading? Differentiate between method overloading and overriding.",
+          "answer": "Method overloading is a feature in Java where two or more methods in the same class share the same name but differ in their parameter lists (number, type, or order of parameters). It provides multiple ways to perform a similar task.\n\nDifference Between Method Overloading and Method Overriding:\n\n○ Definition: Overloading: Allows multiple methods with the same name but different parameter lists within the same class. Overriding: Redefines a method of the parent class in the child class to provide a specific implementation\n\n○ Parameters: Overloading: Parameters must be different (number, type, or order). Overriding: Parameters must be the same as the parent class method\n\n○ Access: Overloading: Can exist in the same or different classes (inheritance not required). Overriding: Requires inheritance, as the method is redefined in a child class\n\n○ Binding: Overloading: Resolved at compile time (static binding). Overriding: Resolved at runtime (dynamic binding)",
+          "code": "class OverloadingDemo {\n    // Overloaded methods\n    void display(int a) {\n        System.out.println(\"Display with an integer: \" + a);\n    }\n\n    void display(String str) {\n        System.out.println(\"Display with a string: \" + str);\n    }\n\n    public static void main(String[] args) {\n        OverloadingDemo obj = new OverloadingDemo();\n        obj.display(10);  // Calls the first method\n        obj.display(\"Hello\");  // Calls the second method\n    }\n}\n\nclass Parent {\n    void show() {\n        System.out.println(\"Parent show method\");\n    }\n}\n\nclass Child extends Parent {\n    // Override\n    void show() {\n        System.out.println(\"Child show method\");\n    }\n\n    public static void main(String[] args) {\n        Parent obj = new Child(); // Upcasting\n        obj.show(); // Calls the overridden method in Child class\n    }\n}",
+          "isImportant": true
+        },
+        {
+          "question": "11. Explain bitwise operators in Java.",
+          "answer": "Bitwise operators in Java perform operations on individual bits of integer types, such as int and long. They are used for low-level programming, such as working with flags or manipulating binary data.\n\nBitwise Operators:\n\n○ AND (&): Performs a bitwise AND operation. It returns 1 if both corresponding bits are 1; otherwise, it returns 0. Example: `5 & 3` (Binary: 0101 & 0011) Result: 1 (Binary: 0001)\n\n○ OR (|): Performs a bitwise OR operation. It returns 1 if either of the corresponding bits is 1. Example: `5 | 3` (Binary: 0101 | 0011) Result: 7 (Binary: 0111)\n\n○ XOR (^): Performs a bitwise XOR operation. It returns 1 if the corresponding bits are different; otherwise, it returns 0. Example: `5 ^ 3` (Binary: 0101 ^ 0011) Result: 6 (Binary: 0110)\n\n○ Complement (~): Inverts all bits of the number. Each 0 becomes 1 and each 1 becomes 0. Example: `~5` (Binary: ~0101) Result: -6 (Binary for -6 in two's complement: 1010)\n\n○ Left Shift (<<): Shifts bits to the left and fills zeros in the vacant positions. It effectively multiplies the number by 2 for each shift. Example: `5 << 1` (Binary: 0101 << 1) Result: 10 (Binary: 1010)\n\n○ Right Shift (>>): Shifts bits to the right and fills the leftmost positions with the sign bit (0 for positive numbers, 1 for negative numbers). It effectively divides the number by 2 for each shift. Example: `5 >> 1` (Binary: 0101 >> 1) Result: 2 (Binary: 0010)\n\n○ Unsigned Right Shift (>>>): Shifts bits to the right and fills the leftmost positions with 0, regardless of the sign. Example: `-5 >>> 1` (Binary: -5 in two's complement is 11111111 11111111 11111111 11111011; >>> 1) Result: 2147483645",
+          "code": "public class BitwiseOperatorsDemo {\n    public static void main(String[] args) {\n        int a = 5; // Binary: 0101\n        int b = 3; // Binary: 0011\n\n        // Bitwise AND\n        System.out.println(\"a & b: \" + (a & b)); // Output: 1\n\n        // Bitwise OR\n        System.out.println(\"a | b: \" + (a | b)); // Output: 7\n\n        // Bitwise XOR\n        System.out.println(\"a ^ b: \" + (a ^ b)); // Output: 6\n\n        // Bitwise Complement\n        System.out.println(\"~a: \" + (~a)); // Output: -6\n\n        // Left Shift\n        System.out.println(\"a << 1: \" + (a << 1)); // Output: 10\n\n        // Right Shift\n        System.out.println(\"a >> 1: \" + (a >> 1)); // Output: 2\n\n        // Unsigned Right Shift\n        System.out.println(\"-5 >>> 1: \" + (-5 >>> 1)); // Output: 2147483645\n    }\n}",
+          "isImportant": false
+        },
+        {
+          "question": "12. What is a singly linked list? Write a program to create and display a singly linked list.",
+          "answer": "A singly linked list is a linear data structure in which each element (called a node) contains two parts: data and a reference (or link) to the next node in the sequence. The last node's reference points to null, indicating the end of the list. Singly linked lists are dynamic and allow for efficient insertion and deletion operations.",
+          "code": "class Node {\n    int data;\n    Node next; // Reference to the next node\n\n    Node(int data) {\n        this.data = data;\n        this.next = null;\n    }\n}\n\npublic class SinglyLinkedList {\n    private Node head; // Head of the linked list\n\n    // Method to add a new node to the linked list\n    public void addNode(int data) {\n        Node newNode = new Node(data);\n\n        if (head == null) {\n            head = newNode;\n        } else {\n            Node temp = head;\n            while (temp.next != null) {\n                temp = temp.next;\n            }\n            temp.next = newNode;\n        }\n    }\n\n    // Method to display the linked list\n    public void displayList() {\n        Node temp = head;\n        while (temp != null) {\n            System.out.print(temp.data + \" -> \");\n            temp = temp.next;\n        }\n        System.out.println(\"null\");\n    }\n\n    public static void main(String[] args) {\n        SinglyLinkedList list = new SinglyLinkedList();\n\n        // Adding nodes to the linked list\n        list.addNode(10);\n        list.addNode(20);\n        list.addNode(30);\n\n        // Displaying the linked list\n        System.out.println(\"Singly Linked List:\");\n        list.displayList();\n    }\n}",
+          "isImportant": true
+        },
+        {
+          "question": "13. Write a program to accept a number from the command line and raise a user-defined exception if it is a negative number.",
+          "answer": "The program demonstrates how to accept a number as a command-line argument, check if it is negative, and raise a user-defined exception if it is. User-defined exceptions are created by extending the Exception class.",
+          "code": "class NegativeNumberException extends Exception {\n    public NegativeNumberException(String message) {\n        super(message);\n    }\n}\n\npublic class CustomExceptionDemo {\n    public static void main(String[] args) {\n        try {\n            if (args.length == 0) {\n                throw new IllegalArgumentException(\"Please provide a number as a command-line argument.\");\n            }\n\n            int number = Integer.parseInt(args[0]);\n\n            if (number < 0) {\n                throw new NegativeNumberException(\"Negative numbers are not allowed: \" + number);\n            }\n\n            System.out.println(\"The number is: \" + number);\n        } catch (NegativeNumberException e) {\n            System.out.println(\"Exception caught: \" + e.getMessage());\n        } catch (NumberFormatException e) {\n            System.out.println(\"Invalid input. Please enter a valid integer.\");\n        } catch (Exception e) {\n            System.out.println(\"Error: \" + e.getMessage());\n        }\n    }\n}",
+          "isImportant": false
+        },
+        {
+          "question": "14. What is applet? Explain applet life cycle with example.",
+          "answer": "Applet:\n○ An applet is a small Java program that runs within a web browser, embedded in an HTML page using the `<applet>` tag\n○ It is designed to provide interactive features to web applications, such as animations, games, or data visualization\n○ Applets are executed by the Java Runtime Environment (JRE) within the browser and are platform-independent\n\nApplet Life Cycle:\n○ The life cycle of an applet consists of five key methods that manage its execution\n○ `init()`: Called once when the applet is first loaded; used for initialization (e.g., setting up variables or GUI components)\n○ `start()`: Called after `init()` and whenever the applet becomes active (e.g., when the browser page is revisited); starts the applet's execution\n○ `stop()`: Called when the applet becomes inactive (e.g., when the user navigates away from the page); pauses the applet\n○ `destroy()`: Called once when the applet is unloaded (e.g., when the browser is closed); cleans up resources\n○ `paint(Graphics g)`: Called after `start()` and whenever the applet needs to redraw its content; used for drawing graphics\n○ Example: An applet that displays \"Hello, Applet!\" on the screen demonstrates the life cycle methods",
+          "code": "import java.applet.Applet;\nimport java.awt.Graphics;\n\npublic class HelloApplet extends Applet {\n    public void init() {\n        System.out.println(\"Applet Initialized\");\n    }\n    public void start() {\n        System.out.println(\"Applet Started\");\n    }\n    public void stop() {\n        System.out.println(\"Applet Stopped\");\n    }\n    public void destroy() {\n        System.out.println(\"Applet Destroyed\");\n    }\n    public void paint(Graphics g) {\n        g.drawString(\"Hello, Applet!\", 50, 50);\n    }\n}\n\n// HTML to run the applet\n<!--\n<applet code=\"HelloApplet.class\" width=\"300\" height=\"200\"></applet>\n-->",
+          "isImportant": false
+        },
+        {
+          "question": "15. What is a package? How can we create a subpackage and import it into another package?",
+          "answer": "What is a Package?\n○ A package in Java is a collection of related classes and interfaces bundled together. It helps organize code, prevent naming conflicts, and enhance code reusability.\n\nCreating a Subpackage and Importing It into Another Package\n○ \n1. Creating a Package\n○ A package is created using the `package` keyword at the beginning of a Java file.\n\n2. Creating a Subpackage\n○ A subpackage is created by defining a package inside another package.\n\n3. Importing a Subpackage into Another Package\n○ You can import a class from a subpackage into another package using the `import` statement.\n\nKey Points:\n○ Packages help in organizing related classes.\n○ Subpackages are just subdirectories inside the main package directory.\n○ Import statements are used to access classes from other packages.\n○ Java package hierarchy follows the folder structure.\n\nDirectory Structure:\n○ \n```\nProject Folder\n│── mypackage\n│   │── A.java\n│   │── C.java\n│   │── subpackage\n│       │── B.java\n```\n\nThis ensures that `mypackage.C` can use both `mypackage.A` and `mypackage.subpackage.B` efficiently.",
+          "code": "// File: A.java\npackage mypackage;\npublic class A {\n    public void display() {\n        System.out.println(\"Class A from mypackage\");\n    }\n}\n\n// File: B.java\npackage mypackage.subpackage;\npublic class B {\n    public void show() {\n        System.out.println(\"Class B from mypackage.subpackage\");\n    }\n}\n\n// File: C.java\npackage mypackage;\nimport mypackage.subpackage.B; // Importing class B from subpackage\n\npublic class C {\n    public static void main(String[] args) {\n        A objA = new A();\n        objA.display();\n        \n        B objB = new B();\n        objB.show();\n    }\n}",
+          "isImportant": false
+        },
+        {
+          "question": "16. Explain any four methods of StringBuffer class.",
+          "answer": "StringBuffer Class Methods\n○ The `StringBuffer` class in Java is a mutable sequence of characters, meaning it allows modifications without creating new objects.\n○ It provides several methods for performing operations on strings efficiently.\n\n1. `append(String str)`\n○ Adds the specified string at the end of the current `StringBuffer`.\n○ Example: `sb.append(\" World\");` → Modifies `sb` to include \" World\".\n\n2. `insert(int offset, String str)`\n○ Inserts the given string at the specified position (index) in the `StringBuffer`.\n○ Example: `sb.insert(5, \"Java\");` → Inserts \"Java\" at index 5.\n\n3. `replace(int start, int end, String str)`\n○ Replaces characters in a specified range with the given string.\n○ Example: `sb.replace(0, 5, \"Hello\");` → Replaces characters from index 0 to 5 with \"Hello\".\n\n4. `reverse()`\n○ Reverses the entire sequence of characters in the `StringBuffer`.\n○ Example: `sb.reverse();` → Reverses the contents of `sb`.\n\nKey Points:\n○ `StringBuffer` is mutable, unlike `String`.\n○ It is synchronized and thread-safe.\n○ Modifications happen in the same memory location, making it efficient for string operations.",
+          "code": "public class StringBufferExample {\n    public static void main(String[] args) {\n        // 1. Append method\n        StringBuffer sb = new StringBuffer(\"Hello\");\n        sb.append(\" World\");\n        System.out.println(\"After append: \" + sb);\n\n        // 2. Insert method\n        sb.insert(5, \" Java\");\n        System.out.println(\"After insert: \" + sb);\n\n        // 3. Replace method\n        sb.replace(0, 5, \"Hi\");\n        System.out.println(\"After replace: \" + sb);\n\n        // 4. Reverse method\n        sb.reverse();\n        System.out.println(\"After reverse: \" + sb);\n    }\n}",
+          "isImportant": true
+        },
+        {
+          "question": "17. What is an Exception? Explain user-defined Exception with an example.",
+          "answer": "Exception:\n○ An exception in Java is an unexpected event that occurs during program execution, disrupting the normal flow of the program.\n○ Exceptions are handled using `try`, `catch`, `finally`, and `throw` to prevent program crashes.\n○ Java provides built-in exceptions like `ArithmeticException`, `NullPointerException`, etc., and also allows users to create custom exceptions.\n\nUser-Defined Exception:\n○ A user-defined exception is a custom exception created by extending the `Exception` class.\n○ It is used when built-in exceptions are not sufficient for handling specific error conditions.\n○ The `throw` keyword is used to explicitly throw the custom exception.\n\nSteps to Create a User-Defined Exception:\n1. Create a class extending `Exception`.\n2. Define a constructor to initialize the exception message.\n3. Use `throw` to raise the exception and `try-catch` to handle it.\n\nKey Points:\n○ User-defined exceptions make error handling more meaningful.\n○ They help in defining custom error messages for specific scenarios.\n○ The `getMessage()` method retrieves the error message associated with the exception.",
+          "code": "class CustomException extends Exception {\n    public CustomException(String message) {\n        super(message);\n    }\n}\n\npublic class UserDefinedExceptionExample {\n    public static void checkAge(int age) throws CustomException {\n        if (age < 18) {\n            throw new CustomException(\"Age must be 18 or above.\");\n        } else {\n            System.out.println(\"You are eligible.\");\n        }\n    }\n    \n    public static void main(String[] args) {\n        try {\n            checkAge(16);\n        } catch (CustomException e) {\n            System.out.println(\"Exception Caught: \" + e.getMessage());\n        }\n    }\n}",
+          "isImportant": false
+        },
+        {
+          "question": "18. Explain the concept of deadlock in detail.",
+          "answer": "Deadlock:\n○ Deadlock is a situation in which two or more processes are unable to proceed because each is waiting for the other to release a resource.\n○ It occurs in multi-threaded or multi-process systems where multiple processes hold resources and request additional resources held by others.\n○ Deadlock leads to system slowdown or complete halt if not handled properly.\n\nConditions for Deadlock (Coffman’s Conditions):\n○ Mutual Exclusion: At least one resource must be held in a non-shareable mode.\n○ Hold and Wait: A process holding a resource is waiting for another resource held by a different process.\n○ No Preemption: Resources cannot be forcibly taken from a process; they must be released voluntarily.\n○ Circular Wait: A set of processes form a circular chain, where each process waits for a resource held by the next process in the chain.\n\nExample Scenario:\n○ Process P1 holds Resource R1 and requests Resource R2.\n○ Process P2 holds Resource R2 and requests Resource R1.\n○ Neither process can proceed because they are waiting for each other to release the resource.\n\nMethods to Handle Deadlock:\n○ Deadlock Prevention: Restricting one of the Coffman conditions to prevent deadlock from occurring.\n○ Deadlock Avoidance: Using algorithms like the Banker's Algorithm to allocate resources safely.\n○ Deadlock Detection and Recovery: Allowing deadlock to occur and then detecting it using resource allocation graphs and recovering by terminating processes or forcibly preempting resources.\n○ Ignoring Deadlock: In some systems, deadlock is ignored, assuming it occurs rarely and will be manually resolved.\n\nExample Code Demonstrating Deadlock:\n",
+          "code": "class DeadlockExample {\n    static final Object resource1 = new Object();\n    static final Object resource2 = new Object();\n\n    public static void main(String[] args) {\n        Thread t1 = new Thread(() -> {\n            synchronized (resource1) {\n                System.out.println(\"Thread 1: Locked resource 1\");\n                try { Thread.sleep(100); } catch (InterruptedException e) {}\n                synchronized (resource2) {\n                    System.out.println(\"Thread 1: Locked resource 2\");\n                }\n            }\n        });\n\n        Thread t2 = new Thread(() -> {\n            synchronized (resource2) {\n                System.out.println(\"Thread 2: Locked resource 2\");\n                try { Thread.sleep(100); } catch (InterruptedException e) {}\n                synchronized (resource1) {\n                    System.out.println(\"Thread 2: Locked resource 1\");\n                }\n            }\n        });\n\n        t1.start();\n        t2.start();\n    }\n}",
+          "isImportant": false
+        },
+        {
+          "question": "19. Compare features of Java and C++.",
+          "answer": "○ Platform Independence:\n  ○ Java: Runs on any platform using JVM (Java Virtual Machine), making it platform-independent.\n  ○ C++: Compiled into machine code, making it platform-dependent.\n\n○ Memory Management:\n  ○ Java: Automatic garbage collection handles memory management.\n  ○ C++: Uses manual memory management with `new` and `delete` operators.\n\n○ Multiple Inheritance:\n  ○ Java: Supports multiple inheritance using interfaces.\n  ○ C++: Supports multiple inheritance directly.\n\n○ Pointers:\n  ○ Java: Does not support pointers explicitly for security and simplicity.\n  ○ C++: Supports pointers for direct memory manipulation.\n\n○ Compilation and Interpretation:\n  ○ Java: Compiled into bytecode and executed by the JVM.\n  ○ C++: Compiled directly into machine code by a compiler.\n\n○ Exception Handling:\n  ○ Java: Provides built-in exception handling using `try`, `catch`, and `finally`.\n  ○ C++: Also supports exception handling, but without the `finally` block.\n\n○ Performance:\n  ○ Java: Slightly slower due to bytecode interpretation by the JVM.\n  ○ C++: Faster since it is compiled directly to machine code.\n\n○ Use Cases:\n  ○ Java: Preferred for web applications, mobile development, and enterprise software.\n  ○ C++: Used in system programming, game development, and real-time applications.\n\n○ Operator Overloading:\n  ○ Java: Does not support operator overloading.\n  ○ C++: Allows operator overloading for custom operations.\n\n○ Thread Support:\n  ○ Java: Built-in thread support using the `Thread` class and `Runnable` interface.\n  ○ C++: Requires external libraries like `pthread` for multithreading.",
+          "isImportant": false
+        },
+        {
+          "question": "20. Explain various methods of String class.",
+          "answer": "String class in Java provides various methods to manipulate and process strings.\n\n○ `length()`: Returns the number of characters in the string.\nExample:\n\n○ `charAt(int index)`: Returns the character at the specified index.\nExample:\n\n○ `concat(String str)`: Appends the given string to the existing string.\nExample:\n\n○ `equals(Object obj)`: Compares two strings for equality.\nExample:\n\n○ `equalsIgnoreCase(String str)`: Compares two strings, ignoring case differences.\nExample:\n\n○ `toUpperCase()`: Converts the string to uppercase.\nExample:\n\n○ `toLowerCase()`: Converts the string to lowercase.\nExample:\n\n○ `substring(int beginIndex)`: Returns a substring from the given index.\nExample:\n\n○ `substring(int beginIndex, int endIndex)`: Returns a substring between specified indexes.\nExample:\n\n○ `replace(char oldChar, char newChar)`: Replaces all occurrences of a character with another character.\nExample:",
+          "code": "public class StringMethodsExample {\n    public static void main(String[] args) {\n        String str = \"Hello World\";\n        \n        // length() method\n        System.out.println(str.length()); // Output: 11\n        \n        // charAt() method\n        System.out.println(str.charAt(1)); // Output: e\n        \n        // concat() method\n        System.out.println(str.concat(\" Java\")); // Output: Hello World Java\n        \n        // equals() method\n        System.out.println(str.equals(\"Hello World\")); // Output: true\n        \n        // equalsIgnoreCase() method\n        System.out.println(str.equalsIgnoreCase(\"hello world\")); // Output: true\n        \n        // toUpperCase() method\n        System.out.println(str.toUpperCase()); // Output: HELLO WORLD\n        \n        // toLowerCase() method\n        System.out.println(str.toLowerCase()); // Output: hello world\n        \n        // substring() method\n        System.out.println(str.substring(6)); // Output: World\n        \n        // substring() with start and end index\n        System.out.println(str.substring(0, 5)); // Output: Hello\n        \n        // replace() method\n        System.out.println(str.replace('o', 'a')); // Output: Hella Warld\n    }\n}",
+          "isImportant": true
+        },
+        {
+          "question": "21. What is the significance of the throws keyword? Give an example.",
+          "answer": "○ The `throws` keyword in Java is used in method declarations to indicate that a method might throw one or more exceptions.\n\n○ It helps propagate checked exceptions, ensuring that they are handled either by the caller method or using a try-catch block.\n\n○ It is used to delegate exception handling to the calling method instead of handling it inside the method.\n\n○ `throws` is mainly used for checked exceptions, ensuring that the compiler forces handling of exceptions at compile-time.\n\nExample:\n\n○ Consider a method that divides two numbers but might cause an `ArithmeticException` when dividing by zero.",
+          "code": "public class ThrowsExample {\n    // Method declaring that it may throw an exception\n    public static int divide(int a, int b) throws ArithmeticException {\n        if (b == 0) {\n            throw new ArithmeticException(\"Cannot divide by zero\");\n        }\n        return a / b;\n    }\n\n    public static void main(String[] args) {\n        try {\n            int result = divide(10, 0); // This will throw an exception\n            System.out.println(\"Result: \" + result);\n        } catch (ArithmeticException e) {\n            System.out.println(\"Exception caught: \" + e.getMessage());\n        }\n    }\n}",
+          "isImportant": false
+        },
+        {
+          "question": "22. Explain Shift operators with an example.",
+          "answer": "○ Shift operators in Java are used to shift bits of a number to the left or right, affecting its binary representation and value.\n\n○ There are three types of shift operators in Java:\n\n○ Left Shift (`<<`): Shifts bits to the left, filling empty spaces with 0, effectively multiplying the number by 2 for each shift.\n\n○ Signed Right Shift (`>>`): Shifts bits to the right, filling empty spaces with the sign bit (0 for positive, 1 for negative), effectively dividing the number by 2 for each shift.\n\n○ Unsigned Right Shift (`>>>`): Shifts bits to the right, filling empty spaces with 0, irrespective of the sign, mainly used for handling unsigned values.\n\nExample:\n\n○ The following program demonstrates shift operators in Java.",
+          "code": "public class ShiftOperatorsExample {\n    public static void main(String[] args) {\n        int num = 8; // Binary: 00001000\n\n        // Left shift (<<): Multiplies by 2\n        int leftShift = num << 2; // 8 * 2^2 = 32 (Binary: 00100000)\n        System.out.println(\"Left Shift: \" + leftShift);\n\n        // Signed right shift (>>): Divides by 2\n        int rightShift = num >> 2; // 8 / 2^2 = 2 (Binary: 00000010)\n        System.out.println(\"Right Shift: \" + rightShift);\n\n        // Unsigned right shift (>>>): Works the same for positive numbers\n        int unsignedRightShift = num >>> 2; // 8 / 2^2 = 2 (Binary: 00000010)\n        System.out.println(\"Unsigned Right Shift: \" + unsignedRightShift);\n    }\n}",
+          "isImportant": false
+        },
+        {
+          "question": "23. Write a program that accepts a number from the command line and displays individual digits at an interval of 10 seconds.",
+          "answer": "○ This Java program takes a number as input from the command line, extracts its digits, and displays each digit with a 10-second delay using `Thread.sleep(10000)`. It ensures proper handling of command-line arguments and error handling for non-numeric input.",
+          "code": "public class DisplayDigits {\n    public static void main(String[] args) {\n        if (args.length != 1) {\n            System.out.println(\"Usage: java DisplayDigits <number>\");\n            return;\n        }\n        \n        String number = args[0];\n        \n        for (char digit : number.toCharArray()) {\n            if (!Character.isDigit(digit)) {\n                System.out.println(\"Invalid input! Please enter a valid number.\");\n                return;\n            }\n        }\n        \n        System.out.println(\"Displaying digits with a 10-second interval:\");\n        \n        for (char digit : number.toCharArray()) {\n            System.out.println(digit);\n            try {\n                Thread.sleep(10000); // 10-second delay\n            } catch (InterruptedException e) {\n                System.out.println(\"Thread interrupted\");\n            }\n        }\n    }\n}",
+          "isImportant": false
+        },
+        {
+          "question": "24. Explain Static Method, Static Variable, and Static Block in detail with Example.",
+          "answer": "○ In Java, the `static` keyword is used to define class-level members that belong to the class rather than instances of the class. These members include static methods, static variables, and static blocks.\n\n○ Static Method:\n  ○ A static method belongs to the class rather than any specific object.\n  ○ It can be called without creating an instance of the class.\n  ○ It can only access static data members and other static methods.\n  ○ It cannot use `this` or `super` keywords.\n  ○ Example: `Math.pow()` is a static method in Java.\n\n○ Static Variable:\n  ○ A static variable is shared among all instances of a class.\n  ○ It is created when the class is loaded and remains in memory until the program terminates.\n  ○ It helps in memory management by reducing memory usage.\n  ○ Example: A counter variable to track the number of objects created.\n\n○ Static Block:\n  ○ A static block is executed once when the class is loaded.\n  ○ It is used to initialize static variables.\n  ○ It runs before the main method or any object creation.\n\n○ Example Program:",
+          "code": "class StaticExample {\n    static int count = 0; // Static variable\n    \n    // Static block\n    static {\n        System.out.println(\"Static block executed\");\n        count = 100; // Initializing static variable\n    }\n    \n    // Static method\n    static void displayCount() {\n        System.out.println(\"Count: \" + count);\n    }\n    \n    public static void main(String[] args) {\n        StaticExample.displayCount(); // Calling static method\n    }\n}",
+          "isImportant": true
+        },
+        {
+          "question": "25. Explain super and this keyword in Java.",
+          "answer": "In Java, the 'super' and 'this' keywords are used to refer to objects and manage inheritance and object references.\nHere’s a detailed explanation of both.\n\no 'this' Keyword: Refers to the current object in a method or constructor.\nIt is used to differentiate between instance variables and parameters with the same name, access instance methods, or invoke another constructor of the same class.\nFor example, 'this.name = name' assigns the parameter to the instance variable.\n\n\n'super' Keyword: Refers to the immediate parent class object.\nIt is used to call the parent class’s constructor, access parent class methods, or access parent class variables, especially when they are overridden in the child class.\nFor example, 'super()' calls the parent class constructor.\n\n\nKey Differences: 'this' points to the current class instance, while 'super' points to the parent class.\nBoth are essential for managing object-oriented concepts like inheritance and constructor chaining.\n\n\nConclusion: 'this' and 'super' enhance code clarity and enable proper inheritance handling in Java, making them vital for object-oriented programming.",
+          "code": "class Parent {\n    String name = \"Parent\";\n    Parent() {\n        System.out.println(\"Parent Constructor\");\n    }\n}\n\nclass Child extends Parent {\n    String name = \"Child\";\n    Child() {\n        super(); // Calls parent constructor\n        System.out.println(\"Child Constructor\");\n    }\n\n    void display() {\n        System.out.println(this.name); // Refers to current object's name\n        System.out.println(super.name); // Refers to parent class's name\n    }\n}\n\npublic class Main {\n    public static void main(String[] args) {\n        Child c = new Child();\n        c.display();\n\n        // Output:\n        // Parent Constructor\n        // Child Constructor\n        // Child\n        // Parent\n    }\n}",
+          "isImportant": true
+        },
+        {
+          "question": "26. Explain constructor overloading in Java.",
+          "answer": "Constructor overloading in Java allows a class to have multiple constructors with different parameter lists.\nThis enables object creation in various ways based on the arguments provided.\n\no Definition: Constructors with the same name but different parameters (in number, type, or order) are overloaded.\nIt provides flexibility in initializing objects.\n\n\nWorking: When an object is created, Java matches the arguments to the appropriate constructor based on the parameter list.\nFor example, a class can have a default constructor (no parameters) and a parameterized constructor.\n\n\nBenefits: It allows different ways to initialize objects without needing separate method names.\nIt improves code readability and reusability.\n\n\nRules: Overloaded constructors must differ in the number, type, or order of parameters.\nThey cannot differ only by return type, as constructors don’t have return types.\n\n\nConclusion: Constructor overloading is a key feature in Java, enabling flexible object creation and enhancing code modularity.",
+          "code": "class Student {\n    String name;\n    int age;\n\n    // Default constructor\n    Student() {\n        name = \"Unknown\";\n        age = 0;\n        System.out.println(\"Default Constructor: \" + name + \", \" + age);\n    }\n\n    // Overloaded constructor with name\n    Student(String n) {\n        name = n;\n        age = 0;\n        System.out.println(\"Name Constructor: \" + name + \", \" + age);\n    }\n\n    // Overloaded constructor with name and age\n    Student(String n, int a) {\n        name = n;\n        age = a;\n        System.out.println(\"Full Constructor: \" + name + \", \" + age);\n    }\n}\n\npublic class Main {\n    public static void main(String[] args) {\n        Student s1 = new Student();\n        Student s2 = new Student(\"Alice\");\n        Student s3 = new Student(\"Bob\", 20);\n\n        // Output:\n        // Default Constructor: Unknown, 0\n        // Name Constructor: Alice, 0\n        // Full Constructor: Bob, 20\n    }\n}",
+          "isImportant": false
+        },
+        {
+          "question": "27. Explain Exception handling in Java with example.",
+          "answer": "Exception handling in Java manages runtime errors, ensuring the program runs smoothly despite issues like division by zero or file not found.\nIt uses a structured mechanism to catch and handle exceptions.\n\no Try-Catch Block: Code that might throw an exception is placed in a 'try' block, and the 'catch' block handles the exception if it occurs.\n\n\nThrow and Throws: 'throw' is used to explicitly throw an exception, while 'throws' declares that a method can throw exceptions.\n\n\nFinally Block: Executes code (e.g., closing resources) regardless of whether an exception occurs, ensuring cleanup.\n\n\nTypes of Exceptions: Checked exceptions (e.g., IOException) are checked at compile-time, while unchecked exceptions (e.g., ArithmeticException) occur at runtime.\n\n\nConclusion: Exception handling improves program reliability by gracefully managing errors, preventing crashes, and ensuring resource cleanup.",
+          "code": "public class Main {\n    public static void main(String[] args) {\n        try {\n            int a = 10, b = 0;\n            int result = a / b; // This will throw ArithmeticException\n            System.out.println(result);\n        } catch (ArithmeticException e) {\n            System.out.println(\"Error: Division by zero!\");\n        } finally {\n            System.out.println(\"Finally block executed.\");\n        }\n\n        // Output:\n        // Error: Division by zero!\n        // Finally block executed.\n    }\n}",
+          "isImportant": true
+        },
+        {
+          "question": "28. Differentiate between final, finalize, and finally in Java.",
+          "answer": "In Java, 'final', 'finalize', and 'finally' are distinct concepts with different purposes.\nHere’s a detailed comparison.\n\no Final: A keyword used to apply restrictions.\nIt makes a variable constant, prevents method overriding, or stops class inheritance (e.g., 'final int x = 10').\n\n\nFinalize: A method in the Object class, called by the garbage collector before an object is destroyed.\nIt’s used to clean up resources (e.g., closing files), but its use is discouraged due to unpredictability.\n\n\nFinally: A block used in exception handling, executed after try-catch, regardless of whether an exception occurs.\nIt ensures cleanup tasks (e.g., closing a file) are performed.\n\n\nKey Differences: 'final' is for immutability, 'finalize' is for garbage collection, and 'finally' is for exception handling cleanup.\n\n\nConclusion: Understanding these concepts is crucial for writing robust Java programs, ensuring proper resource management and code structure.",
+          "code": "",
+          "isImportant": true
+        },
+        {
+          "question": "29. Write a program to accept string from command line & print total no of vowels and consonants.",
+          "answer": "This Java program accepts a string from the command line and counts the total number of vowels and consonants.\nIt processes the string character by character to classify them.\n\no Input: The program takes a string via command-line arguments.\n\n\nLogic: It iterates through each character, checks if it’s a letter, and classifies it as a vowel or consonant.\n\n\nOutput: Displays the count of vowels and consonants.\n\n\nConclusion: This program demonstrates string manipulation and conditional logic in Java, useful for text analysis tasks.",
+          "code": "public class Main {\n    public static void main(String[] args) {\n        if (args.length == 0) {\n            System.out.println(\"Please provide a string.\");\n            return;\n        }\n\n        String str = args[0].toLowerCase(); // Convert to lowercase\n        int vowels = 0, consonants = 0;\n\n        for (char ch : str.toCharArray()) {\n            if (Character.isLetter(ch)) { // Check if it's a letter\n                if (ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u') {\n                    vowels++;\n                } else {\n                    consonants++;\n                }\n            }\n        }\n\n        System.out.println(\"Vowels: \" + vowels);\n        System.out.println(\"Consonants: \" + consonants);\n\n        // Sample Output for: java Main \"Hello\"\n        // Vowels: 2\n        // Consonants: 3\n    }\n}",
+          "isImportant": false
+        },
+        {
+          "question": "30. Explain control statements in Java.",
+          "answer": "Control statements in Java manage the flow of execution in a program, allowing decisions, loops, and branching.\nHere are the main types.\n\no Conditional Statements: 'if', 'if-else', and 'switch' control execution based on conditions.\nFor example, 'if (x > 0)' executes a block if the condition is true.\n\n\nLooping Statements: 'for', 'while', and 'do-while' repeat a block of code.\nA 'for' loop iterates a fixed number of times, while 'while' loops until a condition is false.\n\n\nJump Statements: 'break', 'continue', and 'return' alter the flow.\n'break' exits a loop, 'continue' skips an iteration, and 'return' exits a method.\n\n\nNested Control: Control statements can be nested, like a 'for' loop inside an 'if' block, for complex logic.\n\n\nConclusion: Control statements are fundamental in Java, enabling dynamic and efficient program execution for various scenarios.",
+          "code": "",
+          "isImportant": false
+        },
+        {
+          "question": "31. What is an interface? Explain with example. How to achieve multiple inheritance in Java?",
+          "answer": "An interface in Java is a blueprint of a class, defining abstract methods that implementing classes must provide.\nIt supports abstraction and multiple inheritance.\n\no Definition: Declared with the 'interface' keyword, it contains abstract methods (and default/static methods since Java 8).\nClasses implement it using 'implements'.\n\n\nMultiple Inheritance: Java doesn’t allow multiple inheritance with classes due to the diamond problem, but interfaces achieve it.\nA class can implement multiple interfaces, inheriting their methods.\n\n\nExample: An interface 'Drawable' can be implemented by multiple classes, and a class can implement multiple interfaces like 'Drawable' and 'Printable'.\n\n\nConclusion: Interfaces enable abstraction, modularity, and multiple inheritance in Java, making them essential for flexible design.",
+          "code": "interface Drawable {\n    void draw();\n}\n\ninterface Printable {\n    void print();\n}\n\nclass Shape implements Drawable, Printable { // Multiple inheritance\n    public void draw() {\n        System.out.println(\"Drawing a shape\");\n    }\n\n    public void print() {\n        System.out.println(\"Printing a shape\");\n    }\n}\n\npublic class Main {\n    public static void main(String[] args) {\n        Shape s = new Shape();\n        s.draw();\n        s.print();\n\n        // Output:\n        // Drawing a shape\n        // Printing a shape\n    }\n}",
+          "isImportant": true
+        },
+        {
+          "question": "32. What is a Linked List? Explain Circular Linked List in Java with example.",
+          "answer": "A Linked List is a linear data structure where elements (nodes) are linked via pointers, not stored contiguously like arrays.\nEach node contains data and a reference to the next node.\n\no Circular Linked List: A variation where the last node points back to the first node, forming a loop.\nIt allows continuous traversal and is useful in applications like round-robin scheduling.\n\n\nAdvantages: No fixed size, easy insertion/deletion, and circular traversal.\n\n\nDisadvantages: No random access, and traversal can be complex if not handled properly.\n\n\nConclusion: Circular Linked Lists are efficient for cyclic operations, enhancing the flexibility of linked lists in Java.",
+          "code": "class Node {\n    int data;\n    Node next;\n\n    Node(int data) {\n        this.data = data;\n        this.next = null;\n    }\n}\n\nclass CircularLinkedList {\n    Node head;\n\n    // Insert at the end\n    void insert(int data) {\n        Node newNode = new Node(data);\n        if (head == null) {\n            head = newNode;\n            newNode.next = head;\n        } else {\n            Node temp = head;\n            while (temp.next != head) {\n                temp = temp.next;\n            }\n            temp.next = newNode;\n            newNode.next = head;\n        }\n    }\n\n    // Display the list\n    void display() {\n        if (head == null) return;\n        Node temp = head;\n        do {\n            System.out.print(temp.data + \" -> \");\n            temp = temp.next;\n        } while (temp != head);\n        System.out.println(\"(head)\");\n    }\n}\n\npublic class Main {\n    public static void main(String[] args) {\n        CircularLinkedList list = new CircularLinkedList();\n        list.insert(1);\n        list.insert(2);\n        list.insert(3);\n        list.display();\n\n        // Output:\n        // 1 -> 2 -> 3 -> (head)\n    }\n}",
+          "isImportant": false
+        }
+      ]
+    
+  }

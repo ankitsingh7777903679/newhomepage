@@ -1,0 +1,714 @@
+{
+    
+    "mcq": [
+      {
+        "question": "1. What is the purpose of XML?",
+        "options": [
+          "a) To store and transport data",
+          "b) To execute JavaScript code",
+          "c) To interact with databases",
+          "d) To create animations"
+        ],
+        "correctAnswer": "a",
+        "id": "wd-q1",
+        "isImportant": false
+      },
+      {
+        "question": "2. Which syntax is used to write a comment in XML?",
+        "options": [
+          "a) /* This is a comment */",
+          "b) <!-- This is a comment -->",
+          "c) # This is a comment",
+          "d) // This is a comment"
+        ],
+        "correctAnswer": "b",
+        "id": "wd-q2",
+        "isImportant": false
+      },
+      {
+        "question": "3. What is the main purpose of $(document).ready() in jQuery?",
+        "options": [
+          "a) To execute JavaScript immediately",
+          "b) To style HTML elements",
+          "c) To run code after the page is fully loaded",
+          "d) To declare global variables"
+        ],
+        "correctAnswer": "c",
+        "id": "wd-q3",
+        "isImportant": false
+      },
+      {
+        "question": "4. What does the jQuery css() method do?",
+        "options": [
+          "a) Creates new HTML elements",
+          "b) Defines a new CSS stylesheet",
+          "c) Retrieves or sets CSS properties of an element",
+          "d) Adds new JavaScript functionality"
+        ],
+        "correctAnswer": "c",
+        "id": "wd-q4",
+        "isImportant": false
+      },
+      {
+        "question": "5. Which of the following represents a valid JSON array?",
+        "options": [
+          "a) (1, 2, 3, 4, 5)",
+          "b) [1, 2, 3, 4, 5]",
+          "c) {1, 2, 3, 4, 5}",
+          "d) <1, 2, 3, 4, 5>"
+        ],
+        "correctAnswer": "b",
+        "id": "wd-q5",
+        "isImportant": false
+      },
+      {
+        "question": "6. What is the main difference between JSON and XML?",
+        "options": [
+          "a) JSON uses tags like XML",
+          "b) JSON is lightweight and easier to read than XML",
+          "c) XML is faster to parse than JSON",
+          "d) JSON cannot store structured data"
+        ],
+        "correctAnswer": "b",
+        "id": "wd-q6",
+        "isImportant": false
+      },
+      {
+        "question": "7. What is the role of the XMLHttpRequest object?",
+        "options": [
+          "a) To handle asynchronous communication with a server",
+          "b) To style HTML pages",
+          "c) To process CSS animations",
+          "d) To execute database queries"
+        ],
+        "correctAnswer": "a",
+        "id": "wd-q7",
+        "isImportant": false
+      },
+      {
+        "question": "8. What is the key difference between synchronous and asynchronous requests?",
+        "options": [
+          "a) Synchronous blocks further execution, asynchronous does not",
+          "b) Synchronous requests are always faster",
+          "c) Asynchronous blocks execution, synchronous does not",
+          "d) Both work in the same way"
+        ],
+        "correctAnswer": "a",
+        "id": "wd-q8",
+        "isImportant": false
+      },
+      {
+        "question": "9. What is the purpose of the require() function in Node.js?",
+        "options": [
+          "a) To perform database operations",
+          "b) To execute system commands",
+          "c) To define variables",
+          "d) To import modules"
+        ],
+        "correctAnswer": "d",
+        "id": "wd-q9",
+        "isImportant": false
+      },
+      {
+        "question": "10. What does the HTTP module in Node.js allow developers to do?",
+        "options": [
+          "a) Create web servers and handle HTTP requests",
+          "b) Manage JavaScript variables",
+          "c) Encrypt user passwords",
+          "d) Execute SQL queries"
+        ],
+        "correctAnswer": "a",
+        "id": "wd-q10",
+        "isImportant": false
+      },
+      {
+        "question": "11. Why is XML considered extensible?",
+        "options": [
+          "a) XML is faster than JSON",
+          "b) Users can define their own tags",
+          "c) XML can only use predefined tags",
+          "d) XML is not extensible"
+        ],
+        "correctAnswer": "b",
+        "id": "wd-q11",
+        "isImportant": false
+      },
+      {
+        "question": "12. What is a jQuery object?",
+        "options": [
+          "a) A new JavaScript framework",
+          "b) A programming language",
+          "c) A wrapper around DOM elements",
+          "d) A replacement for CSS"
+        ],
+        "correctAnswer": "c",
+        "id": "wd-q12",
+        "isImportant": false
+      },
+      {
+        "question": "13. Which of the following is a valid JSON data type?",
+        "options": [
+          "a) String",
+          "b) Function",
+          "c) Date",
+          "d) Undefined"
+        ],
+        "correctAnswer": "a",
+        "id": "wd-q13",
+        "isImportant": false
+      },
+      {
+        "question": "14. What is the purpose of the jQuery css() method?",
+        "options": [
+          "a) To create new HTML elements",
+          "b) To get or set CSS properties of an element",
+          "c) To interact with databases",
+          "d) To execute JavaScript functions"
+        ],
+        "correctAnswer": "b",
+        "id": "wd-q14",
+        "isImportant": false
+      },
+      {
+        "question": "15. How are arrays represented in JSON?",
+        "options": [
+          "a) Using angle brackets <>",
+          "b) Using curly braces {}",
+          "c) Using square brackets []",
+          "d) Using parentheses ()"
+        ],
+        "correctAnswer": "c",
+        "id": "wd-q15",
+        "isImportant": false
+      },
+      {
+        "question": "16. What does the fs.appendFile() method do in Node.js?",
+        "options": [
+          "a) Creates a new file only if it does not exist",
+          "b) Appends data to a file",
+          "c) Deletes a file",
+          "d) Renames a file"
+        ],
+        "correctAnswer": "b",
+        "id": "wd-q16",
+        "isImportant": false
+      },
+      {
+        "question": "17. What is the V8 engine used for in Node.js?",
+        "options": [
+          "a) Executes JavaScript code",
+          "b) Stores session data",
+          "c) Handles HTTP requests",
+          "d) Manages file system operations"
+        ],
+        "correctAnswer": "a",
+        "id": "wd-q17",
+        "isImportant": false
+      },
+      {
+        "question": "18. What does the readyState property indicate in XMLHttpRequest?",
+        "options": [
+          "a) The size of the response",
+          "b) The current state of an HTTP request",
+          "c) The content type of the request",
+          "d) The status of the server"
+        ],
+        "correctAnswer": "b",
+        "id": "wd-q18",
+        "isImportant": false
+      },
+      {
+        "question": "19. What are the request and response components in Node.js used for?",
+        "options": [
+          "a) Running JavaScript functions",
+          "b) Handling HTTP communication",
+          "c) Executing database queries",
+          "d) Managing file systems"
+        ],
+        "correctAnswer": "b",
+        "id": "wd-q19",
+        "isImportant": false
+      },
+      {
+        "question": "20. How can files be deleted using Node.js?",
+        "options": [
+          "a) Using fs.unlink()",
+          "b) Using fs.deleteFile()",
+          "c) Using fs.writeFile()",
+          "d) Using fs.appendFile()"
+        ],
+        "correctAnswer": "a",
+        "id": "wd-q20",
+        "isImportant": false
+      },
+      {
+        "question": "21. What is the purpose of the XML declaration?",
+        "options": [
+          "a) To define the XML version and encoding",
+          "b) To style the document",
+          "c) To connect to a database",
+          "d) To execute JavaScript code"
+        ],
+        "correctAnswer": "a",
+        "id": "wd-q21",
+        "isImportant": false
+      },
+      {
+        "question": "22. Which jQuery method displays hidden elements?",
+        "options": [
+          "a) fadeOut()",
+          "b) slideUp()",
+          "c) show()",
+          "d) hide()"
+        ],
+        "correctAnswer": "c",
+        "id": "wd-22",
+        "isImportant": false
+      },
+      {
+        "question": "23. What does AJAX primarily enable in web applications?",
+        "options": [
+          "a) Server-side rendering",
+          "b) Full page reloads",
+          "c) Static content delivery",
+          "d) Asynchronous data exchange"
+        ],
+        "correctAnswer": "d",
+        "id": "wd-23",
+        "isImportant": false
+      },
+      {
+        "question": "24. Which jQuery selector targets elements by their class?",
+        "options": [
+          "a) $('tagName')",
+          "b) $('.className')",
+          "c) $('[attribute]')",
+          "d) $('#id')"
+        ],
+        "correctAnswer": "b",
+        "id": "wd-24",
+        "isImportant": false
+      },
+      {
+        "question": "25. What is the primary function of the XMLHttpRequest object?",
+        "options": [
+          "a) To manage asynchronous HTTP requests",
+          "b) To generate animations",
+          "c) To store local data",
+          "d) To style web pages"
+        ],
+        "correctAnswer": "a",
+        "id": "wd-25",
+        "isImportant": false
+      },
+      {
+        "question": "26. How are user-defined modules exported in Node.js?",
+        "options": [
+          "a) Using the 'module' keyword",
+          "b) Using the 'exports' keyword",
+          "c) Using the 'import' keyword",
+          "d) Using the 'require' keyword"
+        ],
+        "correctAnswer": "b",
+        "id": "wd-26",
+        "isImportant": false
+      },
+      {
+        "question": "27. In JSON, how is an array of objects represented?",
+        "options": [
+          "a) With square brackets []",
+          "b) With curly braces {}",
+          "c) With angle brackets <>",
+          "d) With parentheses ()"
+        ],
+        "correctAnswer": "a",
+        "id": "wd-27",
+        "isImportant": false
+      },
+      {
+        "question": "28. What is the root element in an XML document?",
+        "options": [
+          "a) The last element in the document",
+          "b) The element with no parent",
+          "c) The first element after the declaration",
+          "d) The element with the most attributes"
+        ],
+        "correctAnswer": "b",
+        "id": "wd-28",
+        "isImportant": false
+      },
+      {
+        "question": "29. Which field is NOT typically part of an employee JSON object?",
+        "options": [
+          "a) empCode",
+          "b) browserHistory",
+          "c) designation",
+          "d) fullName"
+        ],
+        "correctAnswer": "b",
+        "id": "wd-29",
+        "isImportant": false
+      },
+      {
+        "question": "30. What does the Node.js 'fs' module primarily handle?",
+        "options": [
+          "a) File system operations",
+          "b) User authentication",
+          "c) Network requests",
+          "d) Database connections"
+        ],
+        "correctAnswer": "a",
+        "id": "wd-30",
+        "isImportant": false
+      },
+      {
+        "question": "31. Which JSON data type represents an ordered list?",
+        "options": [
+          "a) Array",
+          "b) Object",
+          "c) String",
+          "d) Boolean"
+        ],
+        "correctAnswer": "a",
+        "id": "wd-31",
+        "isImportant": false
+      },
+      {
+        "question": "32. Which jQuery event fires when a form is submitted?",
+        "options": [
+          "a) mouseover()",
+          "b) submit()",
+          "c) click()",
+          "d) change()"
+        ],
+        "correctAnswer": "b",
+        "id": "wd-32",
+        "isImportant": false
+      },
+      {
+        "question": "33. Which library mimics jQuery syntax in Node.js?",
+        "options": [
+          "a) Cheerio",
+          "b) Express",
+          "c) Axios",
+          "d) Lodash"
+        ],
+        "correctAnswer": "a",
+        "id": "wd-33",
+        "isImportant": false
+      },
+      {
+        "question": "34. What is a multi-dimensional array in JSON?",
+        "options": [
+          "a) An array containing other arrays",
+          "b) An array with key-value pairs",
+          "c) An array containing objects",
+          "d) An array with a single value"
+        ],
+        "correctAnswer": "a",
+        "id": "wd-34",
+        "isImportant": false
+      },
+      {
+        "question": "35. Which jQuery method inserts content at the beginning of an element?",
+        "options": [
+          "a) prepend()",
+          "b) append()",
+          "c) before()",
+          "d) after()"
+        ],
+        "correctAnswer": "a",
+        "id": "wd-35",
+        "isImportant": false
+      },
+      {
+        "question": "36. In XML, how must attributes be enclosed?",
+        "options": [
+          "a) Single or double quotes (' or \")",
+          "b) Curly braces {}",
+          "c) Square brackets []",
+          "d) Parentheses ()"
+        ],
+        "correctAnswer": "a",
+        "id": "wd-36",
+        "isImportant": false
+      },
+      {
+        "question": "37. What is a key difference between JSON and XML?",
+        "options": [
+          "a) JSON is lightweight, XML is more verbose",
+          "b) JSON uses tags, XML uses key-value pairs",
+          "c) JSON is more verbose than XML",
+          "d) JSON is platform-dependent, XML is not"
+        ],
+        "correctAnswer": "a",
+        "id": "wd-37",
+        "isImportant": false
+      },
+      {
+        "question": "38. What is a core feature of Node.js?",
+        "options": [
+          "a) Asynchronous event-driven model",
+          "b) Built-in browser support",
+          "c) Blocking I/O operations",
+          "d) Multi-threaded processing"
+        ],
+        "correctAnswer": "a",
+        "id": "wd-38",
+        "isImportant": false
+      },
+      {
+        "question": "39. What does the fs.writeFile() method do in Node.js?",
+        "options": [
+          "a) Deletes a file",
+          "b) Writes or overwrites file content",
+          "c) Reads file contents",
+          "d) Renames a file"
+        ],
+        "correctAnswer": "b",
+        "id": "wd-39",
+        "isImportant": false
+      }
+    ],
+    "onemarks": [
+      {
+        "question": "1. What is XML? Write down rules for XML declaration.",
+        "answer": "XML (eXtensible Markup Language) is a markup language designed to store and transport data in a structured format. It allows developers to organize data in a simple, hierarchical structure that is readable by both humans and machines. XML is commonly used for data interchange between different platforms or systems.\n\nRules for XML Declaration:\n\n○ Start and End: The XML declaration must begin with `<?xml` and end with `?>`\n\n○ Version Attribute: The `version` attribute is mandatory and specifies the XML version (e.g., `version=\"1.0\"`)\n\n○ Encoding Attribute (Optional): Specifies the character encoding used, like `encoding=\"UTF-8\"`. This is recommended for compatibility\n\n○ Standalone Attribute (Optional): Specifies whether the XML document depends on external DTD (`standalone=\"yes\"` or `standalone=\"no\"`)\n\n○ No Extra Characters: The XML declaration must be the very first line of the document without any whitespace or special characters before it\n\n○ Proper Attribute Order: Attributes in the declaration should follow this order: version, encoding, and standalone\n\nBy adhering to these rules, you ensure that the XML document is well-formed and complies with standard specifications.",
+        "code": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?>\n<root>\n    <data>Example Content</data>\n</root>",
+        "isImportant": false
+      },
+      {
+        "question": "2. What is a comment? How to add comments in XML?",
+        "answer": "In XML, a comment is a line or block of text included in the document to provide explanations or notes for developers. Comments are ignored by the XML parser and do not appear in the output, ensuring they do not affect the functioning of the XML document.\n\nPurpose of Comments in XML:\n\n○ Provide documentation or explanations within the XML code\n\n○ Help developers understand the structure or purpose of the XML\n\n○ Temporarily disable certain parts of the XML code for debugging or testing\n\nHow to Add Comments in XML:\n\n○ XML comments begin with `<!--` and end with `-->`\n\n○ They can span multiple lines but cannot be nested within another comment\n\nExample:\n```xml\n<!-- This is a single-line comment -->\n<data>\n    <!-- This is a multi-line comment\n         explaining the XML structure -->\n    <item>Example</item>\n</data>\n```",
+        "code": "<!-- This is a comment in XML -->\n<root>\n    <child>Example Content</child>\n</root>",
+        "isImportant": false
+      },
+      {
+        "question": "3. Explain $(document).ready() function with example.",
+        "answer": "$(document).ready() is a jQuery function that ensures the DOM (Document Object Model) is fully loaded and ready before executing any JavaScript or jQuery code. It prevents issues caused by attempting to manipulate elements before they are available in the DOM.\n\nKey Features:\n\n○ Ensures the script runs only after the HTML structure is completely loaded\n\n○ Prevents JavaScript errors caused by uninitialized DOM elements\n\n○ Useful for running initialization code, event binding, or DOM manipulation safely",
+        "code": "<!DOCTYPE html>\n<html>\n<head>\n    <title>$(document).ready() Example</title>\n    <script src=\"https://code.jquery.com/jquery-3.6.0.min.js\"></script>\n    <script>\n        $(document).ready(function() {\n            $(\"#btn\").click(function() {\n                $(\"#message\").text(\"The DOM is fully loaded and jQuery works!\");\n            });\n        });\n    </script>\n</head>\n<body>\n    <button id=\"btn\">Click Me</button>\n    <p id=\"message\"></p>\n</body>\n</html>",
+        "isImportant": false
+      },
+      {
+        "question": "4. What is the use of css() method of jQuery?",
+        "answer": "The `css()` method in jQuery is used to get or set the CSS properties of HTML elements. It allows developers to modify the style dynamically at runtime, providing flexibility in styling the elements based on interactions or conditions.\n\nKey Uses:\n\n○ Get CSS Properties: Retrieve the current value of a specific CSS property\n\n○ Set CSS Properties: Apply a single CSS property or multiple properties to selected elements dynamically\n\n○ Chaining Capabilities: Use with other jQuery methods for streamlined code execution\n\nSyntax:\n```javascript\n// To get the value of a property\n$(selector).css(propertyName);\n\n// To set a single property\n$(selector).css(propertyName, value);\n\n// To set multiple properties\n$(selector).css({\n    propertyName1: value1,\n    propertyName2: value2,\n    ...\n});\n```",
+        "code": "$(document).ready(function() {\n    let bgColor = $('#myElement').css('background-color');\n    console.log('Background color:', bgColor);\n    $('#myElement').css('color', 'blue');\n    $('#myElement').css({\n        'background-color': 'yellow',\n        'font-size': '20px'\n    });\n});",
+        "isImportant": false
+      },
+      {
+        "question": "5. What is JSON? How to create an array of numbers in JSON?",
+        "answer": "JSON (JavaScript Object Notation) is a lightweight data-interchange format that is easy to read and write for humans and easy to parse and generate for machines. It is widely used for exchanging data between client and server in web applications.",
+        "code": "const jsonArray = {\n    \"numbers\": [1, 2, 3, 4, 5]\n};\nconsole.log(jsonArray.numbers);",
+        "isImportant": false
+      },
+      {
+        "question": "6. What is the difference between JSON and XML?",
+        "answer": "JSON (JavaScript Object Notation) and XML (eXtensible Markup Language) are both formats for representing structured data, but they differ in design, readability, and use cases:\n\n○ Format: JSON: Lightweight and concise format for data representation. XML: Verbose and uses a tag-based structure\n\n○ Readability: JSON: Easier for humans to read and write. XML: More complex and harder to read due to excessive use of tags\n\n○ Data Type Support: JSON: Supports various data types like numbers, strings, booleans, arrays, objects, and null. XML: Represents everything as text; type inference is necessary\n\n○ Structure: JSON: Uses a key-value pair model that is intuitive and minimal. XML: Uses nested elements to represent data, resembling a tree-like structure\n\n○ Usage: JSON: Frequently used in APIs and data interchange between web clients and servers. XML: Commonly used in document storage and configurations\n\n○ Parsing: JSON: Faster and maps directly to JavaScript objects, enhancing performance. XML: Slower due to its complex nature and dependency on parsing libraries\n\n○ Extensibility: JSON: Limited extensibility. XML: Allows custom tags, making it highly extensible\n\n○ Metadata Handling: JSON: Metadata is embedded directly into the structure. XML: Attributes are used to hold metadata\n\n○ Whitespace Handling: JSON: Ignores most whitespace. XML: Whitespace is considered significant and can affect parsing",
+        "code": "",
+        "isImportant": false
+      },
+      {
+        "question": "7. List out various properties of XMLHttpRequest object.",
+        "answer": "The XMLHttpRequest object is used to interact with servers and exchange data asynchronously. It is commonly employed in AJAX programming for making HTTP requests and receiving responses dynamically.\n\n○ readyState: Indicates the current state of the XMLHttpRequest. Values range from 0 to 4 (e.g., 0: UNSENT, 4: DONE)\n\n○ status: Provides the HTTP status code of the server response (e.g., 200 for OK, 404 for Not Found)\n\n○ statusText: Gives a text description of the HTTP status code (e.g., 'OK', 'Not Found')\n\n○ responseText: Contains the server response as a text string\n\n○ responseXML: Returns the server response as an XML document if applicable\n\n○ responseType: Specifies the expected type of data in the response (e.g., 'text', 'json', 'document')\n\n○ timeout: Sets or retrieves the time in milliseconds after which a request times out\n\n○ onreadystatechange: Defines a function to be executed whenever the readyState changes\n\n○ withCredentials: Indicates whether credentials such as cookies or authorization headers should be sent with cross-site requests",
+        "code": "",
+        "isImportant": false
+      },
+      {
+        "question": "8. What is the difference between synchronous and asynchronous requests?",
+        "answer": "Synchronous and asynchronous requests vary in how they process requests and manage the execution flow in programming applications.\n\nSynchronous Requests:\n\n○ Requests are processed in a sequential manner, blocking further execution until the current request is completed\n\n○ They may cause delays since other tasks must wait for the request's response to continue\n\nAsynchronous Requests:\n\n○ Requests are processed without blocking further execution, allowing other tasks to proceed simultaneously while waiting for a response\n\n○ They use callbacks, promises, or async/await to handle responses without interrupting the program's flow",
+        "code": "var result = httpRequest('GET', '/data');\nconsole.log(result);\nhttpRequest('GET', '/data', function(result) {\n    console.log(result);\n});\nconsole.log('Request made, waiting for response.');",
+        "isImportant": false
+      },
+      {
+        "question": "9. Explain require() function of Node.js?",
+        "answer": "The `require()` function in Node.js is a fundamental feature of the CommonJS module system. It is used to include and utilize modules in an application. These modules can be built-in Node.js modules, community-based modules, or user-defined modules. It helps in organizing code and enhances reusability in Node.js applications.",
+        "code": "var http = require('http');\nconst myModule = require('./myModule');\nvar module = require('module_name');",
+        "isImportant": false
+      },
+      {
+        "question": "10. Explain the HTTP module of Node.js?",
+        "answer": "The HTTP module in Node.js enables developers to create HTTP servers and clients. It provides essential tools for building web applications that transfer data using the HyperText Transfer Protocol (HTTP). This module allows Node.js to handle HTTP requests asynchronously, making it an integral part of web development.",
+        "code": "var http = require('http');\nhttp.createServer(function (req, res) {\n    res.write('Hello World!');\n    res.end();\n}).listen(8080);\nhttp.createServer(function (req, res) {\n    res.writeHead(200, {'Content-Type': 'text/html'});\n    res.write('<h1>Hello World!</h1>');\n    res.end();\n}).listen(8080);",
+        "isImportant": false
+      },
+      {
+        "question": "11. How XML is Extensible?",
+        "answer": "XML is extensible because:\n\n1. XML allows users to define their own tags based on specific needs.\n2. It provides a structured format that can be easily modified and extended.\n3. It is self-descriptive, meaning tags define the meaning of data.\n4. XML works across different applications and platforms.\n5. XML supports validation using DTD (Document Type Definition) and XML Schema.",
+        "code": "",
+        "isImportant": false
+      },
+      {
+        "question": "12. What is jQuery Object?",
+        "answer": "A jQuery object is a special wrapper around DOM elements that enables easy manipulation using jQuery methods.\n\n1. It stores one or more DOM elements.\n2. It allows applying multiple jQuery methods using method chaining.\n3. It optimizes performance by applying operations to the entire selection.",
+        "code": "var para = $(\"p\");\npara.css(\"color\", \"blue\");",
+        "isImportant": false
+      },
+      {
+        "question": "13. What are the data types used in JSON?",
+        "answer": "JSON supports the following data types:\n\n1. String (e.g., \"Hello World\")\n2. Number (e.g., 100, 3.14)\n3. Boolean (true or false)\n4. Null (empty value)\n5. Object (key-value pairs, like a dictionary)\n6. Array (a collection of values, like [1,2,3])",
+        "code": "var jsonData = {\n    \"name\": \"John\",\n    \"age\": 30,\n    \"isStudent\": false\n};",
+        "isImportant": false
+      },
+      {
+        "question": "14. Explain css() property of jQuery.",
+        "answer": "The `css()` method in jQuery is used to get or set the CSS properties of an element.\n\n1. It allows adding inline styles dynamically.\n2. It can retrieve the value of a specific CSS property.\n3. It supports multiple property modifications at once.",
+        "code": "$(\"p\").css(\"color\", \"red\");",
+        "isImportant": false
+      },
+      {
+        "question": "15. What are JSON Arrays?",
+        "answer": "JSON arrays are used to store multiple values in a single key.\n\n1. JSON arrays can hold strings, numbers, objects, or even other arrays.\n2. They are enclosed in square brackets [].\n3. They allow structured data storage in JSON format.",
+        "code": "var jsonArray = [\"Apple\", \"Banana\", \"Cherry\"];",
+        "isImportant": false
+      },
+      {
+        "question": "16. What is fs.appendFile() method?",
+        "answer": "The `fs.appendFile()` method in Node.js is used to append data to an existing file. If the file does not exist, it creates a new one.\n\n1. It is part of the `fs` (File System) module.\n2. It supports both synchronous and asynchronous operations.\n3. It is useful for logging and adding content without overwriting the file.",
+        "code": "var fs = require('fs');\nfs.appendFile('log.txt', 'New log entry\\n', function (err) {\n    if (err) throw err;\n    console.log('Data appended successfully');\n});",
+        "isImportant": false
+      },
+      {
+        "question": "17. What are the components of Node.js?",
+        "answer": "Node.js consists of the following core components:\n\n1. V8 Engine: Executes JavaScript code.\n2. Event Loop: Handles asynchronous operations.\n3. Libuv: Provides support for event-driven I/O.\n4. Node Package Manager (NPM): Manages dependencies.\n5. Core Modules: Built-in modules like HTTP, FS, and Path.",
+        "code": "console.log(process.version);",
+        "isImportant": false
+      },
+      {
+        "question": "18. What is readyState property?",
+        "answer": "The `readyState` property in JavaScript is used to check the state of an XMLHttpRequest.\n\n1. It has values from 0 to 4.\n2. 0: UNSENT - Request not initialized.\n3. 1: OPENED - Server connection established.\n4. 2: HEADERS_RECEIVED - Headers received.\n5. 3: LOADING - Loading response.\n6. 4: DONE - Operation completed.",
+        "code": "var xhr = new XMLHttpRequest();\nxhr.open(\"GET\", \"data.json\", true);\nxhr.onreadystatechange = function() {\n    if (xhr.readyState === 4 && xhr.status === 200) {\n        console.log(xhr.responseText);\n    }\n};\nxhr.send();",
+        "isImportant": false
+      },
+      {
+        "question": "19. What are request and response components of Node.js?",
+        "answer": "In Node.js, HTTP requests and responses are handled by the HTTP module.\n\n1. Request (`req`): Contains information about the client request.\n2. Response (`res`): Used to send data back to the client.\n3. The request includes headers, body, and query parameters.\n4. The response includes status codes, headers, and response data.",
+        "code": "var http = require('http');\nhttp.createServer(function (req, res) {\n    res.writeHead(200, {'Content-Type': 'text/plain'});\n    res.end('Hello, this is a response!');\n}).listen(8080);",
+        "isImportant": false
+      },
+      {
+        "question": "20. How the files can be deleted using Node.js?",
+        "answer": "In Node.js, the `fs.unlink()` method is used to delete files.\n\n1. It is part of the `fs` (File System) module.\n2. It deletes the specified file from the system.\n3. It supports both synchronous and asynchronous operations.",
+        "code": "var fs = require('fs');\nfs.unlink('example.txt', function (err) {\n    if (err) throw err;\n    console.log('File deleted successfully');\n});",
+        "isImportant": false
+      }
+    ]
+  ,
+  
+    "long": [
+      {
+        "question": "1. Explain XML syntax for declaration, tags, and elements.",
+        "answer": "XML syntax establishes rules for creating structured and well-formed XML documents. It includes the following components:\n\n○ XML Declaration: Declares the XML version and optionally specifies the character encoding and standalone attributes\n\n○ XML Tags: Tags define the document structure and enclose data or elements with an opening and closing tag\n\n○ XML Elements: Elements are the building blocks of an XML document. They may contain text, nested elements, or both. Empty elements are allowed and must be self-closed",
+        "code": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<greeting>Hello, XML!</greeting>\n<book>\n    <title>XML Basics</title>\n    <author>John Doe</author>\n</book>",
+        "isImportant": false
+      },
+      {
+        "question": "2. Explain various methods related to jQuery effects.",
+        "answer": "jQuery provides a rich set of methods to create and manage effects, making web pages more interactive and visually appealing. These methods are often used to manipulate the visibility, opacity, position, or animation of HTML elements.\n\n○ show(): Displays the selected elements\n\n○ hide(): Hides the selected elements\n\n○ toggle(): Toggles the visibility of elements\n\n○ fadeIn(): Fades in the selected elements\n\n○ fadeOut(): Fades out the selected elements\n\n○ fadeToggle(): Toggles fade in and fade out\n\n○ slideDown(): Slides down the selected elements\n\n○ slideUp(): Slides up the selected elements\n\n○ slideToggle(): Toggles between sliding up and down\n\n○ animate(): Custom animations on elements",
+        "code": "$('#element').show();\n$('#element').hide();\n$('#element').toggle();\n$('#element').fadeIn();\n$('#element').fadeOut();\n$('#element').fadeToggle();\n$('#element').slideDown();\n$('#element').slideUp();\n$('#element').slideToggle();\n$('#element').animate({\n    left: '50px',\n    opacity: 0.5\n});",
+        "isImportant": false
+      },
+      {
+        "question": "3. Explain working of AJAX and its architecture.",
+        "answer": "AJAX (Asynchronous JavaScript and XML) is a web development technique used to create dynamic, responsive web pages by exchanging data with a web server asynchronously. It enables web applications to send and receive data without requiring a full page reload.\n\nAJAX Architecture Components:\n\n○ Browser: Sends user events (e.g., clicks, form submissions) and receives updated content dynamically without a page reload\n\n○ JavaScript: Handles asynchronous requests using the `XMLHttpRequest` object or the `Fetch API`. Processes the responses from the server and updates the web page content dynamically\n\n○ XMLHttpRequest Object: Manages the asynchronous communication between the browser and the server\n\n○ Web Server: Processes requests received from the client and sends appropriate responses (e.g., JSON, XML, HTML)\n\n○ Database: Stores and retrieves data requested by the server to deliver dynamic content",
+        "code": "const xhr = new XMLHttpRequest();\nxhr.open('GET', 'https://api.example.com/data', true);\nxhr.onload = function() {\n    if (xhr.status === 200) {\n        console.log(xhr.responseText);\n    }\n};\nxhr.send();",
+        "isImportant": false
+      },
+      {
+        "question": "4. Write a note on jQuery selectors.",
+        "answer": "jQuery selectors are used to select and manipulate HTML elements in a document. They are based on CSS selectors, making them intuitive and easy to use. jQuery selectors allow developers to perform actions on one or multiple elements by targeting them through their ID, class, attribute, or other properties.\n\nTypes of jQuery Selectors:\n\n○ Basic Selectors: Target elements based on tag names, IDs, or classes\n\n○ Hierarchy Selectors: Select elements based on their relationship to other elements\n\n○ Attribute Selectors: Target elements with specific attributes or attribute values\n\n○ Form Selectors: Specifically designed to target form elements\n\n○ Content Selectors: Select elements based on their content (e.g., text nodes)",
+        "code": "$('#elementID');\n$('.className');\n$('tagName');\n$('[attribute=\"value\"]');\n$('parent child');\n$(':input');",
+        "isImportant": false
+      },
+      {
+        "question": "5. Explain XMLHttpRequest technology.",
+        "answer": "XMLHttpRequest (XHR) technology is a web API that allows browsers to communicate with servers asynchronously. It is a core part of AJAX, enabling developers to create dynamic and interactive web applications by fetching and sending data without requiring a full page reload. XHR is capable of handling various data formats like JSON, XML, and plain text, making it versatile for modern web development.\n\nFeatures:\n\n○ Supports asynchronous and synchronous HTTP requests\n\n○ Compatible with various HTTP methods such as GET, POST, PUT, and DELETE\n\n○ Monitors progress and handles errors using event listeners like `onreadystatechange`\n\n○ Dynamically updates parts of a webpage without affecting its overall performance",
+        "code": "const xhr = new XMLHttpRequest();\nxhr.open('GET', 'https://api.example.com/data', true);\nxhr.onreadystatechange = function() {\n    if (xhr.readyState === 4 && xhr.status === 200) {\n        console.log(xhr.responseText);\n    }\n};\nxhr.send();",
+        "isImportant": false
+      },
+      {
+        "question": "6. Explain user-defined module in Node.js.",
+        "answer": "In Node.js, user-defined modules are JavaScript files that contain custom functionalities, allowing developers to reuse and organize code efficiently. These modules are created using the `exports` keyword, which enables functions, objects, or variables to be shared across different files by importing them with the `require` keyword. This promotes modular programming and better code management.",
+        "code": "exports.add = function(x, y) {\n    return x + y;\n};\nexports.sub = function(x, y) {\n    return x - y;\n};\nexports.mult = function(x, y) {\n    return x * y;\n};\nexports.div = function(x, y) {\n    return x / y;\n};\nconst calculator = require('./calc');\nlet x = 50, y = 20;\nconsole.log(\"Addition: \" + calculator.add(x, y));\nconsole.log(\"Subtraction: \" + calculator.sub(x, y));\nconsole.log(\"Multiplication: \" + calculator.mult(x, y));\nconsole.log(\"Division: \" + calculator.div(x, y));",
+        "isImportant": false
+      },
+      {
+        "question": "7. Explain with example how to create an array of objects in JSON.",
+        "answer": "In JSON, an array of objects consists of multiple objects grouped together within square brackets `[]`. Each object is enclosed in curly braces `{}` and contains key-value pairs. This structure is commonly used to represent complex data, such as a list of items or records.",
+        "code": "{\n    \"employees\": [\n        {\n            \"name\": \"John\",\n            \"age\": 30,\n            \"department\": \"HR\"\n        },\n        {\n            \"name\": \"Jane\",\n            \"age\": 25,\n            \"department\": \"Finance\"\n        },\n        {\n            \"name\": \"Mark\",\n            \"age\": 40,\n            \"department\": \"IT\"\n        }\n    ]\n}",
+        "isImportant": false
+      },
+      {
+        "question": "8. Create an XML document that represents semester-wise subjects taught in B.C.A. each subject has subject code and name associated with it.",
+        "answer": "Below is an example of an XML document representing semester-wise subjects in B.C.A.",
+        "code": "<semesters>\n    <semester id=\"1\">\n        <subject code=\"BCA101\">Mathematics</subject>\n        <subject code=\"BCA102\">Computer Fundamentals</subject>\n    </semester>\n    <semester id=\"2\">\n        <subject code=\"BCA201\">Programming in C</subject>\n        <subject code=\"BCA202\">Digital Logic</subject>\n    </semester>\n    <semester id=\"3\">\n        <subject code=\"BCA301\">Data Structures</subject>\n        <subject code=\"BCA302\">Database Management Systems</subject>\n    </semester>\n</semesters>",
+        "isImportant": false
+      },
+      {
+        "question": "9. Create a JSON object that represents details of 5 employees. Each employee has certain fields like empCode, fullName, salary, designation, birthDate, languagesknown, etc.",
+        "answer": "Below is an example of a JSON object with employee details.",
+        "code": "{\n    \"employees\": [\n        {\n            \"empCode\": \"E001\",\n            \"fullName\": \"John Doe\",\n            \"salary\": 50000,\n            \"designation\": \"Developer\",\n            \"birthDate\": \"1990-01-15\",\n            \"languagesKnown\": [\"English\", \"Spanish\"]\n        },\n        {\n            \"empCode\": \"E002\",\n            \"fullName\": \"Jane Smith\",\n            \"salary\": 60000,\n            \"designation\": \"Manager\",\n            \"birthDate\": \"1985-06-20\",\n            \"languagesKnown\": [\"English\", \"German\"]\n        },\n        {\n            \"empCode\": \"E003\",\n            \"fullName\": \"Emily Johnson\",\n            \"salary\": 55000,\n            \"designation\": \"Analyst\",\n            \"birthDate\": \"1992-09-10\",\n            \"languagesKnown\": [\"English\", \"French\"]\n        },\n        {\n            \"empCode\": \"E004\",\n            \"fullName\": \"Michael Brown\",\n            \"salary\": 52000,\n            \"designation\": \"Designer\",\n            \"birthDate\": \"1988-03-25\",\n            \"languagesKnown\": [\"English\", \"Italian\"]\n        },\n        {\n            \"empCode\": \"E005\",\n            \"fullName\": \"Sarah Wilson\",\n            \"salary\": 48000,\n            \"designation\": \"Tester\",\n            \"birthDate\": \"1994-11-05\",\n            \"languagesKnown\": [\"English\"]\n        }\n    ]\n}",
+        "isImportant": false
+      },
+      {
+        "question": "10. What is the Node.js File System Module?",
+        "answer": "The Node.js File System (fs) module provides a set of methods to work with files and directories on your computer. It enables operations such as reading, creating, updating, deleting, and renaming files. The module supports both synchronous and asynchronous methods, making it suitable for various use cases.",
+        "code": "const fs = require('fs');\nfs.readFile('example.txt', 'utf8', (err, data) => {\n    if (err) throw err;\n    console.log(data);\n});\nfs.writeFile('example.txt', 'Hello, World!', (err) => {\n    if (err) throw err;\n    console.log('File written successfully!');\n});\nfs.appendFile('example.txt', ' Additional content.', (err) => {\n    if (err) throw err;\n    console.log('Content appended successfully!');\n});\nfs.unlink('example.txt', (err) => {\n    if (err) throw err;\n    console.log('File deleted successfully!');\n});\nfs.rename('example.txt', 'new_example.txt', (err) => {\n    if (err) throw err;\n    console.log('File renamed successfully!');\n});",
+        "isImportant": false
+      },
+      {
+        "question": "11. Explain JSON Data Types in detail.",
+        "answer": "JSON (JavaScript Object Notation) is a lightweight data format used for exchanging and storing structured data. It supports six primary data types: String, Number, Boolean, Null, Object, and Array.\n\n○ String: Represents text, enclosed in double quotes (\"\").\n○ Number: Represents integers and floating-point numbers.\n○ Boolean: Represents logical values (true or false).\n○ Null: Represents an empty or missing value.\n○ Object: Represents key-value pairs enclosed in curly braces {}.\n○ Array: Represents an ordered list of values enclosed in square brackets [].",
+        "code": "{\n  \"name\": \"John Doe\",\n  \"age\": 30,\n  \"isStudent\": false,\n  \"address\": {\n    \"city\": \"New York\",\n    \"zipcode\": \"10001\"\n  },\n  \"hobbies\": [\"reading\", \"traveling\", \"coding\"]\n}",
+        "isImportant": false
+      },
+      {
+        "question": "12. Explain jQuery Events in detail.",
+        "answer": "jQuery provides a powerful event-handling mechanism that allows developers to attach and manage events efficiently. Events are actions or occurrences that happen in the browser, such as clicks, key presses, form submissions, and mouse movements. jQuery simplifies event binding, handling, and delegation, making event-driven programming more effective.\n\nTypes of jQuery Events:\n\n○ Mouse Events:\n  o click(): Triggers when an element is clicked.\n  o dblclick(): Fires when an element is double-clicked.\n  o mouseenter(), mouseleave(): Trigger when the mouse enters or leaves an element.\n  o mouseover(), mouseout(): Similar to mouseenter and mouseleave but bubbles up the DOM.\n  o mousedown(), mouseup(): Fires when a mouse button is pressed or released over an element.\n  o mousemove(): Fires when the mouse moves within an element.\n\n○ Keyboard Events:\n  o keydown(): Fires when a key is pressed down.\n  o keyup(): Fires when a key is released.\n  o keypress(): Triggers when a key is pressed (deprecated in modern browsers).\n\n○ Form Events:\n  o submit(): Triggers when a form is submitted.\n  o change(): Triggers when the value of an input field changes.\n  o focus(), blur(): Trigger when an element gains or loses focus.\n  o input(): Fires when a user types into an input field.\n\n○ Window Events:\n  o resize(): Triggers when the window is resized.\n  o scroll(): Fires when the page is scrolled.\n  o load(): Fires when the document has fully loaded.\n  o beforeunload(): Fires when the user tries to leave the page.\n\n○ Event Binding Methods:\n  o .on(): The recommended way to attach events (supports event delegation).\n  o .off(): Removes an event handler from an element.\n  o .one(): Attaches an event handler that executes only once per element.\n  o .trigger(): Manually triggers an event.\n  o .hover(): A shorthand for mouseenter and mouseleave.\n\n○ Event Delegation:\n  o Instead of binding an event to each child element, you bind it to a parent element and use .on().\n  o Improves performance and ensures events work on dynamically added elements.\n\nExample:\n  o Instead of binding an event to each button, bind it to the parent:\n  $(\"#parent\").on(\"click\", \".child\", function() {\n    alert(\"Child clicked!\");\n  });",
+        "code": "$(document).ready(function(){\n  $('#clickButton').click(function(){\n    alert(\"Button Clicked!\");\n  });\n  $('#dblclickButton').dblclick(function(){\n    alert(\"Button Double Clicked!\");\n  });\n  $('#box').mouseenter(function(){\n    $(this).css(\"background-color\", \"yellow\");\n  });\n  $('#box').mouseleave(function(){\n    $(this).css(\"background-color\", \"white\");\n  });\n  $('#box').mousemove(function(event){\n    $(this).text(\"Mouse at: \" + event.pageX + \", \" + event.pageY);\n  });\n  $('#textInput').keydown(function(){\n    console.log(\"Key is pressed.\");\n  });\n  $('#textInput').keyup(function(){\n    console.log(\"Key is released.\");\n  });\n  $('#textInput').keypress(function(){\n    console.log(\"Key is typed.\");\n  });\n  $('#myForm').submit(function(event){\n    event.preventDefault();\n    alert(\"Form Submitted!\");\n  });\n  $('#dropdown').change(function(){\n    alert(\"Dropdown changed to: \" + $(this).val());\n  });\n  $('#textInput').focus(function(){\n    $(this).css(\"background-color\", \"lightblue\");\n  });\n  $('#textInput').blur(function(){\n    $(this).css(\"background-color\", \"white\");\n  });\n  $(window).resize(function(){\n    console.log(\"Window resized.\");\n  });\n  $(window).scroll(function(){\n    console.log(\"Page scrolled.\");\n  });\n});",
+        "isImportant": false
+      },
+      {
+        "question": "13. jQuery string in Node.js?",
+        "answer": "jQuery is designed for browsers and does not run in Node.js. However, we can use the 'cheerio' library in Node.js, which provides jQuery-like syntax for handling HTML strings.",
+        "code": "const cheerio = require(\"cheerio\");\nconst htmlString = \"<div id='content'><p>Hello, <strong>Node.js</strong>!</p></div>\";\nconst $ = cheerio.load(htmlString);\n$(\"p\").append(\" How are you?\");\nconsole.log($(\"#content\").html());",
+        "isImportant": false
+      },
+      {
+        "question": "14. Write about JSON Array of objects and multi-dimensional arrays with examples.",
+        "answer": "JSON (JavaScript Object Notation) supports both arrays of objects and multi-dimensional arrays. These structures are widely used for representing hierarchical and relational data.\n\n1. o JSON Array of Objects:\n   o A JSON array of objects is a collection of multiple objects inside a single array.\n   o Each object contains key-value pairs representing structured data.\n   o Commonly used in APIs to store and transfer user details, products, etc.\n\n2. o Multi-Dimensional JSON Array:\n   o A multi-dimensional array is an array that contains other arrays.\n   o This structure is useful for representing tables, matrices, or nested lists.\n\n3. o Advantages:\n   o Easy to parse and manipulate using JavaScript.\n   o Compact and lightweight compared to XML.",
+        "code": "var employees = [\n    { \"name\": \"John\", \"age\": 30, \"designation\": \"Developer\" },\n    { \"name\": \"Jane\", \"age\": 28, \"designation\": \"Designer\" }\n];\nvar matrix = [\n    [1, 2, 3],\n    [4, 5, 6],\n    [7, 8, 9]\n];",
+        "isImportant": false
+      },
+      {
+        "question": "15. Write about Insert methods of jQuery.",
+        "answer": "jQuery provides several methods to insert content dynamically into the DOM. These methods allow developers to modify the HTML structure efficiently.\n\n1. o .append():\n   o Adds content at the end of the selected element.\n   o Useful for dynamically adding list items or paragraphs.\n\n2. o .prepend():\n   o Inserts content at the beginning of the selected element.\n   o Useful for placing headings or alerts at the top.\n\n3. o .after():\n   o Inserts content immediately after the selected element.\n   o Used to add additional details after a paragraph or div.\n\n4. o .before():\n   o Inserts content before the selected element.\n   o Useful for adding labels before input fields.",
+        "code": "$(\"#container\").append(\"<p>Appended paragraph</p>\");\n$(\"#container\").prepend(\"<p>Prepended paragraph</p>\");\n$(\"#container\").after(\"<p>Inserted after container</p>\");\n$(\"#container\").before(\"<p>Inserted before container</p>\");",
+        "isImportant": false
+      },
+      {
+        "question": "16. Write about syntax rules of XML Tags, Elements, and Attributes.",
+        "answer": "XML (Extensible Markup Language) follows strict syntax rules to structure and transport data.\n\n1. o XML Tags:\n   o Must be properly nested.\n   o Are case-sensitive (e.g., <Name> and <name> are different).\n   o Every opening tag must have a corresponding closing tag.\n\n2. o XML Elements:\n   o The main building blocks of XML.\n   o Can contain text, attributes, and other elements.\n   o Must have a single root element.\n\n3. o XML Attributes:\n   o Provide additional information about elements.\n   o Must be enclosed in quotes (\" or ').\n   o No duplicate attributes allowed in the same tag.\n\n4. o Well-Formed XML:\n   o Must follow all syntax rules strictly.\n   o Example of a correct XML document:",
+        "code": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<book>\n    <title>XML Guide</title>\n    <author name=\"John Doe\" />\n    <price currency=\"USD\">20.99</price>\n</book>",
+        "isImportant": false
+      },
+      {
+        "question": "17. Write about similarities and differences of JSON and XML.",
+        "answer": "JSON and XML are both widely used for data interchange, but they have key similarities and differences.\n\n1. o Similarities:\n   o Both store structured data.\n   o Both are platform-independent.\n   o Can be parsed and generated using various programming languages.\n\n2. o Differences:\n   o JSON is based on key-value pairs, while XML uses tags and attributes.\n   o JSON is lightweight and faster to parse, whereas XML is more verbose.\n   o JSON supports native JavaScript parsing, but XML requires additional processing.\n\n3. o Usage:\n   o JSON is preferred for web applications and APIs due to its simplicity.\n   o XML is widely used in document storage, configurations, and SOAP-based services.",
+        "code": "var person = { \"name\": \"John\", \"age\": 30, \"city\": \"New York\" };\n<person>\n    <name>John</name>\n    <age>30</age>\n    <city>New York</city>\n</person>",
+        "isImportant": false
+      },
+      {
+        "question": "18. Explain the features of Node.js.",
+        "answer": "Node.js is a JavaScript runtime built on Chrome's V8 engine that allows executing JavaScript code on the server side.\n\n1. o Asynchronous & Event-Driven:\n   o Handles multiple requests without blocking the execution.\n   o Uses an event loop for efficient processing.\n\n2. o Single-Threaded Model:\n   o Uses a single-threaded event loop to handle concurrent requests efficiently.\n   o Suitable for building scalable applications.\n\n3. o Non-Blocking I/O:\n   o Reads and writes data asynchronously, improving performance.\n\n4. o Fast Execution:\n   o Built on Google's V8 JavaScript engine, making it highly efficient.\n\n5. o Cross-Platform:\n   o Runs on Windows, Linux, and macOS.\n\n6. o Large Ecosystem:\n   o Uses npm (Node Package Manager) to install various modules.\n   o Has a large open-source community.",
+        "code": "const http = require('http');\nconst server = http.createServer((req, res) => {\n    res.writeHead(200, { 'Content-Type': 'text/plain' });\n    res.end('Hello, Node.js!');\n});\nserver.listen(3000, () => console.log('Server running on port 3000'));",
+        "isImportant": false
+      },
+      {
+        "question": "19. Explain fs.writeFile() and fs.readFile() methods of Node.js.",
+        "answer": "In Node.js, the 'fs' (File System) module provides methods for interacting with the file system, including reading and writing files asynchronously. Two of the most commonly used methods are fs.writeFile() and fs.readFile().\n\n○ fs.writeFile():\n  o Used to create or overwrite a file with the specified content.\n  o Asynchronous and non-blocking, ensuring better performance.\n  o If the file does not exist, it is automatically created.\n  o Takes three parameters: file path, data to write, and a callback function.\n  o Example usage:\n    fs.writeFile(\"example.txt\", \"Hello, Node.js!\", function(err) {\n      if (err) throw err;\n      console.log(\"File written successfully.\");\n    });\n\n○ fs.readFile():\n  o Used to read the contents of a file asynchronously.\n  o Prevents blocking the execution of other code.\n  o Takes three parameters: file path, encoding (optional), and a callback function.\n  o Example usage:\n    fs.readFile(\"example.txt\", \"utf8\", function(err, data) {\n      if (err) throw err;\n      console.log(\"File contents: \" + data);\n    });\n\n○ Key Differences:\n  o fs.writeFile() is used for writing data to a file, while fs.readFile() is used for reading data.\n  o Both methods are asynchronous and require callback functions.\n  o fs.readFile() requires an encoding parameter (optional) to return a readable string.\n\n○ Use Cases:\n  o fs.writeFile() is used for logging, configuration file updates, or saving user data.\n  o fs.readFile() is useful for reading JSON configurations, template files, or logs.",
+        "code": "const fs = require('fs');\nfs.writeFile('example.txt', 'Hello, Node.js!', function(err) {\n  if (err) throw err;\n  console.log('File written successfully.');\n  fs.readFile('example.txt', 'utf8', function(err, data) {\n    if (err) throw err;\n    console.log('File contents: ' + data);\n  });\n});",
+        "isImportant": false
+      }
+    ]
+  
+}

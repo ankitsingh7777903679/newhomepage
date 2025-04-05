@@ -855,6 +855,9 @@ body.dark-mode .carousel-indicators button.active {
   font-size: 1.8rem;
   margin-bottom: 20px;
 }
+body.dark-mode .cta-banner h3 {
+  color: #185B04;
+}
 
 .cta-banner .btn {
   background-color: #333;
@@ -1063,7 +1066,6 @@ body.dark-mode .navbar {
 body.dark-mode .hero-text h2,
 body.dark-mode .hero-text p,
 body.dark-mode .hero-text h3,
-body.dark-mode .course-headings,
 body.dark-mode .sample-questions h2,
 body.dark-mode .board-papers h2,
 body.dark-mode .college-papers h2,
@@ -1072,7 +1074,13 @@ body.dark-mode .feedback-section h2,
 body.dark-mode .testimonials-section h2,
 body.dark-mode .faq-section h2,
 body.dark-mode .exam-tips-section h2 {
-  color: #EAF9E1;
+  color: #c6d3be;
+}
+body.dark-mode .course-headings,
+body.dark-mode .board-papers h2,
+body.dark-mode .college-papers h2
+{
+  color: #185B04;
 }
 
 body.dark-mode .card {
@@ -1384,3 +1392,35 @@ body.dark-mode .exam-tip-card p {
     text-align: center;
   }
 }
+
+
+    .traffic-stats-section {
+      padding: 40px 0;
+      /* background-color: #f8f9fa; Light background to match other sections */
+    }
+
+    .traffic-stat-card {
+      text-align: center;
+      padding: 20px;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      /* background-color: #fff; */
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+      margin-bottom: 20px;
+    }
+
+    .traffic-stat-card h3 {
+      font-size: 2rem;
+      /* color: #007bff; Matches primary button color */
+      margin-bottom: 10px;
+    }
+
+    .traffic-stat-card p {
+      font-size: 1rem;
+      color: #666;
+      margin: 0;
+    }
+    body.dark-mode .traffic-stat-card p {
+      color: #C2FEA2;
+    }
+  
